@@ -1,36 +1,6 @@
 language: ruby
-sudo: false
-cache: bundler
 rvm:
-- 1.9.2
-- 1.9.3
 - 2.0.0
-- 2.1.0
-- 2.1.3
-- jruby
-os:
-- linux
-- osx
-matrix:
-  exclude:
-  - rvm: 1.8.7
-    os: osx
-  - rvm: 1.9.2
-    os: osx
-  - rvm: 2.1.0
-    os: osx
-  - rvm: jruby
-    os: osx
-deploy:
-  provider: rubygems
-  api_key:
-    secure: KcBpkFaes74KGMm8X/rRA8e13+t3PmkefsAvOAR+iF4g1GyuLSPkP92Fb9vFfsXBph+qmFh5rNa2lIRf/3RXW6COxY7CMMaARxUfJOKE0rmIwF0qfKI+RZDh6abg92iYngunMZVN8WVft6Lv9ZTOYCWxr1Zs1Ll/Rl4PfvHNd1g=
-  gem: travis
-  on:
-    repo: travis-ci/travis.rb
-    ruby: 2.0.0
-    condition: "$(uname) = Linux"
-env:
-  global:
-  - secure: Lu0xaw6f3pEupyActHrLPVwNmpbIF1mF+bFGda6KoJ3EsC4sICqZbWbSVPgTgP1llIwQXs/gZ0am0wmpygRjc2qHip/85t1Vx0fn2Mtf2AI8CkQotzVjR1ZsZQyG9TY+r/amtOTDQDVqcs5zjbkANbmDurSYPRm5yVDXXvbTznwS6OccyqRs1nak3wwgXHfXx46FkHDOw5v/Ys1Q4MF8y78Nmyyw58XJWuwke5GLAHS7fzOfNxy5rX02QS5lmwCEpDiHywJGiwSRexMYZ8qT8MRmR/pjetlUhb2bSUKq5dXM7l42Cl0xaDPpQ3l6t86U5RoXWGKmA0hn/gAMG1zDa+FyubwepwtX2KFnHWgIv4uhm9Nn4Jm2KNTedVBLeuhwrRGXl0NNyLUjXkwUJsLlvG5mcHuqD2M4QoPMuKAlK2/sIBjXEOZ8UxqjoxZlpW2ghSqS8/tTPVfDiZdSqbAc+rzIXzYuCKNirp8W0kL0+hapFoUxwaFFtkqFM+M7oKeG/VzS0ZJQKOY4yYPekhoEOdQd1VEUC5cwWPvBFgkz4hN/zxx3QXTbWHmllAp9lX2EIFZCf74WIABFt/l6oY2ZTo09NcWUYjWSVZJf9VHSQ2DjpQJcJvYKHYqyYS/Jm/9+0smjx7yYNkEqugbZJ1bD3jXi6quMJtmr8555qfGnqmU=
-  - secure: KSARzodZ4ofo1GNdQRqPrzk1V5SoYLLDfEwI7YNkaD3ju8R2ICqvhS146wawNj0Qj7BKOolVL7ylBb0dYTQVj6rbkGseE/YbLTYSUMbW37RPA/fqIERD9r2FT7jr2b5kU+GNCES8tDRDL+zyfvxZeTb2WmuytlgvzMt8zS54P0Uoc+A4Ow0t86hsk5hDfjSV0vnMZ4tgECstvxgzVCUgIOk3FwKd7KUu1pREoBSyF+VYWUfyIQ/RURRiSXdeU+WycxcnUk7R1/vGya5osNVOseTHFmDMAEiluBg5X4Zor9cwh3wtL9/WU2VPQ9Nf75ED+PDzWfdgjJc4ePk1b0a+0ivJL5u+Cj0AzZh9Gasz8wcPubFhNBi+iGrRRinYTUZjFDxnwJCDbpQs19zzCoInapFy485DYawgMJwCFI9C8lOwwMMjl/Y7XaYG4ZgiwnOrITOIyrhFKdupEF+4ZmsHx5xJLqWzeezD+AhIP5gdIznuQihBh3wguywazWXkxJD2l1CIcuUERrsifzMHJkONa6ItMAqkmedZ5u1/J+sMgyr1DsxPbclX/LOgiVERqhzRgiakTxKIgnQLi/49560oVMA+mrbbPVvxzg0xRKrk5W+tfyB34pVFRBK1zG43bWzy6jPC9BmhpF0Wvh7BicGdx2Ixml/Jgta+2aYgAWsASaI=
+- 1.9.3
+- jruby-19mode
+- rbx-2
