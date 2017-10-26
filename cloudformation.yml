@@ -1,6 +1,6 @@
 Parameters:
   BucketName:
-    Description: brivele.com
+    Description: brivele
     Type: String
     MinLength: 3
     MaxLength: 63
