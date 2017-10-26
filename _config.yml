@@ -1,11 +1,11 @@
-name: <name_of_site> 
+name: Brivele
 markdown: kramdown
 highligther: pygments
 timezone: <timezone>
 exclude: ['Gemfile', 'Gemfile.lock', '*.sublime-*', 'lib','vendor', 'Rakefile', 's3_website.yml']
 relative_permalinks: false
-url: <url>
-author: <author_name>
+url: brivele.com
+author: Hannah
 gems:
     - jekyll-feed
 sass:
