@@ -1,6 +1,8 @@
-language: ruby
-rvm:
-- 2.0.0
-- 1.9.3
-- jruby-19mode
-- rbx-2
+sudo: false
+language: node_js
+node_js:
+  - "5"
+install:
+  - npm install -g easystatic
+script:
+  - es deploy src --repo=hamavid.github.io/brivele --domain=brivele.com
