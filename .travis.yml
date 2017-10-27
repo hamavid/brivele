@@ -1,8 +1,0 @@
-sudo: false
-language: node_js
-node_js:
-  - "5"
-install:
-  - npm install -g easystatic
-script:
-  - es deploy src --repo=hamavid.github.io/brivele --domain=brivele.com
