@@ -1,7 +1,6 @@
 ---
 layout: page.html
+outdirs: '.'
 ---
-
-## BRIVELE
 
 Site coming soon!

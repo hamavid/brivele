@@ -1,7 +1,6 @@
 ---
 layout: page.html
+outdirs: '..'
 ---
-
-## A test!
 
 this is a test

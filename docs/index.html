@@ -1,33 +1,72 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8">
+    <meta charset='utf-8'>
     <!--<title>BRIVELE</title>
-    <meta name="description" content="Brivele is a local Seattle music trio bringing you the best in antifa klezmer punk-folk poke-funk mashups" />-->
+    <meta name='description' content='Brivele is a local Seattle music trio bringing you the best in antifa klezmer punk-folk poke-funk mashups' />-->
 	<title>BRIVELE</title>
-	<meta name="keywords" content="brivele, brivele.com, music, klezmer, Seattle, trio, band"/>
-	<link rel="icon" href="../images/favicon-32x32.png">
-	<meta name="viewport" content="width=device-width, initial-scale=1"/>
+	<meta name='keywords' content='brivele, brivele.com, music, klezmer, Seattle, trio, band'/>
+	<link rel='icon' href='../images/favicon-32x32.png'>
+	<meta name='viewport' content='width=device-width, initial-scale=1'/>
 	<!-- STYLES -->
-	<link rel="stylesheet" type="text/css" href="../css/general_style.css"/>
-	<link rel="stylesheet" type="text/css" href="../css/page.css"/>
-	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato"/>
-	<link rel="stylesheet" type="text/css" href="../css/font-awesome.min.css"/>
+	<link rel='stylesheet' type='text/css' href='../css/general_style.css'/>
+	<link rel='stylesheet' type='text/css' href='../css/page.css'/>
+	<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Lato'/>
+	<link rel='stylesheet' type='text/css' href='../css/font-awesome.min.css'/>
 	<style>
-	html,body,h1,h2,h3,h4,h5 {font-family: "Lato", sans-serif}
+	html,body,h1,h2,h3,h4,h5 {font-family: 'Lato', sans-serif}
 	.sidenav a,.sidenav h4 {font-weight:bold}
 	</style>
 	<!-- SCRIPTS -->
-	<script type="text/javascript" src="../js/googleanalytics.js"></script>
-	<script type="text/javascript" src="../js/jquery-3.1.1.min.js"></script>
+	<script type='text/javascript' src='../js/googleanalytics.js'></script>
+	<script type='text/javascript' src='../js/jquery-3.1.1.min.js'></script>
+	<script type='text/javascript' src='../js/general_fxns.js'></script>
 	</head>
 
 	<!--////////////////////////////////////////////////////////////////// -->
 
-	<body>
-      <h2 id="brivele">BRIVELE</h2>
-<p>Site coming soon!</p>
+<body class='content' style='max-width:1600px'>
 
+<!-- Sidenav/menu -->
+<nav class='sidenav collapse white animate-left' style='z-index:3;width:180px;' id='sidenav'><br>
+  <div class='container'>
+    <a href='#' onclick='close_sidenav()' class='hide-large right xxlarge' aria-label='Close menu'>
+      <i class='fa fa-times' aria-hidden='true'></i>
+    </a>
+    <!--<h1 class='padding-0'><b>ART</b></h1>-->
+    <!--<div class='padding-16'><img src='../../images/ART-bold-bgwhite.png' width='70px' alt-text='ART' title='Art'></div>-->
+  </div>
+  <a href='./' class='padding text-teal'>HOME</a>
+  <a href='./music' class='padding'>MUSIC</a>
+  <a href='./video' class='padding'>VIDEO</a>
+  <a href='./shows' class='padding'>SHOWS</a>
+   
+  <div class='section padding-top large'>
+    <a href='#' class='hover-white hover-text-red-orange show-inline-block' aria-label='Soundcloud'><i class='fa fa-soundcloud' aria-hidden='true'></i></a>
+    <a href='#' class='hover-white hover-text-facebook show-inline-block' aria-label='Facebook'><i class='fa fa-facebook'></i></a>
+    <a href='#' class='hover-white hover-text-bandcamp show-inline-block' aria-label='Bandcamp'><i class='fa fa-bandcamp'></i></a>
+  </div> 
+
+</nav>
+
+<!-- Overlay effect when opening sidenav on small screens -->
+<div class='overlay hide-large animate-opacity' onclick='close_sidenav()' style='cursor:pointer' title='close side menu' id='overlaySidenav'></div>
+
+<!-- !PAGE CONTENT! -->
+<div class='main' style='margin-left:180px'>
+
+  <!-- Header -->
+  <header class='container'>
+    <span class='opennav hide-large xxlarge hover-text-grey' onclick='open_sidenav()'><i class='fa fa-bars' style='margin-top:9px'></i></span>
+    <div class='center'><a href='#'><img src='./images/brivele.png' width='90%' style='margin-top:24px;max-width:450px;' alt-text='BRIVELE' title='BRIVELE'></a></div>
+    <nav class='center bottombar' style='padding-bottom:16px;'>
+    </nav>
+  </header>
+
+<div style='text-align:center'>
+      <p>Site coming soon!</p>
+
+      </div>
 </div>
 
 <!-- Footer -->
