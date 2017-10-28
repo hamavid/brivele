@@ -39,6 +39,7 @@ body{
 	-webkit-touch-callout: none;
 }
 .light-grey {color:#000!important;background-color:#f1f1f1!important}
+.light-orange {color:#000!important;background-color:#FDF0DF!important;}
 .content {max-width:980px;margin:auto}
 .sidenav {height:100%;width:200px;background-color:#fff;
 	position:fixed!important;z-index:1;overflow:auto}
@@ -59,7 +60,7 @@ body{
 .sidenav a:hover {background-color:#ccc;}
 @media screen and (max-width:992px) {
 	.sidenav.collapse {display:none}
-	.main {margin-left:0!important;margin-right:0!important}
+	.main,footer {margin-left:0!important;margin-right:0!important}
 	.overlay {margin-left:0!important;margin-right:0!important}
 }	
 /* show the sidenav on big screens without having to expand it*/
@@ -83,6 +84,7 @@ body{
 .text-teal,.hover-text-teal:hover{color:#009688!important}
 .text-orange,.hover-text-orange:hover{color:#ff8c00!important}
 .text-red-orange,.hover-text-red-orange:hover{color:#ff4500!important}
+.text-red-brown,.hover-text-red-brown:hover{color:#DC861A!important;}
 .section{margin-top:16px!important;margin-bottom:16px!important}
 .padding-top{padding-top:8px!important}
 .large{font-size:18px!important}
@@ -106,6 +108,7 @@ body{
 .xxlarge{font-size:36px!important}
 .center{text-align:center!important}
 .bottombar{border-bottom:6px solid #ccc!important}
+.bottombar-black{border-bottom:6px solid #000!important}
 .padding-16{padding-top:16px!important;padding-bottom:16px!important}
 .btn {
 	border:none;
