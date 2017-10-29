@@ -1,12 +1,1 @@
-name: brivele.com
-markdown: kramdown
-highligther: pygments
-timezone: 'Pacific Time (US & Canada)'
-exclude: ['Gemfile', 'Gemfile.lock', '*.sublime-*', 'lib','vendor', 'Rakefile', 's3_website.yml']
-relative_permalinks: false
 url: brivele.com
-author: Hannah
-gems:
-    - jekyll-feed
-sass:
-  style: compressed
