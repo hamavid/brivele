@@ -26,7 +26,8 @@ metalsmith(__dirname)
             directory: './layouts',
             pattern: ["*/*/*html","*/*html","*html"],
             partials: {
-              header: 'partials/pageheader',
+              pagehead: 'partials/pagehead',
+              pageheader: 'partials/pageheader',
               footer: 'partials/footer'
             }
         }))

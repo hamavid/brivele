@@ -1,5 +1,13 @@
-{{>header}}
-<div style='text-align:center'>
-      {{{ contents }}}
-      </div>
-{{>footer}}
+<!DOCTYPE html>
+<html>
+	{{>pagehead}}
+	<body>
+		{{>pageheader}}
+		<div class="page-content">
+		<div class="wrapper">
+		    {{{ contents }}}
+		</div>
+		</div>
+		{{>footer}}
+	</body>
+</html>
