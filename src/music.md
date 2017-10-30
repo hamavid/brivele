@@ -3,4 +3,4 @@ layout: page.html
 outdirs: '..'
 ---
 
-this is a test
+Music: we play it! Links to come.
