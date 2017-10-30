@@ -3,4 +3,4 @@ layout: page.html
 outdirs: '..'
 ---
 
-We play it! Links to come.
+It's what killed the radio star
