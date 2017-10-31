@@ -1,6 +1,7 @@
 ---
 layout: page.html
 outdirs: '..'
+title: About
 ---
 <div id='blurb' class='clearfix'>
 <figure><img id='' src='../images/brivele-debut.jpg' width='350px'></figure>

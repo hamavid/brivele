@@ -1,6 +1,7 @@
 ---
 layout: page.html
 outdirs: '..'
+title: Shows
 ---
 
 ## Upcoming shows

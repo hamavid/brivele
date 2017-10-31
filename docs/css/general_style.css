@@ -1,5 +1,4 @@
 html,body{margin:0;padding:0;background-color:#FDF0DF;}
-.about-select{font-weight:bolder;font-size:1.4em;}
 body {
   	text-align:center;
   	font-size:100%;
@@ -29,7 +28,7 @@ figcaption {font-size:0.8em;font-style:italic;}
 
 
 /* control look and behavior of navbar and its contents for diff window sizes */
-.bignavlinks {margin-bottom:1em;}
+.bignavlinks {margin:1em;}
 .bignavlinks a {padding:0.2em 1em 0.2em 1em;height:1.1em;border-radius:5px;}
 nav a{
 	color:black;
@@ -47,10 +46,10 @@ nav a{
 	text-align:center;
 	background-color:#FDF0DF;
 	border-bottom:1px solid black;
-	margin-bottom:-2px;
+	margin-bottom:2px;
 }
 .smallnavlinks ul {list-style:none;margin:0px;padding:0px;}
-.smallnavlinks li {border-bottom:1px solid black;}
+.smallnavlinks li {border-bottom:1px solid black;text-align: center!important}
 .smallnavlinks li:hover{background-color:#f9d6a9;}
 .overlay{
 	position:fixed;
@@ -82,7 +81,8 @@ nav a{
 		background-color:#FDF0DF;
 		top:0
 	}
-	header h1{margin:10px 15px 10px 0;float:right;font-size:1.8em;}
+	/*header h1{margin:10px 15px 10px 0;float:right;font-size:1.8em;}*/
+	header h1{margin:5px 15px 0px 0;float:right;font-size:1.8em;}
 	.line{margin-top:57px;}
 	.wrapper{margin-top:57px!important;}
 	.bignavlinks {display:none;}
