@@ -1,7 +1,7 @@
 .about-select{font-weight:normal;font-size:1.2em;}
 .shows-select{font-weight:bolder;font-size:1.4em;}
 li{padding:1em 0 1em 0;}
-ul{padding-left:1em;}
+ul{padding-left:1em;text-align:left;}
 .page-content{max-width:700px;padding:1.5em;margin:auto;}
 @media only screen and (max-width:450px){
 	.page-content{padding:0.5em;margin:auto;}

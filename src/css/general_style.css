@@ -1,9 +1,11 @@
 html,body{margin:0;padding:0;background-color:#FDF0DF;}
+a,a:visited,a:hover,a:active{color:black;}
 body {
   	text-align:center;
   	font-size:100%;
   	padding:1em;
   	font-family:Lato, sans-serif;
+  	max-width:900px;margin:auto;
 }
 .wrapper{
 	text-align:center;
@@ -12,6 +14,7 @@ body {
 	padding:1em;
 }
 figure{margin:2% 5% 2% 0;}
+h1{margin:0;}h2{text-align: center}
 h1 a{color:#000;font-family:serif;text-decoration:none;font-size:1.5em;}
 .clearfix::after {
     content: "";
@@ -19,8 +22,10 @@ h1 a{color:#000;font-family:serif;text-decoration:none;font-size:1.5em;}
     display: table;
 }
 .line {width:90%;max-width:800px;margin:auto;border:1px solid black;}
-footer .line{margin-top:1em;}
-footer .cp {font-size:0.8em;padding-top:1em;}
+footer .cp,footer .socialmedia{padding:1em;}
+footer .line{margin-top:1em;width:100%;}
+footer .cp {font-size:0.8em;float:left;}
+footer .socialmedia{font-size:0.8em;float:right;}
 #blurb{max-width:800px;margin:auto;padding:1em;font-size:1.1em;}
 #blurb figure {float:left;}
 #blurb p {text-align:left;}
@@ -28,6 +33,7 @@ figcaption {font-size:0.8em;font-style:italic;}
 
 
 /* control look and behavior of navbar and its contents for diff window sizes */
+.about-select{font-weight:bolder;font-size:1.4em;}
 .bignavlinks {margin:1em;}
 .bignavlinks a {padding:0.2em 1em 0.2em 1em;height:1.1em;border-radius:5px;}
 nav a{
@@ -89,4 +95,5 @@ nav a{
     .navbar-bars{display:table!important;}
     .line{width:100%;}
     #blurb{padding:0;}
+    footer .cp,footer .socialmedia{float:none;text-align:center;}
 }
