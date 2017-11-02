@@ -1,1 +1,6 @@
 .about-select{font-weight:bolder;font-size:1.4em;}
+@media only screen and (max-width:650px){
+	#blurb figure{padding:0;margin:0;width:100%;}
+	#blurb figure img{max-width:100%;}
+	#blurb p{clear:left;padding-top:1em;}
+}
