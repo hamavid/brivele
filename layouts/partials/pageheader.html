@@ -1,27 +1,28 @@
 <header>
-  <h1><a href="/about">Brivele</a></h1>
+  <!--<h1><a href='/about'>Brivele</a></h1>-->
+  <div class='name'><a href='/about'><img src='../images/palindrome.png' title='BRIVELE' alt-text='BRIVELE'></a></div>
 
 <!--Navbar for big screens -->
-  <nav class="bignavlinks">
-	  <a class="about-select" href="/about">About</a>
-	  <a class="music-select" href="/music">Music</a>
-	  <a class="video-select" href="/video">Video</a>
-	  <a class="shows-select" href="/shows">Shows</a>
+  <nav class='bignavlinks'>
+	  <a class='about-select' href='/about'>About</a>
+	  <a class='music-select' href='/music'>Music</a>
+	  <a class='video-select' href='/video'>Video</a>
+	  <a class='shows-select' href='/shows'>Shows</a>
   </nav>
-  <div class="navbar-bars" style="display:none;cursor:pointer;" onclick="$('.smallnavlinks').slideToggle();$('#overlaybkgrnd').fadeToggle();"><i class="fa fa-bars fa-2x"></i> <span></span></div>
+  <div class='navbar-bars' style='display:none;cursor:pointer;' onclick="$('.smallnavlinks').slideToggle();$('#overlaybkgrnd').fadeToggle();"><i class='fa fa-bars fa-2x'></i> <span></span></div>
 
 <!-- bottom line -->
-	<p class="line"></p>
+	<p class='line'></p>
 
 <!-- Alt navbar (slide down from bars, for small screens) -->
-	<nav class="smallnavlinks" style="display:none;z-index:1">
+	<nav class='smallnavlinks' style='display:none;z-index:1'>
 	<ul>
-	  <a class="about-select" href="/about"><li>About</li></a>
-	  <a class="music-select" href="/music"><li>Music</li></a>
-	  <a class="video-select" href="/video"><li>Video</li></a>
-	  <a class="shows-select" href="/shows"><li>Shows</li></a>
+	  <a class='about-select' href='/about'><li>About</li></a>
+	  <a class='music-select' href='/music'><li>Music</li></a>
+	  <a class='video-select' href='/video'><li>Video</li></a>
+	  <a class='shows-select' href='/shows'><li>Shows</li></a>
 	</ul>
 	</nav>
 </header>
 <!-- Overlay effect when opening topnav on small screens -->
-<div class="overlay" style="cursor:pointer;z-index:0;" onclick="$('.smallnavlinks').slideToggle();$('#overlaybkgrnd').fadeToggle();" title="close menu" id="overlaybkgrnd"></div>
+<div class='overlay' style='cursor:pointer;z-index:0;' onclick="$('.smallnavlinks').slideToggle();$('#overlaybkgrnd').fadeToggle();" title='close menu' id='overlaybkgrnd'></div>

@@ -64,15 +64,12 @@ nav a{
 	top:0;left:0;right:0;bottom:0;
 	background-color:rgba(0,0,0,0.5);
 }
-
+.name img {position:relative;margin:auto;margin-top:0.8em;width:80%;max-width:450px}
 
 /* for small screens */
-@media only screen and (max-width:600px){
+@media only screen and (max-width:650px){
 	body{padding:0;}
 	#bignavlinks a{padding:4%;}
-	#blurb figure{padding:0;margin:0;width:100%;}
-	#blurb figure img{max-width:100%;}
-	#blurb p{clear:left;padding-top:1em;}
 }
 @media only screen and (min-width:451px){
 	.smallnavlinks{display:none;}
@@ -88,7 +85,8 @@ nav a{
 		top:0
 	}
 	/*header h1{margin:10px 15px 10px 0;float:right;font-size:1.8em;}*/
-	header h1{margin:5px 15px 0px 0;float:right;font-size:1.8em;}
+	/*header h1{margin:5px 15px 0px 0;float:right;font-size:1.8em;}*/
+	header .name img{max-width:175px;max-height:50px;margin:5px 15px 0px 0;float:right;}
 	.line{margin-top:57px;}
 	.wrapper{margin-top:57px!important;}
 	.bignavlinks {display:none;}
