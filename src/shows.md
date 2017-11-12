@@ -6,7 +6,7 @@ title: Shows
 
 ## Upcoming shows
 <ul>
-<li><span>**Sat Nov 18, 2017**</span><span>*[Cafe Paloma](http://www.cafepaloma.com/)*</span><span>With [Borys Kossakowski](www.kossakowski.art.pl) and [Todo Es](www.todoesjazz.com/) at Muhabbet, hosted by Peter Lippman</span></li>
+<li><span>**Sat Nov 18, 2017**</span><span>*[Cafe Paloma](http://www.cafepaloma.com/)*</span><span>With [Borys Kossakowski](http://www.kossakowski.art.pl) and [Todo Es](http://www.todoesjazz.com/) at Muhabbet, hosted by Peter Lippman</span></li>
 <li><span>**Sat Dec 16, 2017**</span><span>*[Columbia City Theater](http://www.columbiacitytheater.com/)*</span><span>Bubbe's Hanukkah party, with [The Debaucherauntes](https://www.facebook.com/thedebaucherauntes/) and others</span></li>
 </ul>
 
