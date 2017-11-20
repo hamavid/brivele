@@ -6,7 +6,7 @@ title: Shows
 
 ## Upcoming shows
 <ul>
-<li><span>**Sat Dec 16, 2017**</span><span>*[Columbia City Theater](http://www.columbiacitytheater.com/)*</span><span>Bubbe's Hanukkah party, with [The Debaucherauntes](https://www.facebook.com/thedebaucherauntes/) and others</span></li>
+<li><span>**Sat Dec 16, 2017**</span><span>*[Columbia City Theater](http://www.columbiacitytheater.com/)*</span><span>[Bubbe's Old-fashioned Hanukkah shindig](http://www.columbiacitytheater.com/events/49886022/the-6th-annual-bubbes-old-fashioned-hanukkah-shindig), with [The Debaucherauntes](https://www.facebook.com/thedebaucherauntes/) and others</span></li>
 </ul>
 
 
