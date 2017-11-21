@@ -1,14 +1,14 @@
 html,body{margin:0;padding:0;background-color:#FDF0DF;}
 a,a:visited,a:hover,a:active{color:black;}
 body {
-  	text-align:center;
+	text-align:center;
   	font-size:100%;
   	padding:1em;
   	font-family:Lato, sans-serif;
   	max-width:900px;margin:auto;
 }
 .wrapper{
-	text-align:center;
+	text-align:left;
 	max-width:800px;
 	margin:auto;
 	padding:1em;

@@ -1,2 +1,8 @@
 .about-select{font-weight:normal;font-size:1.2em;}
 .music-select{font-weight:bolder;font-size:1.4em;}
+
+.wrapper{text-align:center;}
+#soundcloudembed{
+	max-width:500px;
+	margin:auto;
+}
