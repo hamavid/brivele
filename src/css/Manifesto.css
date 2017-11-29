@@ -1,0 +1,4 @@
+.home-select{font-weight:normal;font-size:1.2em;}
+.manifesto-select{font-weight:bolder;font-size:1.4em;}
+@media only screen and (max-width:535px){.bignavlinks a.manifesto-select{font-size:1.2em!important;}}
+.wrapper{padding:2em;line-height:1.5em;}

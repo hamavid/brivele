@@ -35,7 +35,7 @@ figcaption {font-size:0.8em;font-style:italic;}
 
 /* control look and behavior of navbar and its contents for diff window sizes */
 .bignavlinks {margin:1em;}
-.bignavlinks a {padding:0.2em 1em 0.2em 1em;height:1.1em;border-radius:5px;}
+.bignavlinks a {padding:0.2em 1em;height:1.1em;border-radius:5px;}
 nav a{
 	color:black;
 	font-size:1.2em;
@@ -68,14 +68,17 @@ nav a{
 
 /* for small screens */
 @media only screen and (max-width:650px){
+	.bignavlinks a {padding:0.2em 0.6em;}
 	body{padding:0;}
-	#bignavlinks a{padding:4%;}
 }
-@media only screen and (min-width:451px){
+@media only screen and (max-width:535px){
+	.bignavlinks a {font-size:1em;} /* NOTE: change select-class in all page specific css if this max width or font size changes */
+}
+@media only screen and (min-width:461px){
 	.smallnavlinks{display:none;}
 	#overlaybkgrnd{display:none!important;}
 }
-@media only screen and (max-width:450px){
+@media only screen and (max-width:460px){
 	header{
 		height:57px;
 		position:fixed;
@@ -86,7 +89,7 @@ nav a{
 	}
 	/*header h1{margin:10px 15px 10px 0;float:right;font-size:1.8em;}*/
 	/*header h1{margin:5px 15px 0px 0;float:right;font-size:1.8em;}*/
-	header .name img{max-width:175px;max-height:50px;margin:5px 15px 0px 0;float:right;}
+	header .name img{max-width:175px;max-height:50px;margin:5px 15px 5px 0px;float:right;}
 	.line{margin-top:57px;}
 	.wrapper{margin-top:57px!important;}
 	.bignavlinks {display:none;}
@@ -95,4 +98,9 @@ nav a{
     #blurb{padding:0;}
     footer .cp,footer .socialmedia{float:none;text-align:center}
     footer .cp{padding:0.2em 1em 1em 1em;}footer .socialmedia{padding:1em 1em 0.2em 1em;}
+}
+@media only screen and (max-width:250px){
+	header .name img {display:none;}
+	.navbar-bars{width:100%;text-align:center;margin:0.8em 0em;}
+	.navbar-bars span{display:none;}
 }

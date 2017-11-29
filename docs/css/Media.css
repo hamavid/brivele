@@ -1,5 +1,6 @@
 .about-select{font-weight:normal;font-size:1.2em;}
 .media-select{font-weight:bolder;font-size:1.4em;}
+@media only screen and (max-width:535px){.bignavlinks a.media-select{font-size:1.2em!important;}}
 
 .wrapper{text-align:center;}
 #soundcloudembed{

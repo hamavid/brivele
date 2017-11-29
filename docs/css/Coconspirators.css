@@ -1,0 +1,3 @@
+.home-select{font-weight:normal;font-size:1.2em;}
+.cc-select{font-weight:bolder;font-size:1.4em;}
+@media only screen and (max-width:535px){.bignavlinks a.cc-select{font-size:1.2em!important;}}

@@ -1,25 +1,26 @@
 <header>
-  <!--<h1><a href='/about'>Brivele</a></h1>-->
-  <div class='name'><a href='/about'><img src='../images/palindrome.png' title='BRIVELE' alt-text='BRIVELE'></a></div>
+  <div class='navbar-bars' style='display:none;cursor:pointer;' onclick="$('.smallnavlinks').slideToggle();$('#overlaybkgrnd').fadeToggle();"><i class='fa fa-bars fa-2x'></i> <span></span></div>
+  <div class='name'><a href='/'><img src='../images/palindrome.png' title='BRIVELE' alt-text='BRIVELE'></a></div>
 
 <!--Navbar for big screens -->
   <nav class='bignavlinks'>
-	  <a class='about-select' href='/about'>About</a>
+  	  <a class='home-select' href='/'>Home</a>
+	  <a class='manifesto-select' href='/manifesto'>Manifesto</a>
 	  <a class='media-select' href='/media'>Media</a>
-	  <a class='links-select' href='/links'>Links</a>
+	  <a class='cc-select' href='/coconspirators'>Coconspirators</a>
 	  <a class='shows-select' href='/shows'>Shows</a>
   </nav>
-  <div class='navbar-bars' style='display:none;cursor:pointer;' onclick="$('.smallnavlinks').slideToggle();$('#overlaybkgrnd').fadeToggle();"><i class='fa fa-bars fa-2x'></i> <span></span></div>
-
+  
 <!-- bottom line -->
 	<p class='line'></p>
 
 <!-- Alt navbar (slide down from bars, for small screens) -->
 	<nav class='smallnavlinks' style='display:none;z-index:1'>
 	<ul>
-	  <a class='about-select' href='/about'><li>About</li></a>
+	  <a class='home-select' href='/'><li>Home</li></a>
+	  <a class='manifesto-select' href='/manifesto'><li>Manifesto</li></a>
 	  <a class='media-select' href='/media'><li>Media</li></a>
-	  <a class='links-select' href='/links'><li>Links</li></a>
+	  <a class='cc-select' href='/coconspirators'><li>Coconspirators</li></a>
 	  <a class='shows-select' href='/shows'><li>Shows</li></a>
 	</ul>
 	</nav>
