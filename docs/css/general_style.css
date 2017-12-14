@@ -21,7 +21,8 @@ h1 a{color:#000;font-family:serif;text-decoration:none;font-size:1.5em;}
     clear: both;
     display: table;
 }
-.line {width:90%;max-width:800px;margin:auto;border:1px solid black;}
+.line,footer {width:90%;max-width:800px;margin:auto;}
+.line{border:1px solid black;}
 footer .cp,footer .socialmedia{padding:1em;}
 footer span a{padding:0 1em 0 1em;}
 footer .line{margin-top:1em;width:100%;}
@@ -91,10 +92,10 @@ nav a{
 	/*header h1{margin:5px 15px 0px 0;float:right;font-size:1.8em;}*/
 	header .name img{max-width:175px;max-height:50px;margin:5px 15px 5px 0px;float:right;}
 	.line{margin-top:57px;}
+	.line,footer{width:100%;}
 	.wrapper{margin-top:57px!important;}
 	.bignavlinks {display:none;}
     .navbar-bars{display:table!important;}
-    .line{width:100%;}
     #blurb{padding:0;}
     footer .cp,footer .socialmedia{float:none;text-align:center}
     footer .cp{padding:0.2em 1em 1em 1em;}footer .socialmedia{padding:1em 1em 0.2em 1em;}
