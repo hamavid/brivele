@@ -1,3 +1,10 @@
 .home-select{font-weight:normal;font-size:1.2em;}
 .cc-select{font-weight:bolder;font-size:1.4em;}
-@media only screen and (max-width:535px){.bignavlinks a.cc-select{font-size:1.2em!important;}}
+
+.page-content ul{list-style-type:none;padding-left:5%;}
+.page-content li img{width:1em;height:1em;padding-right:0.8em;}
+.page-content ul li {margin: 1.2em 0em;}
+/* small screens */
+@media only screen and (max-width:535px){
+	.bignavlinks a.cc-select{font-size:1.2em!important;}
+}
