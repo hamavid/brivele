@@ -14,6 +14,9 @@
     height: 2.1em; text-align:left;
 }
 .page-content ul li span:last-child{width:50%;text-align:right;}
+.follow{text-align:center;color:#da810f;font-size:1.1em;}
+/*#ef9623*/
+
 
 @media only screen and (max-width:600px){
 	.page-content ul li span,.page-content ul li span:last-child{
