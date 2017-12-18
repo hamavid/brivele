@@ -7,7 +7,8 @@ title: Shows
 
 ## Upcoming shows
 <ul>
-<li><span>**Sat Jan 20, 2018**</span><span>*House show - message for address*</span><span>With friends TBA</span></li>
+<li><span>**Sat Jan 20, 2018**</span><span>*House show - message for address*</span><span>With <a href='http://sarahshay.com
+'>Sarah Shay</a> and other friends TBA</span></li>
 </ul>
 
 
