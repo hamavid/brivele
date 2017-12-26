@@ -7,4 +7,5 @@
 	max-width:500px;
 	margin:auto;
 }
-.playlist,.photo{padding:1.2em;line-height:2.3em;text-align:left;}
+.playlist,.photo{padding:1.2em;text-align:left;}
+.playlist span,.photo span{display:block;padding-bottom:0.5em;}

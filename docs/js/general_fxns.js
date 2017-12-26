@@ -1,10 +1,12 @@
-// Open and close sidenav
-  function open_sidenav() {
-      document.getElementById("sidenav").style.display = "block";
-      document.getElementById("overlaySidenav").style.display = "block";
-  }
-   
-  function close_sidenav() {
-      document.getElementById("sidenav").style.display = "none";
-      document.getElementById("overlaySidenav").style.display = "none";
-  }
+// open small nav menu on navbar click and show overlay, close when overlay is clicked or navbars are clicked again
+	function togglemenu() {
+		$('.smallnavlinks').slideToggle();$('#overlaybkgrnd').fadeToggle();
+	};
+	//$('.navbar-bars, .overlay').click(togglemenu());
+
+// swipe up to close menu
+ 	/*$('.smallnavlinks, .overlay').touchwipe({
+      wipeUp: function() {togglemenu()},
+      min_move_x: 20,min_move_y: 20,preventDefaultEvents: true
+    });
+*/

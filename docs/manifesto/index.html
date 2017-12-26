@@ -4,7 +4,7 @@
 	    <meta charset='utf-8'>
 	    <title>Manifesto | BRIVELE </title>
 		<!--<title>BRIVELE</title>-->
-		<meta name='keywords' content='brivele, brivele.com, music, klezmer, Seattle, trio, band'/>
+		<meta name='keywords' content='brivele, brivele.com, music, klezmer, Seattle, trio, band, brivele music, brivele band, Yiddish'/>
 		<link rel='icon' href='../images/favicon-32x32.png'>
 		<link rel='canonical' href='https://www.brivele.com/'>
 		<meta id='viewport' name='viewport' content='width=device-width, initial-scale=1'/>
@@ -25,12 +25,13 @@
 		</script>
 		<!-- SCRIPTS -->
 		<script type='text/javascript' src='../js/jquery-3.1.1.min.js'></script>
+		<script type='text/javascript' src='../js/jquery.touchwipe.min.js'></script>
 		<script type='text/javascript' src='../js/general_fxns.js'></script>
 	</head>
 	
 		<!--////////////////////////////////////////////////////////////////// -->	<body>
 		<header>
-		  <div class='navbar-bars' style='display:none;cursor:pointer;' onclick="$('.smallnavlinks').slideToggle();$('#overlaybkgrnd').fadeToggle();"><i class='fa fa-bars fa-2x'></i> <span></span></div>
+		  <div class='navbar-bars' onclick='togglemenu();'><i class='fa fa-bars fa-2x'></i> <span></span></div>
 		  <div class='name'><a href='/'><img src='../images/palindrome.png' title='BRIVELE' alt-text='BRIVELE'></a></div>
 		
 		<!--Navbar for big screens -->
@@ -46,7 +47,7 @@
 			<p class='line'></p>
 		
 		<!-- Alt navbar (slide down from bars, for small screens) -->
-			<nav class='smallnavlinks' style='display:none;z-index:1'>
+			<nav class='smallnavlinks'>
 			<ul>
 			  <a class='home-select' href='/'><li>Home</li></a>
 			  <a class='manifesto-select' href='/manifesto'><li>Manifesto</li></a>
@@ -57,7 +58,7 @@
 			</nav>
 		</header>
 		<!-- Overlay effect when opening topnav on small screens -->
-		<div class='overlay' style='cursor:pointer;z-index:0;' onclick="$('.smallnavlinks').slideToggle();$('#overlaybkgrnd').fadeToggle();" title='close menu' id='overlaybkgrnd'></div>
+		<div class='overlay' onclick='togglemenu();' title='close menu' id='overlaybkgrnd'></div>
 		<div class="page-content">
 		<div class="wrapper">
 		    <h2 id="a-discontented-punky-klezy-trio-of-yiddishists">A Discontented Punky-Klezy trio of Yiddishists</h2>
