@@ -7,13 +7,14 @@ title: Shows
 
 ## Upcoming shows
 <ul class='showslist'>
-<li><span>**Sat Jan 20, 2018**</span><span>*House show - message for address*</span><span>With <a href='http://sarahshay.com
-'>Sarah Shay</a> and other friends TBA</span></li>
+<li><span>**Sat Mar 3, 2018**</span><span>[Nii Modo Gallery](https://www.facebook.com/niimodo/)</span><span>MC-ing Kadima’s annual Purim party as Brief, with [The Debaucherauntes](https://www.facebook.com/thedebaucherauntes/) and Shpilkis</span></li>
 </ul>
 
 
 ## Past shows
 <ul class='showslist'>
+<li><span>**Sat Jan 20, 2018**</span><span>*House show - message for address*</span><span>With Sonya &amp; [Brian](http://www.countercurrentmusic.com/) and <a href='http://sarahshay.com'>Sarah Shay</a></span></li>
+<li><span>**Tue Jan 16, 2018**</span><span>[The Good Egg](https://www.goodeggbi.com/)</span><span>Playing as Brief for MOX: an Eastern Bloc Party, menu by [Mossback](http://www.mossbackcafe.com/new-index)</span></li>
 <li><span>**Sat Dec 16, 2017**</span><span>*[Columbia City Theater](http://www.columbiacitytheater.com/)*</span><span>Bubbe's Old-fashioned Hanukkah shindig  [(Tickets](http://www.columbiacitytheater.com/events/49886022/the-6th-annual-bubbes-old-fashioned-hanukkah-shindig), [Facebook)](https://www.facebook.com/events/1893384187657149/) with [The Debaucherauntes](https://www.facebook.com/thedebaucherauntes/) and others</span></li>
 <li><span>**Sat Nov 18, 2017**</span><span>*[Cafe Paloma](http://www.cafepaloma.com/)*</span><span>With [Borys Kossakowski](http://www.kossakowski.art.pl) and [Todo Es](http://www.todoesjazz.com/) at Muhabbet, hosted by Peter Lippman</span></li>
 <li><span>**Mon Oct 23, 2017**</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>With [Oddjob Ensemble](http://www.oddjobensemble.com/) and [The Debaucherauntes](https://www.facebook.com/thedebaucherauntes/)</span></li>
