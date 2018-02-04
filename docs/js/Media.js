@@ -67,7 +67,7 @@ $(document).ready(function(){
 	});
 	$('.rarr, .rightside').click(function() {iterate($(this).parent().parent().attr('id'), +1);});
 
-  // SWIPE  
+  // SWIPE  <!-- This does NOT WORK as of 1/28/18 - need to debug on phone -->
     $('.thisphoto').touchwipe({
       wipeLeft: function() {iterate($(this).parent().attr('id'), +1);},
       min_move_x: 20,min_move_y: 20,preventDefaultEvents: true
