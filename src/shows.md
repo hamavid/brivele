@@ -8,6 +8,7 @@ title: Shows
 ## Upcoming shows
 <ul class='showslist'>
 <li><span>**Sat Mar 3, 2018**</span><span>[Nii Modo Gallery](https://www.facebook.com/niimodo/)</span><span>MC-ing Kadima’s annual Purim party as Brief, with [The Debaucherauntes](https://www.facebook.com/thedebaucherauntes/) and Shpilkis</span></li>
+<li><span>**Tue May 1, 2018**</span><span>Bush House *(house show)*</span><span>With Sonya &amp; Brian and [Countercurrent](http://www.countercurrentmusic.com/)</span></li>
 </ul>
 
 
