@@ -9,6 +9,7 @@
 }
 .playlist,.photo{padding:1.2em;text-align:center;}
 .playlist span.caption,.photo span.caption{display:block;padding-bottom:0.5em;}
+.sale{text-align:center;color:#da810f;font-size:1.1em;}
 
 /*--- photo overlay ---*/
 .thisphoto{

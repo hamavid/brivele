@@ -2,6 +2,8 @@
 @media only screen and (max-width:535px){.bignavlinks a.home-select{font-size:1.2em!important;}}
 
 figcaption {font-size:0.8em;font-style:italic;}
+.sale{color:#da810f;}
+
 @media only screen and (max-width:650px){
 	#blurb figure{padding:0;margin:0;width:100%;text-align:center;}
 	#blurb figure img{max-width:100%;}
