@@ -7,8 +7,8 @@ title: Shows
 
 ## Upcoming shows
 <ul class='showslist'>
-<li><span>**Tue May 1, 2018**</span><span>*Bush House (house show)*</span><span>With Sonya &amp; Brian and [Countercurrent](http://www.countercurrentmusic.com/)</span></li>
-<li><span>**Sat May 19, 2018**</span><span>*Kadima*</span><span>Shavuot - Havdallah</span></li>
+<li><span>**Tue May 1, 2018**</span><span>*House show, Central District - message for address*</span><span>With Sonya &amp; Brian and [Countercurrent](http://www.countercurrentmusic.com/)</span></li>
+<li><span>**Sat May 19, 2018**</span><span>*[Kadima](http://www.kadima.org/)*</span><span>Shavuot - Havdallah</span></li>
 <li><span>**Mon May 28, 2018, 12:30-1pm**</span><span>*Seattle Center, [Fisher Green Stage](https://www.nwfolklife.org/experience/festival-map-2017/)*</span><span>[Northwest Folklife Festival](https://www.nwfolklife.org/festival/)</span></li>
 <li><span>**Sat Jun 23, 2018**</span><span>*[Cafe Paloma](http://www.cafepaloma.com/)*</span><span>Album release show!</span></li>
 <!--<li><span>**Wed Jul 25, 2018**</span><span>*Stef's yard*</span><span>Bye Candace</span></li>-->
@@ -18,7 +18,7 @@ title: Shows
 ## Past shows
 <ul class='showslist'>
 <li><span>**Sat Mar 3, 2018**</span><span>*[Nii Modo Gallery](https://www.facebook.com/niimodo/)*</span><span>MC-ing Kadima’s annual Purim party as Brief, with [The Debaucherauntes](https://www.facebook.com/thedebaucherauntes/) and Shpilkis</span></li>
-<li><span>**Sat Jan 20, 2018**</span><span>*House show - message for address*</span><span>With Sonya &amp; [Brian](http://www.countercurrentmusic.com/) and <a href='http://sarahshay.com'>Sarah Shay</a></span></li>
+<li><span>**Sat Jan 20, 2018**</span><span>*House show, Udistrict - message for address*</span><span>With Sonya &amp; [Brian](http://www.countercurrentmusic.com/) and <a href='http://sarahshay.com'>Sarah Shay</a></span></li>
 <li><span>**Tue Jan 16, 2018**</span><span>*[The Good Egg](https://www.goodeggbi.com/)*</span><span>Playing as Brief for MOX: an Eastern Bloc Party, menu by [Mossback](http://www.mossbackcafe.com/new-index)</span></li>
 <li><span>**Sat Dec 16, 2017**</span><span>*[Columbia City Theater](http://www.columbiacitytheater.com/)*</span><span>Bubbe's Old-fashioned Hanukkah shindig  [(Tickets](http://www.columbiacitytheater.com/events/49886022/the-6th-annual-bubbes-old-fashioned-hanukkah-shindig), [Facebook)](https://www.facebook.com/events/1893384187657149/) with [The Debaucherauntes](https://www.facebook.com/thedebaucherauntes/) and others</span></li>
 <li><span>**Sat Nov 18, 2017**</span><span>*[Cafe Paloma](http://www.cafepaloma.com/)*</span><span>With [Borys Kossakowski](http://www.kossakowski.art.pl) and [Todo Es](http://www.todoesjazz.com/) at Muhabbet, hosted by Peter Lippman</span></li>
