@@ -1,11 +1,10 @@
 $(document).ready(function(){
 
 // DIV SIZING
-// this function keeps the height < max window height, see whole pic on small screens without scrolling
-// in general setting height w px not percent, so the rest of the page doesn't jump around when you switch slides
+// keep slides div height < max window height for small screens, so no need to scroll to see whole pic
+// setting height of div regardless of img, so the rest of the page doesn't jump around when you switch slides
 	function set_show_heights() {
 		var windowwidth=document.documentElement.clientWidth; // viewable width
-		console.log(windowwidth);
 		var windowheight=document.documentElement.clientHeight; // viewable max height	
 		var maxheight=windowheight-52; // with a little leeway for caption and padding
 		if (windowwidth<=535){maxheight=maxheight-57;} // to make room for menu banner
