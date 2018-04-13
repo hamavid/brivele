@@ -1,15 +1,15 @@
 $(document).ready(function(){
 
 // DIV SIZING
+// this function keeps the height < max window height, see whole pic on small screens without scrolling
+// in general setting height w px not percent, so the rest of the page doesn't jump around when you switch slides
 	function set_show_heights() {
-	    var photowidth=$('.thisphoto').width();
-	    var smaller=0.7*photowidth;
-	    if (photowidth>760 || smaller > 370) {
-	      $('.thisphoto').css('height','370px');
-	    } else {
-	    	console.log('smaller');
-	      $('.thisphoto').css('height',smaller+'px');
-	    }  
+		var windowwidth=document.documentElement.clientWidth; // viewable width
+		console.log(windowwidth);
+		var windowheight=document.documentElement.clientHeight; // viewable max height	
+		var maxheight=windowheight-52; // with a little leeway for caption and padding
+		if (windowwidth<=535){maxheight=maxheight-57;} // to make room for menu banner
+		if (maxheight<370){$('.thisphoto').css('height',maxheight+'px');}
 	  }
 	  $(window).bind('resize',set_show_heights); 
 	  set_show_heights();
@@ -41,7 +41,7 @@ $(document).ready(function(){
   // function to say which number out of total photos this photo is for a given show
   	function enumerate(show, num, total){
   		var thisnum=num+1;
-  		$('#'+show+' .counter').html(' ('+thisnum+'/'+total+')');
+  		$('#'+show+' .counter').html(' ('+thisnum+' of '+total+')');
   	}
 
   // function to iterate back and forward through images in slideshow

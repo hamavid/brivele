@@ -13,12 +13,13 @@
 /*--- photo overlay ---*/
 .thisphoto{
 	position:relative;
-	height:70%;
     max-width:100%;
+    height:370px; /* cant remember how I decided this */
     margin:0;
     text-align:center;
     cursor:pointer;
 }
+
 figure {
     position:relative;
     width:100%;height:100%;
@@ -30,6 +31,10 @@ figure>img {
     max-height:100%;
     position:relative;
     text-align:center;
+    top:50%;
+    -webkit-transform: translate(0%, -50%);
+    transform: translate(0%, -50%);
+    -moz-transform: translate(0%, -50%);
 }
 .leftside,.rightside {
     position:absolute;
