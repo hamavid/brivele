@@ -13,3 +13,4 @@ title: Coconspirators
 - ![*](../images/notes bullet.png 'list item')[The Unternationale](http://www.records.aurismedia.com/album/the-unternationale-the-first-unternational): album by [Daniel Kahn](http://www.paintedbird.de/), [Psoy Korolenko](https://en.wikipedia.org/wiki/Psoy_Korolenko), and [Oy Division](https://www.facebook.com/oydivision/)
 - ![*](../images/notes bullet.png 'list item')[OddJob Ensemble](http://www.oddjobensemble.com/)
 - ![*](../images/notes bullet.png 'list item')[The Debaucherauntes](https://www.facebook.com/thedebaucherauntes/)
+- ![*](../images/notes bullet.png 'list item')[Countercurrent](http://www.countercurrentmusic.com/)
