@@ -7,7 +7,6 @@ title: Shows
 
 ## Upcoming shows
 <ul class='showslist'>
-<li><span>**Tue May 1, 2018**</span><span>*House show, Central District - message for address*</span><span>With Sonya &amp; Brian and [Countercurrent](http://www.countercurrentmusic.com/)</span></li>
 <li><span>**Sat May 19, 2018**</span><span>*[Kadima](http://www.kadima.org/)*</span><span>Shavuot - Havdallah</span></li>
 <li><span>**Mon May 28, 2018, 12:30-1pm**</span><span>*Seattle Center, [Fisher Green Stage](https://www.nwfolklife.org/experience/festival-map-2017/)*</span><span>[Northwest Folklife Festival](https://www.nwfolklife.org/festival/)</span></li>
 <li><span>**Sat Jun 23, 2018**</span><span>*[Cafe Paloma](http://www.cafepaloma.com/)*</span><span>Album release show!</span></li>
@@ -17,6 +16,7 @@ title: Shows
 
 ## Past shows
 <ul class='showslist'>
+<li><span>**Tue May 1, 2018**</span><span>*House show, Central District - message for address*</span><span>With Sonya &amp; Brian and [Countercurrent](http://www.countercurrentmusic.com/)</span></li>
 <li><span>**Sat Mar 3, 2018**</span><span>*[Nii Modo Gallery](https://www.facebook.com/niimodo/)*</span><span>MC-ing Kadima’s annual Purim party as Brief, with [The Debaucherauntes](https://www.facebook.com/thedebaucherauntes/) and Shpilkis</span></li>
 <li><span>**Sat Jan 20, 2018**</span><span>*House show, Udistrict - message for address*</span><span>With Sonya &amp; [Brian](http://www.countercurrentmusic.com/) and <a href='http://sarahshay.com'>Sarah Shay</a></span></li>
 <li><span>**Tue Jan 16, 2018**</span><span>*[The Good Egg](https://www.goodeggbi.com/)*</span><span>Playing as Brief for MOX: an Eastern Bloc Party, menu by [Mossback](http://www.mossbackcafe.com/new-index)</span></li>
