@@ -19,7 +19,8 @@ $(document).ready(function(){
   // key is show name, which should = id of div these images will be shown in, 
   // as well as the name of the directory that has the relevant files
 	var showdict = {};
-	showdict['bubbes'] = ['20171216_213355', 'DSC01442', 'DSC01431',
+  showdict['folklife18'] = ['BriveleFolklife18-4', 'BriveleFolklife18-5', 'BriveleFolklife18-11'];
+	showdict['bubbes17'] = ['20171216_213355', 'DSC01442', 'DSC01431',
 		'DSC01434', 'DSC01470', 'DSC01477', 'DSC01588','20171216_213353',
 		'DSC01466', '25440158_10213236172671598_2710990013775537959_o', 'DSC01417'];
 	showdict['misc'] = ['18-05-01-houseshow', '18-01-20-houseshow', '17-11-18-paloma', '17-08-04-pocket-theater'];
@@ -56,10 +57,10 @@ $(document).ready(function(){
   	}
 
   // highlight left and right scroll arrows when hovering on diff areas of slideshow div
-	$('.leftside').mouseenter(function(){$('.larr').css('opacity','1');});
-	$('.leftside').mouseleave(function(){$('.larr').css('opacity','0.3');});
-	$('.rightside').mouseenter(function(){$('.rarr').css('opacity','1');});
-	$('.rightside').mouseleave(function(){$('.rarr').css('opacity','0.3');});
+	$('.leftside').mouseenter(function(){$(this).parent().find('.larr').css('opacity','1');});
+	$('.leftside').mouseleave(function(){$(this).parent().find('.larr').css('opacity','0.6');});
+	$('.rightside').mouseenter(function(){$(this).parent().find('.rarr').css('opacity','1');});
+	$('.rightside').mouseleave(function(){$(this).parent().find('.rarr').css('opacity','0.6');});
 
   // Scroll right or left when various elements are clicked
 	$('.larr, .leftside').click(function() {iterate($(this).parent().parent().attr('id'), -1);

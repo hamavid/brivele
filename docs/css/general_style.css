@@ -81,18 +81,18 @@ nav a{
 	footer .cp,footer .socialmedia{float:none;text-align:center}
 	footer .cp{padding:0.2em 1em 1em 1em;}footer .socialmedia{padding:1em 1em 0.2em 1em;}
 }
-@media only screen and (max-width:650px){
-	.bignavlinks a {padding:0.2em 0.6em;}
+@media only screen and (max-width:730px){
+	.bignavlinks a {padding:0.2em 0.45em;}
 	body{padding:0;}
 }
-@media only screen and (max-width:535px){
-	.bignavlinks a {font-size:1em;} /* NOTE: change select-class in all page specific css if this max width or font size changes */
+@media only screen and (max-width:570px){
+	.bignavlinks a {font-size:1em;} /* NOTE: change select-class in all page-specific css if this max width or font size changes */
 }
-@media only screen and (min-width:461px){
+@media only screen and (min-width:487px){
 	.smallnavlinks{display:none!important;}
 	#overlaybkgrnd{display:none!important;}
 }
-@media only screen and (max-width:460px){
+@media only screen and (max-width:486px){
 	header{
 		height:57px;
 		position:fixed;

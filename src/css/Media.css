@@ -1,6 +1,6 @@
 .about-select{font-weight:normal;font-size:1.2em;}
 .media-select{font-weight:bolder;font-size:1.4em;}
-@media only screen and (max-width:535px){.bignavlinks a.media-select{font-size:1.2em!important;}}
+@media only screen and (max-width:570px){.bignavlinks a.media-select{font-size:1.2em!important;}}
 
 .soundcloudembed, .bandcampembed{
 	max-width:500px;
@@ -52,9 +52,9 @@ figure>img {
 }
 .larr,.rarr{
 	font-size:2.2em;top:45%;margin:0;
-	opacity:0.5;
+	opacity:0.6; /*Note: also change this in js file if you change it here*/
 }
 .larr{text-align: left;left:2%;}
 .rarr{text-align: right;right:2%;}
-.larr:hover,.rarr:hover{opacity:1!important;}
+/*.larr:hover,.rarr:hover{opacity:1!important;}*/
 

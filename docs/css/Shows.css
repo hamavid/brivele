@@ -1,6 +1,6 @@
 .home-select{font-weight:normal;font-size:1.2em;}
 .shows-select{font-weight:bolder;font-size:1.4em;}
-@media only screen and (max-width:535px){.bignavlinks a.shows-select{font-size:1.2em!important;}}
+@media only screen and (max-width:570px){.bignavlinks a.shows-select{font-size:1.2em!important;}}
 
 .page-content{max-width:800px;padding:0.5em 1.5em 0 1.5em;margin:auto;z-index:0;}
 .page-content ul{width:100%;padding:0;margin-bottom:3.5em;}
