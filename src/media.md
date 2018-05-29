@@ -3,7 +3,7 @@ layout: page.html
 outdirs: '..'
 title: Media
 ---
-<p class='follow'><span style='font-size:1.8em;'>Our EP, <i><a href='https://brivele.bandcamp.com/releases'>A Little Letter,</a></i> is out now!</span><br>Stream, download, and pre-order a CD on <a href='https://brivele.bandcamp.com/'>Bandcamp.</a></p>
+<p class='follow'><span style='font-size:1.8em;'>Our EP, <i><a href='https://brivele.bandcamp.com/releases'>A Little Letter,</a></i> is out now!</span><br>Streaming, downloads, and CDs available on <a href='https://brivele.bandcamp.com/'>Bandcamp.</a></p>
 
 <div class='bandcampembed'>
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=776969049/size=large/bgcol=ffffff/linkcol=da810f/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://brivele.bandcamp.com/album/a-little-letter">A Little Letter by Brivele</a></iframe>
