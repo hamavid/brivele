@@ -7,7 +7,7 @@ title: Shows
 
 ## Upcoming shows
 <ul class='showslist'>
-<li><span>**Sat Jun 23, 2018**</span><span>*[Cafe Paloma](http://www.cafepaloma.com/)*</span><span>CD release show!</span></li>
+<li><span>**Sat Jun 23, 2018**</span><span>*[Cafe Paloma](http://www.cafepaloma.com/)*</span><span>[CD release show!](https://www.facebook.com/events/424903964618753/)</span></li>
 <!--<li><span>**Wed Jul 25, 2018**</span><span>*Stef's yard*</span><span>Bye Candace</span></li>-->
 </ul>
 
