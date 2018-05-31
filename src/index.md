@@ -11,7 +11,7 @@ outdirs: '.'
 <p>We sometimes play as a duo, called Brief.</p>
 </div>
 
-<!--
+
 <div class='reviews'>
 <p>Brivele's new EP brings Yiddish song and sensibility into the world of punk-folk like it was always meant to be with tight vocal harmonies, creative arrangements, and hard hitting political clarity!<br/><br/>
 <span class='reviewer'>&mdash;Dan Blacksberg of the <span style='font-style:normal'>Radiant Others</span> podcast</span>
@@ -22,5 +22,5 @@ I also want to say how much I enjoyed the invented parts of the album, like the 
 <span class='reviewer'>&mdash;Geoff Berner, Vancouver klezmer punk gives-no-fucks accordion player &amp; novelist</span>
 </p>
 
-</div>-->
+</div>
 

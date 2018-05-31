@@ -14,3 +14,9 @@ Letters travel—through time, over borders (cuz, fuck borders)—they pick up d
 **We are discontented, sometimes silly, never slick, always cheeky.**  We draw from a long tradition of Diaspora-proud struggle, cuz the World to Come is gonna be right here, where we are.  It is a world that does right by all the *folk*.
  
 We sing always with a *bissel* Yiddish, because sometimes Yiddish says it best, and because we are the granddaughters or great-granddaughters, or great-great-granddaughters of Yiddish, so it tastes familiar and unfamiliar at once.  We sing it like the mixed-up, impure Yids we are and strive to be.
+
+<!--<br>
+<div class='pressbio'>
+<h3>Press Bio</h3>
+<p>Brivele — a little letter: Letters about love, and home—where it got lost, where it might be now. Letters foment revolution! Our songs are our letters, they've traveled through time and over borders, picking up dirt, aromas, fingerprints. They’ve been stolen, censored, and salvaged. We are sometimes silly, never slick, always cheeky. We draw from a long tradition of Diaspora-proud struggle, because the World to Come is gonna be right here. We sing a bissel Yiddish, because sometimes Yiddish says it best, tasting familiar and unfamiliar; we sing like the mixed-up, impure Yids we are and strive to be.</p>
+</div>-->
