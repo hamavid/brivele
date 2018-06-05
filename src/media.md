@@ -14,6 +14,15 @@ title: Media
 <div class='playlist'><span class='caption'>A sneak-peek from our EP, "A Little Letter".</span>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/444234411&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe></div>
 </div>-->
+<div class='photo' id='cdassembly'><span class='caption'>CD assembly party <span class='counter'></span>.</span>
+<div class='thisphoto'>
+<span class='larr'><i class="fa fa-angle-left fa-2x"></i></span><span class='rarr'><i class="fa fa-angle-right fa-2x"></i></span>
+<figure><img src='../images/shows/cdassembly/20180604_171434.jpg'></figure>
+<div class="leftside"></div>
+<div class="rightside"></div>
+</div>
+</div>
+
 
 <div class='photo' id='folklife18'><span class='caption'>Brivele at the 2018 Northwest Folklife Festival. Photos by Stan Mandell <span class='counter'></span>.</span>
 <div class='thisphoto'>

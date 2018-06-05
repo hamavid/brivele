@@ -19,6 +19,7 @@ $(document).ready(function(){
   // key is show name, which should = id of div these images will be shown in, 
   // as well as the name of the directory that has the relevant files
 	var showdict = {};
+  showdict['cdassembly'] = ['20180604_171434', '20180604_191501', '20180604_191513', '20180604_203746', '20180604_214911', '20180604_221752'];
   showdict['folklife18'] = ['BriveleFolklife18-4', 'BriveleFolklife18-5', 'BriveleFolklife18-11'];
 	showdict['bubbes17'] = ['20171216_213355', 'DSC01442', 'DSC01431',
 		'DSC01434', 'DSC01470', 'DSC01477', 'DSC01588','20171216_213353',
