@@ -5,10 +5,11 @@ title: Shows
 ---
 <p class='follow'>Follow us on <a href='https://www.facebook.com/brivele/'>Facebook</a> or sign up for our <a href='mailto:info@brivele.com?subject=mailing list'>mailing list</a> to hear (occasionally) about shows and news!</p><br/>
 
-<!--## Upcoming shows
+## Upcoming shows
 <ul class='showslist'>
+<li><span>**July 8, 2018**</span><span>*Occidental Park*</span><span>Kadima's 40th Anniversary</span></li>
 <li><span>**Nov 20, 2018**</span><span>*[The Tractor](http://www.tractortavern.com/)*</span><span>Opening for [Daniel Kahn](https://www.paintedbird.de/), [Geoff Berner](http://geoffberner.com/), and [The Debaucherauntes](https://www.facebook.com/thedebaucherauntes/)</span></li>
-</ul>-->
+</ul>
 
 
 ## Past shows
