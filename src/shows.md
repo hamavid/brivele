@@ -5,15 +5,15 @@ title: Shows
 ---
 <p class='follow'>Follow us on <a href='https://www.facebook.com/brivele/'>Facebook</a> or sign up for our <a href='mailto:info@brivele.com?subject=mailing list'>mailing list</a> to hear (occasionally) about shows and news!</p><br/>
 
-## Upcoming shows
+<!--## Upcoming shows
 <ul class='showslist'>
-<li><span>**Sat Jun 23, 2018**</span><span>*[Cafe Paloma](http://www.cafepaloma.com/)*</span><span>[CD release show!](https://www.facebook.com/events/424903964618753/)</span></li>
-<!--<li><span>**Wed Jul 25, 2018**</span><span>*Stef's yard*</span><span>Bye Candace</span></li>-->
-</ul>
+<li><span>**Nov 20, 2018**</span><span>*[The Tractor](http://www.tractortavern.com/)*</span><span>Opening for [Daniel Kahn](https://www.paintedbird.de/), [Geoff Berner](http://geoffberner.com/), and [The Debaucherauntes](https://www.facebook.com/thedebaucherauntes/)</span></li>
+</ul>-->
 
 
 ## Past shows
 <ul class='showslist'>
+<li><span>**Sat Jun 23, 2018**</span><span>*[Cafe Paloma](http://www.cafepaloma.com/)*</span><span>[CD release show!](https://www.facebook.com/events/424903964618753/)</span></li>
 <li><span>**Mon May 28, 2018, 12:30-1pm**</span><span>*Seattle Center, [Fisher Green Stage](https://www.nwfolklife.org/experience/festival-map-2017/)*</span><span>[Northwest Folklife Festival](https://www.nwfolklife.org/festival/)</span></li>
 <li><span>**Sun May 27, 2018**</span><span>*[Clock-out Lounge](https://www.clockoutlounge.com/)*</span><span>[The Hot Klez Night](https://www.facebook.com/events/247335049164671/) with [The Moody Jews of Boise](https://www.facebook.com/MoodyJewsBoise/) and [The Debaucherauntes](https://www.facebook.com/thedebaucherauntes/)</span></li>
 <li><span>**Sat May 19, 2018**</span><span>*[Kadima](http://www.kadima.org/)*</span><span>Shavuot - Havdallah</span></li>
