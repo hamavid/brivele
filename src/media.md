@@ -3,61 +3,62 @@ layout: page.html
 outdirs: '..'
 title: Media
 ---
+<h1>MUSIC</h1>
+<div class='sounds'>
 <p class='follow'><span style='font-size:1.8em;'>Our EP, <i><a href='https://brivele.bandcamp.com/releases'>A Little Letter,</a></i> is out now!</span><br>Streaming, downloads, and CDs available on <a href='https://brivele.bandcamp.com/'>Bandcamp.</a></p>
 
 <div class='bandcampembed'>
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=776969049/size=large/bgcol=ffffff/linkcol=da810f/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://brivele.bandcamp.com/album/a-little-letter">A Little Letter by Brivele</a></iframe>
 </div>
-<br>
-
-<!--<div class='soundcloudembed'>
-<div class='playlist'><span class='caption'>A sneak-peek from our EP, "A Little Letter".</span>
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/444234411&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe></div>
-</div>-->
-<div class='photo' id='cdassembly'><span class='caption'>CD assembly party <span class='counter'></span>.</span>
-<div class='thisphoto'>
-<span class='larr'><i class="fa fa-angle-left fa-2x"></i></span><span class='rarr'><i class="fa fa-angle-right fa-2x"></i></span>
-<figure><img src='../images/shows/cdassembly/20180604_171434.jpg'></figure>
-<div class="leftside"></div>
-<div class="rightside"></div>
-</div>
-</div>
-
-
-<div class='photo' id='folklife18'><span class='caption'>Brivele at the 2018 Northwest Folklife Festival. Photos by Stan Mandell <span class='counter'></span>.</span>
-<div class='thisphoto'>
-<span class='larr'><i class="fa fa-angle-left fa-2x"></i></span><span class='rarr'><i class="fa fa-angle-right fa-2x"></i></span>
-<figure><img src='../images/shows/folklife18/BriveleFolklife18-4.jpg'></figure>
-<div class="leftside"></div>
-<div class="rightside"></div>
-</div>
-</div>
-
-<div class='photo' id='bubbes17'><span class='caption'>Brivele at The 6th Annual Bubbe's Old-Fashioned Hanukkah Shindig, Dec '17 <span class='counter'></span>.</span>
-<div class='thisphoto'>
-<span class='larr'><i class="fa fa-angle-left fa-2x"></i></span><span class='rarr'><i class="fa fa-angle-right fa-2x"></i></span>
-<figure><img src='../images/shows/bubbes17/20171216_213355.jpg'></figure>
-<div class="leftside"></div>
-<div class="rightside"></div>
-</div>
-</div>
 
 <div class='soundcloudembed'>
 
+<div class='playlist'><span class='caption'>Live at the Northwest Folk Life Festival 2018.</span>
+<iframe width="100%" height="225" scrolling="yes" frameborder="yes" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/451542264&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=true&amp;show_teaser=true&amp;visual=true"></iframe></div>
+
 <div class='playlist'><span class='caption'>Live at Muhabbet.</span>
-<iframe width="100%" height="300" scrolling="yes" frameborder="yes" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/360580616&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=true&amp;show_teaser=true&amp;visual=true"></iframe></div>
+<iframe width="100%" height="225" scrolling="yes" frameborder="yes" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/360580616&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=true&amp;show_teaser=true&amp;visual=true"></iframe></div>
 
 <div class='playlist'><span class='caption'>A taste of our practice sessions.</span>
-<iframe width="100%" height="370" scrolling="yes" frameborder="yes" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/365564623&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=true&amp;show_teaser=true&amp;visual=true"></iframe></div>
+<iframe width="100%" height="225" scrolling="yes" frameborder="yes" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/365564623&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=true&amp;show_teaser=true&amp;visual=true"></iframe></div>
 
 </div>
+</div>
 
-<div class='photo' id='misc'><span class='caption'>More shows 2017-'18 <span class='counter'></span>.</span>
+<h1>VIDEO</h1>
+<div class='videoembed'>
+<div class='video'>
+<span class='caption'>Live at our Album release show in June 2018.</span>
+<iframe height="315" src="https://www.youtube.com/embed/bA0Y0ecoepg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+</div>
+
+
+<h1>PHOTOS</h1>
+<div class='sightspocket'>
+<div class='sights'>
+<div><span class='caption'>Album release show at Cafe Paloma, Jun '18. <span class='total'>(3 images)</span></span><img src='../images/shows/paloma-release18/thumb.jpg'></div>
+
+<div><span class='caption'>CD assembly party. <span class='total'>(6 images)</span></span><img src='../images/shows/cdassembly/thumb.jpg'></div>
+
+<div><span class='caption'>Brivele at the 2018 Northwest Folklife Festival. Photos by Stan Mandell. <span class='total'>(3 images)</span></span><img src='../images/shows/folklife18/thumb.jpg'></div>
+
+<div><span class='caption'>Brivele at The 6th Annual Bubbe's Old-Fashioned Hanukkah Shindig, Dec '17. <span class='total'>(11 images)</span></span><img src='../images/shows/bubbes17/thumb.jpg'></div>
+
+<div><span class='caption'>More shows 2017-'18. <span class='total'>(4 images)</span></span><img src='../images/shows/misc/thumb.jpg'></div>
+</div>
+</div>
+
+<!--////////////////////////////////////////////////////////////-->
+
+<div id='photo-overlay'><span class='showid'>[Show caption]<!--<i class='fa fa-angle-double-up fa-lg'></i>--></span>
+<div class='showidcontainer'><span class='theidoftheshow'></span></div>
 <div class='thisphoto'>
+<span class='xit'>&times;</span>
 <span class='larr'><i class="fa fa-angle-left fa-2x"></i></span><span class='rarr'><i class="fa fa-angle-right fa-2x"></i></span>
-<figure><img src='../images/shows/misc/18-05-01-houseshow.jpg'></figure>
-<div class="leftside"></div>
-<div class="rightside"></div>
+<figure><img src=''></figure>
+<div id="leftside"></div>
+<div id="rightside"></div>
 </div>
 </div>
 

@@ -1,31 +1,104 @@
 .about-select{font-weight:normal;font-size:1.2em;}
 .media-select{font-weight:bolder;font-size:1.4em;}
 @media only screen and (max-width:570px){.bignavlinks a.media-select{font-size:1.2em!important;}}
-
-.soundcloudembed, .bandcampembed{
+h1{text-align:center;background-color:#f9d6a9;}
+.bandcampembed{
 	max-width:500px;
 	margin:auto;
 }
-.playlist,.photo{padding:1.2em;text-align:center;}
-.playlist span.caption,.photo span.caption{display:block;padding-bottom:0.5em;}
+.soundcloudembed,.videoembed{width:100%;text-align:center;}
+.soundcloudembed>.playlist{width:250px;display:inline-block;margin:1em 1.5em;}
+.playlist,.photo,.sights div{padding:1.2em;text-align:center;}
+.playlist span.caption,.photo span.caption,.video span.caption, .sights span.caption{display:block;padding-bottom:0.5em;}
+.video {margin:2em;}
+.video iframe{width: 560px;max-width:100%;}
+
+
+/*--- photo grid ---*/
+.sightspocket {
+    width:100%;
+    position:relative;
+    padding:8px;
+}
+.sights {
+    position:relative;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+}
+/* images */
+.sights div, .sights img{display:inline-block;width:250px;height:250px;}
+.sights div{margin:1em 1.5em;}
+.sights img {-webkit-transition:opacity 0.3s;transition:opacity 0.3s;} /*for hover opacity*/
+.sights img:hover{opacity:0.6;cursor:pointer;}
+.sights span.total{color:#808080;font-style:italic;}
+
 
 /*--- photo overlay ---*/
-.thisphoto{
-	position:relative;
-    max-width:100%;
-    height:370px; /* cant remember how I decided this */
-    margin:0;
+#photo-overlay{
+    z-index:3;
+    display:none;
+    position:fixed;
+    top:0;left:0;bottom:0;right:0;
+    width:100%;height:100%;
+    background-color:rgba(0,0,0,0.7);
+}
+.showidcontainer{
+    cursor:pointer;
+    width:100%;
+    position:fixed;
+    z-index: 3;
+    background-color:rgba(0,0,0,0.8);
+    margin:auto;text-align:center;
+    margin-top:0em;
+    font-size:1.2em;
+    padding:0.3em;
+}
+.theidoftheshow{
+    position:relative;
+    color:white;
+    margin:auto;
+    font-weight:bolder;
+    font-style:italic;
     text-align:center;
+    padding:0.3em;
+}
+.downup{padding-right:0.5em;font-size:0.5em;}
+.showid{
+    cursor:pointer;
+    display:none;
+    position:fixed;
+    z-index: 4;
+    background-color:rgba(0,0,0,0.8);
+    margin:auto;
+    margin-top:0em;
+    font-size:0.9em;
+    padding:0.3em;
+    color:white;
+    font-weight:bolder;
+}
+.thisphoto{
+    position:relative;
+    height:70%;
+    max-width:100%;
+    margin:0;
+    top:15%;
+    text-align:center;
+    vertical-align:center;
+    background-color:rgba(0,0,0,0.7);
     cursor:pointer;
 }
-
 figure {
     position:relative;
-    width:100%;height:100%;
-    margin:0;padding:0;
-    text-align:center;border:0;
+    max-width:100%;
+    height:90%;top:5%;
+    margin:0;
+    padding:0 1em;
+    text-align:center;
+    vertical-align:center;
 }
 figure>img {
+    z-index:3;
     max-width:100%;
     max-height:100%;
     position:relative;
@@ -35,26 +108,38 @@ figure>img {
     transform: translate(0%, -50%);
     -moz-transform: translate(0%, -50%);
 }
-.leftside,.rightside {
+#leftside,#rightside {
     position:absolute;
     top:0;
     height:100%;
     padding:0;
-    z-index:2;
+    z-index:3;
 }
-.leftside{width:50%;margin-right:50%;}.rightside{width:50%;margin-left:50%;}
-.larr,.rarr{
-	position:absolute;
-	color:white;
-	z-index:2;cursor:pointer;
-	-webkit-text-stroke-width: 1px;
+#leftside{width:50%;margin-right:50%;}#rightside{width:50%;margin-left:50%;}
+.xit,.larr,.rarr{
+    position:absolute;
+    color:white;
+    z-index:4;cursor:pointer;
+    -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: black;
 }
+.xit{font-size:3em;line-height:0;right:0;opacity:1;display:inline-block;padding:0.3em;}
 .larr,.rarr{
-	font-size:2.2em;top:45%;margin:0;
-	opacity:0.6; /*Note: also change this in js file if you change it here*/
+    font-size:2.2em;top:45%;margin:0;
+    opacity:0.5;
 }
 .larr{text-align: left;left:2%;}
 .rarr{text-align: right;right:2%;}
-/*.larr:hover,.rarr:hover{opacity:1!important;}*/
+.larr:hover,.rarr:hover{opacity:1!important;}
+
+
+/* small screens */
+@media only screen and (max-width:450px), (max-height:450px) {
+    .larr,.rarr{opacity:1!important;color:white!important;}
+    .thisphoto{height:100%!important;top:0;}
+    .showidcontainer,.showid{position:fixed;bottom:0;right:5px;z-index:4;}
+    .downup{display:inline-block;padding-right:0.5em;}
+    .xit{font-size:4em;line-height:0;right:0;opacity:1;display:inline-block;padding:0.3em;}
+}
+
 
