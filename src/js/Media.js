@@ -18,7 +18,7 @@ $(document).ready(function(){
   // Create a dictionary of img names for each show 
   // key is show name, which should =  name of the directory that has the relevant files
 	var showdict = {};
-  showdict['paloma-release18'] = ['20180623_210640', '20180623_205751', '20180623_210655'];
+  showdict['paloma-release18'] = ['20180623_210640', '20180623_205751', '20180623_210655', 'janedrawing'];
   showdict['cdassembly'] = ['20180604_171434', '20180604_191501', '20180604_191513', '20180604_203746', '20180604_214911', '20180604_221752'];
   showdict['folklife18'] = ['BriveleFolklife18-11', 'BriveleFolklife18-4', 'BriveleFolklife18-5'];
 	showdict['bubbes17'] = ['25440158_10213236172671598_2710990013775537959_o', '20171216_213355', 'DSC01442', 'DSC01431',

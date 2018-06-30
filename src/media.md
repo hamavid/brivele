@@ -19,9 +19,6 @@ title: Media
 <div class='playlist'><span class='caption'>Live at Muhabbet.</span>
 <iframe width="100%" height="225" scrolling="yes" frameborder="yes" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/360580616&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=true&amp;show_teaser=true&amp;visual=true"></iframe></div>
 
-<div class='playlist'><span class='caption'>A taste of our practice sessions.</span>
-<iframe width="100%" height="225" scrolling="yes" frameborder="yes" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/365564623&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=true&amp;show_teaser=true&amp;visual=true"></iframe></div>
-
 </div>
 </div>
 
@@ -37,7 +34,7 @@ title: Media
 <h1>PHOTOS</h1>
 <div class='sightspocket'>
 <div class='sights'>
-<div><span class='caption'>Album release show at Cafe Paloma, Jun '18. <span class='total'>(3 images)</span></span><img src='../images/shows/paloma-release18/thumb.jpg'></div>
+<div><span class='caption'>Album release show at Cafe Paloma, Jun '18. Drawing by Jane Covert-Bowlds. <span class='total'>(4 images)</span></span><img src='../images/shows/paloma-release18/thumb.jpg'></div>
 
 <div><span class='caption'>CD assembly party. <span class='total'>(6 images)</span></span><img src='../images/shows/cdassembly/thumb.jpg'></div>
 
