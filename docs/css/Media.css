@@ -2,13 +2,13 @@
 .media-select{font-weight:bolder;font-size:1.4em;}
 @media only screen and (max-width:570px){.bignavlinks a.media-select{font-size:1.2em!important;}}
 h1{text-align:center;background-color:#f9d6a9;}
-.bandcampembed{
+.bandcampembed,.soundcloudembed{
 	max-width:500px;
 	margin:auto;
 }
 .soundcloudembed,.videoembed{width:100%;text-align:center;}
-.soundcloudembed>.playlist{width:250px;display:inline-block;margin:1em 1.5em;}
-.playlist,.photo,.sights div{padding:1.2em;text-align:center;}
+.soundcloudembed>.playlist{margin:1.8em 0}
+.photo,.sights div{padding:1.2em;text-align:center;}
 .playlist span.caption,.photo span.caption,.video span.caption, .sights span.caption{display:block;padding-bottom:0.5em;}
 .video {margin:2em;}
 .video iframe{width: 560px;max-width:100%;}
@@ -27,7 +27,7 @@ h1{text-align:center;background-color:#f9d6a9;}
     text-align:center;
 }
 /* images */
-.sights div, .sights img{display:inline-block;width:250px;height:250px;}
+.sights div, .sights img{display:inline-block;width:150px;height:150px;}
 .sights div{margin:1em 1.5em;}
 .sights img {-webkit-transition:opacity 0.3s;transition:opacity 0.3s;} /*for hover opacity*/
 .sights img:hover{opacity:0.6;cursor:pointer;}
