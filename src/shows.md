@@ -7,13 +7,13 @@ title: Shows
 
 ## Upcoming shows
 <ul class='showslist'>
-<li><span>**July 8, 2018**</span><span>*Occidental Park*</span><span>Kadima's 40th Anniversary</span></li>
 <li><span>**Nov 20, 2018**</span><span>*[The Tractor](http://www.tractortavern.com/)*</span><span>Opening for [Daniel Kahn](https://www.paintedbird.de/), [Geoff Berner](http://geoffberner.com/), and [The Debaucherauntes](https://www.facebook.com/thedebaucherauntes/)</span></li>
 </ul>
 
 
 ## Past shows
 <ul class='showslist'>
+<li><span>**July 8, 2018**</span><span>*Occidental Park*</span><span>Brief at Kadima's 40th Anniversary</span></li>
 <li><span>**Sat Jun 23, 2018**</span><span>*[Cafe Paloma](http://www.cafepaloma.com/)*</span><span>[CD release show!](https://www.facebook.com/events/424903964618753/)</span></li>
 <li><span>**Mon May 28, 2018, 12:30-1pm**</span><span>*Seattle Center, [Fisher Green Stage](https://www.nwfolklife.org/experience/festival-map-2017/)*</span><span>[Northwest Folklife Festival](https://www.nwfolklife.org/festival/)</span></li>
 <li><span>**Sun May 27, 2018**</span><span>*[Clock-out Lounge](https://www.clockoutlounge.com/)*</span><span>[The Hot Klez Night](https://www.facebook.com/events/247335049164671/) with [The Moody Jews of Boise](https://www.facebook.com/MoodyJewsBoise/) and [The Debaucherauntes](https://www.facebook.com/thedebaucherauntes/)</span></li>
