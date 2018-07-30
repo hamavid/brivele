@@ -7,7 +7,7 @@ title: Shows
 
 ## Upcoming shows
 <ul class='showslist'>
-<li><span>**Aug 27, 2018**</span><span>*MONTR&Eacute;AL: [5074 Rue de Mentana](https://goo.gl/maps/EefkASQdr4Q2) (aka The Riot)*</span><span>[Klezmer at The Riot, Part 2](https://www.facebook.com/events/2249494601757471)</span></li>
+<li><span>**Aug 27, 2018**</span><span>*MONTREAL: [5074 Rue de Mentana](https://goo.gl/maps/EefkASQdr4Q2) (aka The Riot)*</span><span>[Klezmer at The Riot, Part 2](https://www.facebook.com/events/2249494601757471)</span></li>
 <li><span>**Nov 20, 2018**</span><span>*[The Tractor](http://www.tractortavern.com/)*</span><span>Opening for [Daniel Kahn](https://www.paintedbird.de/), [Geoff Berner](http://geoffberner.com/), and [The Debaucherauntes](https://www.facebook.com/thedebaucherauntes/)</span></li>
 </ul>
 
