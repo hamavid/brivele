@@ -8,7 +8,7 @@ title: Shows
 ## Upcoming shows
 <ul class='showslist'>
 <li><span>**Fri Sep 28, 2018**</span><span>*[Hillman City Collaboratory](https://hillmancitycollaboratory.org/)*</span><span>[The Rhapsody Project](https://www.therhapsodyproject.org/about) monthly concert series</li>
-<li><span>**Fri Oct 19, 2018**</span><span>*The Murder Mine*</span><span>With [Carrion Crows](https://carrioncrowsmusic.bandcamp.com/) and Special Place in Hell</li>
+<li><span>**Fri Oct 19, 2018**</span><span>*House show, Rainier Valley near Judkins Park - message for address*</span><span>With Special Place in Hell</li>
 <li><span>**Tue Nov 20, 2018**</span><span>*[The Tractor](http://www.tractortavern.com/)*</span><span>Opening for [Daniel Kahn](https://www.paintedbird.de/), [Geoff Berner](http://geoffberner.com/), and [The Debaucherauntes](https://www.facebook.com/thedebaucherauntes/)</span></li>
 </ul>
 
