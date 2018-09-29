@@ -7,15 +7,16 @@ title: Shows
 
 ## Upcoming shows
 <ul class='showslist'>
-<li><span>**Fri Sep 28, 2018**</span><span>*[Hillman City Collaboratory](https://hillmancitycollaboratory.org/)*</span><span>[The Rhapsody Project](https://www.therhapsodyproject.org/about) monthly concert series</li>
-<li><span>**Sun Oct 14, 2018**</span><span>*[Left Bank Books](http://www.leftbankbooks.com/)*</span><span>45th Anniversary Party, with [Danbert Nobacon](https://danbertnobacon.com/home.html) and [Squill](https://squilll.bandcamp.com/)</li>
-<li><span>**Fri Oct 19, 2018**</span><span>*House show, near Judkins Park - message for address*</span><span>With Special Place in Hell</li>
+<li><span>**Sun Oct 14, 2018**</span><span>*[Left Bank Books](http://www.leftbankbooks.com/)*</span><span>[45th Anniversary Party](https://www.facebook.com/events/898169157060359/), with [Danbert Nobacon and Kira Wood Cramer](https://thebadthings.bandcamp.com/album/woebegone), and [Squill](https://squilll.bandcamp.com/)</li>
+<li><span>**Fri Oct 19, 2018**</span><span>*House show, Rainier Valley near Judkins Park - message for address*</span><span>With Special Place in Hell</li>
+<li><span>**Sat Nov 3, 2018**</span><span>*[Duvall Visitor Center](https://goo.gl/maps/24tf1Zgxm3G2)*</span><span>Multi-band concert and art show</li>
 <li><span>**Tue Nov 20, 2018**</span><span>*[The Tractor](http://www.tractortavern.com/)*</span><span>Opening for [Daniel Kahn](https://www.paintedbird.de/), [Geoff Berner](http://geoffberner.com/), and [The Debaucherauntes](https://www.facebook.com/thedebaucherauntes/)</span></li>
 </ul>
 
 
 ## Past shows
 <ul class='showslist'>
+<li><span>**Fri Sep 28, 2018**</span><span>*[Hillman City Collaboratory](https://hillmancitycollaboratory.org/)*</span><span>[The Rhapsody Project](https://www.therhapsodyproject.org/about) monthly concert series</li>
 <li><span>**Mon Aug 27, 2018**</span><span>*MONTREAL: [5074 Rue de Mentana](https://goo.gl/maps/EefkASQdr4Q2) (aka The Riot)*</span><span>[Klezmer at The Riot, Part 2](https://www.facebook.com/events/2249494601757471)</span></li>
 <li><span>**Sun Aug 19, 2018**</span><span>*MONTREAL: [Museum of Jewish Montreal](http://imjm.ca/)*</span><span>[Klezmer Brunch](https://www.facebook.com/events/457826584685595/)</span></li>
 <li><span>**Sun July 8, 2018**</span><span>*Occidental Park*</span><span>Brief at Kadima's 40th Anniversary</span></li>
