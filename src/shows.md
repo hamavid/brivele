@@ -8,7 +8,7 @@ title: Shows
 ## Upcoming shows
 <ul class='showslist'>
 <li><span>**Sun Oct 14, 2018**</span><span>*[Left Bank Books](http://www.leftbankbooks.com/)*</span><span>[45th Anniversary Party](https://www.facebook.com/events/898169157060359/), with [Danbert Nobacon and Kira Wood Cramer](https://thebadthings.bandcamp.com/album/woebegone), and [Squill](https://squilll.bandcamp.com/)</li>
-<li><span>**Fri Oct 19, 2018**</span><span>*House show, Rainier Valley near Judkins Park - message for address*</span><span>With Special Place in Hell</li>
+<li><span>**Fri Oct 19, 2018**</span><span>*House show at the Murder Mine, near Judkins Park - message for address*</span><span>[With Sparkle Carpet, Loud in the Morning, and Special Place in Hell](https://www.facebook.com/events/281504449351941/)</li>
 <li><span>**Sat Nov 3, 2018**</span><span>*[Duvall Visitor Center](https://goo.gl/maps/24tf1Zgxm3G2)*</span><span>Multi-band concert and art show</li>
 <li><span>**Tue Nov 20, 2018**</span><span>*[The Tractor](http://www.tractortavern.com/)*</span><span>Opening for [Daniel Kahn](https://www.paintedbird.de/), [Geoff Berner](http://geoffberner.com/), and [The Debaucherauntes](https://www.facebook.com/thedebaucherauntes/)</span></li>
 </ul>
