@@ -11,6 +11,7 @@ title: Shows
 <li><span>**Fri Oct 19, 2018**</span><span>*House show at the Murder Mine, near Judkins Park - message for address*</span><span>[With Sparkle Carpet, Loud in the Morning, and Special Place in Hell](https://www.facebook.com/events/281504449351941/)</li>
 <li><span>**Sat Nov 3, 2018**</span><span>*[Duvall Visitor Center](https://goo.gl/maps/24tf1Zgxm3G2)*</span><span>Multi-band concert and art show</li>
 <li><span>**Tue Nov 20, 2018**</span><span>*[The Tractor](http://www.tractortavern.com/)*</span><span>Opening for [Daniel Kahn](https://www.paintedbird.de/), [Geoff Berner](http://geoffberner.com/), and [The Debaucherauntes](https://www.facebook.com/thedebaucherauntes/)</span></li>
+<li><span>**Fri Dec 7, 2018**</span><span>*[Cafe Paloma](https://goo.gl/maps/waw3EGymy9G2)*</span><span>With [Malke &amp; the Boychiks](https://www.facebook.com/malkeboychiks/)</span></li>
 </ul>
 
 
