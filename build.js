@@ -36,7 +36,7 @@ metalsmith(__dirname)
       filename: '{path.dir}/{path.name}/index.html'
     }]))
   .use(serve({
-  port: 8081,
+  port: 8080,
   verbose: true
   }))
   .use(watch({
