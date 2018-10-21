@@ -5,6 +5,6 @@
 .page-content li img{width:1em;height:1em;padding-right:0.8em;}
 .page-content ul li {margin: 1.2em 0em;}
 /* small screens */
-@media only screen and (max-width:535px){
+@media only screen and (max-width:590px){
 	.bignavlinks a.cc-select{font-size:1.2em!important;}
 }

@@ -98,19 +98,19 @@ nav a{
 	footer .cp,footer .socialmedia{float:none;text-align:center}
 	footer .cp{padding:0.2em 1em 1em 1em;}footer .socialmedia{padding:1em 1em 0.2em 1em;}
 }
-@media only screen and (max-width:730px){
+@media only screen and (max-width:745px){
 	.bignavlinks a {padding:0.2em 0.45em;}
 	body{padding:0;}
 }
-@media only screen and (max-width:570px){
+@media only screen and (max-width:590px){
 	.bignavlinks a {font-size:1em;} /* NOTE: change select-class in all page-specific css if this max width or font size changes */
 	.reviews p{margin-left:0.5em;margin-right:0.5em;}
 }
-@media only screen and (min-width:487px){
+@media only screen and (min-width:500px){
 	.smallnavlinks{display:none!important;}
 	#overlaybkgrnd{display:none!important;}
 }
-@media only screen and (max-width:486px){
+@media only screen and (max-width:499px){
 	header{
 		height:57px;
 		position:fixed;

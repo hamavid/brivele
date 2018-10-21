@@ -1,5 +1,5 @@
 .home-select{font-weight:normal;font-size:1.2em;}
 .manifesto-select{font-weight:bolder;font-size:1.4em;}
-@media only screen and (max-width:570px){.bignavlinks a.manifesto-select{font-size:1.2em!important;}}
+@media only screen and (max-width:590px){.bignavlinks a.manifesto-select{font-size:1.2em!important;}}
 .wrapper{padding:2em;line-height:1.5em;}
 .pressbio{background-color:#f9d6a9;padding:1em;border-radius:2px;}

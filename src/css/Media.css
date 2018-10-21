@@ -1,6 +1,6 @@
 .about-select{font-weight:normal;font-size:1.2em;}
 .media-select{font-weight:bolder;font-size:1.4em;}
-@media only screen and (max-width:570px){.bignavlinks a.media-select{font-size:1.2em!important;}}
+@media only screen and (max-width:590px){.bignavlinks a.media-select{font-size:1.2em!important;}}
 h1{text-align:center;background-color:#f9d6a9;}
 .bandcampembed,.soundcloudembed{
 	max-width:500px;
