@@ -9,6 +9,7 @@ title: Shows
 <ul class='showslist'>
 <li><span>**Sat Nov 3, 2018**</span><span>*[Duvall Visitor Center](https://goo.gl/maps/24tf1Zgxm3G2)*</span><span>Multi-band concert and art show</li>
 <li><span>**Tue Nov 20, 2018**</span><span>*[The Tractor](http://www.tractortavern.com/)*</span><span>[Opening for Daniel Kahn &amp; The Painted Bird, Geoff Berner, and The Debaucherauntes](https://www.facebook.com/events/174277766795920/)</span></li>
+<li><span>**Sun Dec 2, 2018**</span><span>*House show, Ravenna - message for address*</span><span>[At Doug and Robin's](https://www.facebook.com/DougandRobinHouseConcerts/)</span></li>
 <li><span>**Fri Dec 7, 2018**</span><span>*[Cafe Paloma](https://goo.gl/maps/waw3EGymy9G2)*</span><span>With [Malke &amp; the Boychiks](https://www.facebook.com/malkeboychiks/)</span></li>
 </ul>
 
