@@ -8,7 +8,7 @@ outdirs: '.'
 <p>Brivele is a Seattle-based anti-fascist klezmer folk-punk trio who braid together oral history, Yiddish language, contemporary and old-country musical genres, American Vaudeville, and visual arts.</p>
 <p>Brivele is pronounced "BREE-veh-leh" (בריוועלע) and means "Little Letter" in Yiddish.</p>
 <p>We sometimes play as a duo, called Brief.</p>
-<p class='follow'>Follow us on <a href='https://www.facebook.com/brivele/'>Facebook</a> or sign up for our <a href='mailto:info@brivele.com?subject=mailing list'>mailing list</a> to hear (occasionally) about shows and news!</p>
+<p class='follow'>Follow us on <a href='https://www.facebook.com/brivele/'>Facebook</a> or sign up for our <a href='mailto:info@brivele.com?subject=add-me-to-the-mailing-list'>mailing list</a> to hear (occasionally) about shows and news!</p>
 </div>
 
 

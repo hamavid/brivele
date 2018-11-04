@@ -3,11 +3,10 @@ layout: page.html
 outdirs: '..'
 title: Shows
 ---
-<p class='follow'>Follow us on <a href='https://www.facebook.com/brivele/'>Facebook</a> or sign up for our <a href='mailto:info@brivele.com?subject=mailing list'>mailing list</a> to hear (occasionally) about shows and news!</p><br/>
+<p class='follow'>Follow us on <a href='https://www.facebook.com/brivele/'>Facebook</a> or sign up for our <a href='mailto:info@brivele.com?subject=add-me-to-the-mailing-list'>mailing list</a> to hear (occasionally) about shows and news!</p><br/>
 
 ## Upcoming shows
 <ul class='showslist'>
-<li><span>**Sat Nov 3, 2018**</span><span>*[Duvall Visitor Center](https://goo.gl/maps/24tf1Zgxm3G2)*</span><span>Multi-band concert and art show</li>
 <li><span>**Tue Nov 20, 2018**</span><span>*[The Tractor](http://www.tractortavern.com/)*</span><span>[Opening for Daniel Kahn &amp; The Painted Bird, Geoff Berner, and The Debaucherauntes](https://www.facebook.com/events/174277766795920/)</span></li>
 <li><span>**Sun Dec 2, 2018**</span><span>*House show, Ravenna - message for address*</span><span>[At Doug and Robin's](https://www.facebook.com/DougandRobinHouseConcerts/)</span></li>
 <li><span>**Fri Dec 7, 2018**</span><span>*[Cafe Paloma](https://goo.gl/maps/waw3EGymy9G2)*</span><span>With [Malke &amp; the Boychiks](https://www.facebook.com/malkeboychiks/)</span></li>
@@ -16,6 +15,7 @@ title: Shows
 
 ## Past shows
 <ul class='showslist'>
+<li><span>**Sat Nov 3, 2018**</span><span>*[Duvall Visitor Center](https://goo.gl/maps/24tf1Zgxm3G2)*</span><span>Multi-band concert and art show</li>
 <li><span>**Fri Oct 19, 2018**</span><span>*House show at the Murder Mine, near Judkins Park - message for address*</span><span>[With Sparkle Carpet, Loud in the Morning, and Special Place in Hell](https://www.facebook.com/events/281504449351941/)</li>
 <li><span>**Sun Oct 14, 2018**</span><span>*[Left Bank Books](http://www.leftbankbooks.com/)*</span><span>[45th Anniversary Party](https://www.facebook.com/events/898169157060359/), with [Danbert Nobacon and Kira Wood Cramer](https://thebadthings.bandcamp.com/album/woebegone), and [Squill](https://squilll.bandcamp.com/)</li>
 <li><span>**Fri Sep 28, 2018**</span><span>*[Hillman City Collaboratory](https://hillmancitycollaboratory.org/)*</span><span>[The Rhapsody Project](https://www.therhapsodyproject.org/about) monthly concert series</li>
