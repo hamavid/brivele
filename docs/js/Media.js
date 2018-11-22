@@ -24,7 +24,7 @@ $(document).ready(function(){
 	showdict['bubbes17'] = ['25440158_10213236172671598_2710990013775537959_o', '20171216_213355', 'DSC01442', 'DSC01431',
 		'DSC01434', 'DSC01470', 'DSC01477', 'DSC01588','20171216_213353',
 		'DSC01466', 'DSC01417'];
-	showdict['misc'] = ['18-05-01-houseshow', '18-01-20-houseshow', '17-11-18-paloma', '17-08-04-pocket-theater'];
+	showdict['misc'] = ['18-11-20-tractor', '18-05-01-houseshow', '18-01-20-houseshow', '17-11-18-paloma', '17-08-04-pocket-theater'];
 
   // on page load the 0th image will be shown for each show, so trigger the fxn to say this in the captions
 	function start() {for (var key in showdict) {enumerate(key,0,showdict[key].length);}}

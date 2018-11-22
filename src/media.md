@@ -42,7 +42,7 @@ title: Media
 
 <div><span class='caption'>Brivele at The 6th Annual Bubbe's Old-Fashioned Hanukkah Shindig, Dec '17. <span class='total'>(11 images)</span></span><img src='../images/shows/bubbes17/thumb.jpg'></div>
 
-<div><span class='caption'>More shows 2017-'18. <span class='total'>(4 images)</span></span><img src='../images/shows/misc/thumb.jpg'></div>
+<div><span class='caption'>More shows 2017-'18. <span class='total'>(5 images)</span></span><img src='../images/shows/misc/thumb.jpg'></div>
 </div>
 </div>
 
