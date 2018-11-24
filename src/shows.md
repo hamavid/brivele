@@ -3,7 +3,7 @@ layout: page.html
 outdirs: '..'
 title: Shows
 ---
-<p class='follow'>Follow us on <a href='https://www.facebook.com/brivele/'>Facebook</a> or sign up for our <a href='mailto:info@brivele.com?subject=add-me-to-the-mailing-list'>mailing list</a> to hear (occasionally) about shows and news!</p><br/>
+<p class='follow'>Follow us on <a href='https://www.facebook.com/brivele/'>Facebook</a> or sign up for our <a href='../subscribe'>mailing list</a> to hear (occasionally) about shows and news!</p><br/>
 
 ## Upcoming shows
 <ul class='showslist'>
@@ -13,6 +13,7 @@ title: Shows
 <li><span>**Sat Feb 16, 2019**</span><span>*SALEM, OR: [Temple Beth Shalom](https://tbsholom.org/)*</span><span>Leading Havdallah, with concert following</span></li>
 <li><span>**Sun Feb 17, 2019, 4pm**</span><span>*EUGENE, OR: [Temple Beth Israel](https://www.tbieugene.org/)*</span><span>Afternoon show</span></li>
 </ul>
+
 
 
 ## Past shows
