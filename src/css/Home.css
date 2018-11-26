@@ -2,7 +2,26 @@
 @media only screen and (max-width:590px){.bignavlinks a.home-select{font-size:1.2em!important;}}
 
 figcaption {font-size:0.8em;font-style:italic;}
-.sale{color:#da810f;}
+/*.sale{color:#da810f;}*/
+
+/* mailing list sign up form style*/
+#mailinglistsignup{margin:auto;}
+#mc_embed_signup form{padding:0!important;}
+.mc-field-group{width:100%!important;text-align:center!important;margin-top:1.8em!important;}
+.mc-field-group input{display:inline-block!important;height:40px!important;padding:0!important;}
+.mc-field-group .email{width:340px!important;}
+#mc-embedded-subscribe.button{
+	clear:none!important;width:85px!important;height:42px!important;
+	margin:0px 6px!important;
+}
+#mce-responses,.response{float:none!important;top:0!important;margin:1em auto!important;}
+
+@media only screen and (max-width:500px){
+	.mc-field-group input{display:block!important;width:100%!important;margin:auto!important;}
+	.mc-field-group .email{width:100%!important;}
+	#mc-embedded-subscribe.button{margin: 1em auto!important;
+}
+
 
 @media only screen and (max-width:650px){
 	#blurb figure{padding:0;margin:0;width:100%;text-align:center;}
