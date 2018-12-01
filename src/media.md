@@ -25,6 +25,11 @@ title: Media
 <h1>VIDEO</h1>
 <div class='videoembed'>
 <div class='video'>
+<span class='caption'>Live at the Tractor Tavern, November 2018.</span>
+<iframe height="315" src="https://www.youtube.com/embed/MZ0pWwseqjo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div class='video'>
 <span class='caption'>Live at our Album release show in June 2018.</span>
 <iframe height="315" src="https://www.youtube.com/embed/bA0Y0ecoepg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>

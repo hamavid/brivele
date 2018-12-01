@@ -5,6 +5,7 @@ figcaption {font-size:0.8em;font-style:italic;}
 /*.sale{color:#da810f;}*/
 
 /* mailing list sign up form style*/
+#mc_anchor{height:1em;}
 #mailinglistsignup{margin:auto;}
 #mc_embed_signup form{padding:0!important;}
 .mc-field-group{width:100%!important;text-align:center!important;margin-top:1.8em!important;}
@@ -19,7 +20,7 @@ figcaption {font-size:0.8em;font-style:italic;}
 @media only screen and (max-width:500px){
 	.mc-field-group input{display:block!important;width:100%!important;margin:auto!important;}
 	.mc-field-group .email{width:100%!important;}
-	#mc-embedded-subscribe.button{margin: 1em auto!important;
+	#mc-embedded-subscribe.button{margin: 1em auto!important;}
 }
 
 
@@ -27,4 +28,5 @@ figcaption {font-size:0.8em;font-style:italic;}
 	#blurb figure{padding:0;margin:0;width:100%;text-align:center;}
 	#blurb figure img{max-width:100%;}
 	#blurb p{clear:left;padding-top:1em;}
+	#mc_anchor{height:57px;}
 }
