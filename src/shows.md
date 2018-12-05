@@ -8,9 +8,10 @@ title: Shows
 ## Upcoming shows
 <ul class='showslist'>
 <li><span>**Fri Dec 7, 2018**</span><span>*[Cafe Paloma](https://goo.gl/maps/waw3EGymy9G2)*</span><span>With [Malke &amp; the Boychiks](https://www.facebook.com/malkeboychiks/)</span></li>
-<li><span>**Sat Jan 19, 2019**</span><span>*PORTLAND, OR (venue TBA)*</span><span>With [Sparkle Carpet](https://sparklecarpet.bandcamp.com/)</span></li>
+<li><span>**Sat Jan 19, 2019**</span><span>*PORTLAND, OR: [Twilight Cafe and Bar](https://www.twilightcafeandbar.com/)*</span><span>[With Mom's Mad and Sparkle Carpet, plus Special guest](https://www.facebook.com/events/272918153421551/)</span></li>
 <li><span>**Sat Feb 16, 2019, 6pm**</span><span>*SALEM, OR: [Temple Beth Shalom](https://tbsholom.org/)*</span><span>Leading Havdallah, with concert following</span></li>
 <li><span>**Sun Feb 17, 2019, 4pm**</span><span>*EUGENE, OR: [Temple Beth Israel](https://www.tbieugene.org/)*</span><span>Afternoon show</span></li>
+<li><span>**Sat May 11, 2019**</span><span>*[Phinney Center Concert Hall](https://goo.gl/maps/MmJsmxuyaAM2), Brick Building*</span><span>[Seattle Folklore Society Concert](http://www.seafolklore.org/wp/concerts/)</span></li>
 </ul>
 
 
