@@ -39,6 +39,10 @@ title: Media
 <h1>PHOTOS</h1>
 <div class='sightspocket'>
 <div class='sights'>
+<div><span class='caption'>Khanike show at Cafe Paloma with Malke &amp; the Boychiks, Dec '18. <span class='total'>(3 images)</span></span><img src='../images/shows/paloma-khanike18/thumb.jpg'></div>
+
+<div><span class='caption'>Klezmer at The Riot Part II, Montreal, Aug '18. Feat. Eleonore and Zoe! <span class='total'>(6 images)</span></span><img src='../images/shows/theriot-montreal18/thumb.jpg'></div>
+
 <div><span class='caption'>Album release show at Cafe Paloma, Jun '18. Drawing by Jane Covert-Bowlds. <span class='total'>(4 images)</span></span><img src='../images/shows/paloma-release18/thumb.jpg'></div>
 
 <div><span class='caption'>CD assembly party. <span class='total'>(6 images)</span></span><img src='../images/shows/cdassembly/thumb.jpg'></div>
