@@ -10,6 +10,9 @@ title: Shows
 <li><span>**Sat Jan 19, 2019**</span><span>*PORTLAND, OR: [Twilight Cafe and Bar](https://www.twilightcafeandbar.com/)*</span><span>[With Mom's Mad and Sparkle Carpet, plus Special guest](https://www.facebook.com/events/272918153421551/)</span></li>
 <li><span>**Sat Feb 16, 2019, 6pm**</span><span>*SALEM, OR: [Temple Beth Shalom](https://tbsholom.org/)*</span><span>Leading Havdallah, with concert following</span></li>
 <li><span>**Sun Feb 17, 2019, 4pm**</span><span>*EUGENE, OR: [Temple Beth Israel](https://www.tbieugene.org/)*</span><span>Afternoon show</span></li>
+<li><span>**Sun Feb 17, 2019, 8pm**</span><span>*CORVALLIS, OR: Venue TBA*</span><span>Evening show</span></li>
+<li><span>**Sat Feb 23, 2019**</span><span>*OLYMPIA, WA: [Temple Beth Hatfiloh](https://www.bethhatfiloh.org/)*</span><span>With Varda</span></li>
+<li><span>**Fri Mar 8, 2019**</span><span>*BELLINGHAM, WA: [Alternative Library](http://altlib.org/)*</span><span>An evening of anti-fascist Jewish culture, with co-conspirators TBA</span></li>
 <li><span>**Sat May 11, 2019**</span><span>*[Phinney Center Concert Hall](https://goo.gl/maps/MmJsmxuyaAM2), Brick Building*</span><span>[Seattle Folklore Society Concert](http://www.seafolklore.org/wp/concerts/)</span></li>
 </ul>
 
