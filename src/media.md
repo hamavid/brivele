@@ -52,6 +52,8 @@ title: Media
 <div><span class='caption'>Brivele at The 6th Annual Bubbe's Old-Fashioned Hanukkah Shindig, Dec '17. <span class='total'>(11 images)</span></span><img src='../images/shows/bubbes17/thumb.jpg'></div>
 
 <div><span class='caption'>More shows 2017-'18. <span class='total'>(5 images)</span></span><img src='../images/shows/misc/thumb.jpg'></div>
+
+<div><span class='caption'><b>For Promo (hi-def).</b> <span class='total'>(4 images)</span></span><img src='../images/bandpix/lowfi/thumb.JPG'></div>
 </div>
 </div>
 
@@ -63,6 +65,7 @@ title: Media
 <span class='xit'>&times;</span>
 <span class='larr'><i class="fa fa-angle-left fa-2x"></i></span><span class='rarr'><i class="fa fa-angle-right fa-2x"></i></span>
 <figure><img src=''></figure>
+<div id='getfullres'><span><a href='' target='_blank'><i class="fa fa-download" aria-hidden="true"></i> Get full-res image</a></span></div>
 <div id="leftside"></div>
 <div id="rightside"></div>
 </div>

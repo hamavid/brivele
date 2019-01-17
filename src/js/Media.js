@@ -18,15 +18,16 @@ $(document).ready(function(){
   // Create a dictionary of img names for each show 
   // key is show name, which should =  name of the directory that has the relevant files
 	var showdict = {};
-  showdict['paloma-khanike18'] = ['three', 'one', 'two'];
-  showdict['theriot-montreal18'] = ['one', 'two', 'three', 'four', 'five', 'six'];
-  showdict['paloma-release18'] = ['20180623_210640', '20180623_205751', '20180623_210655', 'janedrawing'];
-  showdict['cdassembly'] = ['20180604_171434', '20180604_191501', '20180604_191513', '20180604_203746', '20180604_214911', '20180604_221752'];
-  showdict['folklife18'] = ['BriveleFolklife18-11', 'BriveleFolklife18-4', 'BriveleFolklife18-5'];
-	showdict['bubbes17'] = ['25440158_10213236172671598_2710990013775537959_o', '20171216_213355', 'DSC01442', 'DSC01431',
-		'DSC01434', 'DSC01470', 'DSC01477', 'DSC01588','20171216_213353',
-		'DSC01466', 'DSC01417'];
-	showdict['misc'] = ['18-11-20-tractor', '18-05-01-houseshow', '18-01-20-houseshow', '17-11-18-paloma', '17-08-04-pocket-theater'];
+  showdict['shows/paloma-khanike18'] = ['three.jpg', 'one.jpg', 'two.jpg'];
+  showdict['shows/theriot-montreal18'] = ['one.jpg', 'two.jpg', 'three.jpg', 'four.jpg', 'five.jpg', 'six.jpg'];
+  showdict['shows/paloma-release18'] = ['20180623_210640.jpg', '20180623_205751.jpg', '20180623_210655.jpg', 'janedrawing.jpg'];
+  showdict['shows/cdassembly'] = ['20180604_171434.jpg', '20180604_191501.jpg', '20180604_191513.jpg', '20180604_203746.jpg', '20180604_214911.jpg', '20180604_221752.jpg'];
+  showdict['shows/folklife18'] = ['BriveleFolklife18-11.jpg', 'BriveleFolklife18-4.jpg', 'BriveleFolklife18-5.jpg'];
+	showdict['shows/bubbes17'] = ['25440158_10213236172671598_2710990013775537959_o.jpg', '20171216_213355.jpg', 'DSC01442.jpg', 'DSC01431.jpg',
+		'DSC01434.jpg', 'DSC01470.jpg', 'DSC01477.jpg', 'DSC01588.jpg','20171216_213353.jpg',
+		'DSC01466.jpg', 'DSC01417.jpg'];
+	showdict['shows/misc'] = ['18-11-20-tractor.jpg', '18-05-01-houseshow.jpg', '18-01-20-houseshow.jpg', '17-11-18-paloma.jpg', '17-08-04-pocket-theater.jpg'],
+  showdict['bandpix/lowfi'] = ['tea.JPG', 'sketch3.JPG', 'closeinstrumentscolor.JPG', 'brivele-debut.jpg'];
 
   // on page load the 0th image will be shown for each show, so trigger the fxn to say this in the captions
 	function start() {for (var key in showdict) {enumerate(key,0,showdict[key].length);}}
@@ -38,7 +39,12 @@ $(document).ready(function(){
   // function to show a given image in the slides for a given show
   	function showslideimg(show, picname){
   		$('figure img').remove(); //remove extra photos
-  		$('figure').prepend($('<img/>').attr('src','../images/shows/'+show+'/'+picname+'.jpg'));
+  		$('figure').prepend($('<img/>').attr('src','../images/'+show+'/'+picname));
+      $('#getfullres').removeClass('promo');
+      if (show == 'bandpix/lowfi') {
+        $('#getfullres').addClass('promo');
+        getfullres();
+      }
   	}
 
   // function to say which number out of total photos this photo is for a given show
@@ -56,9 +62,9 @@ $(document).ready(function(){
   // function to iterate back and forward through images in slideshow
   	function iterate(show, direction) {
   		var srcList = whichpics(show);
-      if (direction==0){var thisimg = srcList[0]+'.jpg';}
-  		else{var thisimg=$('figure img').attr('src').replace('../images/shows/'+show+'/','');}
-		  for (var i = 0; i < srcList.length; i++) {if (srcList[i]+'.jpg' == thisimg){var thisindex=i;}};
+      if (direction==0){var thisimg = srcList[0];}
+  		else{var thisimg=$('figure img').attr('src').replace('../images/'+show+'/','');}
+		  for (var i = 0; i < srcList.length; i++) {if (srcList[i] == thisimg){var thisindex=i;}};
 		  var nextindex=(thisindex+direction) % srcList.length;
 		  if (nextindex < 0) {var nextindex = srcList.length-1}
 		  var nextimg=srcList[nextindex];
@@ -76,7 +82,7 @@ $(document).ready(function(){
   $('.sights img').click(function() {
     $('#photo-overlay').fadeToggle();
     var imgsrc= $(this).attr('src');
-    var whichshow = imgsrc.slice(imgsrc.indexOf('shows/')+6,imgsrc.indexOf('/thumb'));
+    var whichshow = imgsrc.slice(imgsrc.indexOf('images/')+7,imgsrc.indexOf('/thumb'));
     iterate(whichshow,0);
   });
 
@@ -90,16 +96,24 @@ $(document).ready(function(){
   // Scroll right or left when various elements are clicked
 	$('.larr, #leftside').click(function() {
     var src=$(this).parent().find('img').attr('src');
-    var tail=src.slice(src.indexOf('shows/')+6);
-    var show=tail.substring(0, tail.indexOf('/'));
+    var tail=src.slice(src.indexOf('images/')+7);
+    var show=tail.substring(0, tail.lastIndexOf('/'));
     iterate(show, -1);
 	});
 	$('.rarr, #rightside').click(function() {
     var src=$(this).parent().find('img').attr('src');
-    var tail=src.slice(src.indexOf('shows/')+6);
-    var show=tail.substring(0, tail.indexOf('/'));
+    var tail=src.slice(src.indexOf('images/')+7);
+    var show=tail.substring(0, tail.lastIndexOf('/'));
     iterate(show, +1);
   });
+
+  // open full-res image in a new tab when '#getfullres' element is clicked (for promo photo album ONLY)
+  function getfullres() {
+      var nowshowing = $('figure img').attr('src').replace('lowfi','hifi');
+      var link = $('#getfullres>span>a');
+      console.log(link);
+      link.attr('href',nowshowing);
+  }
 
   // SWIPE  <!-- This does NOT WORK as of 1/28/18 - need to debug on phone -->
     $('.thisphoto').touchwipe({
