@@ -19,7 +19,7 @@ title: Shows
 
 ## Past shows
 <ul class='showslist'>
-<li><span>**Sat Jan 19, 2019**</span><span>*PORTLAND, OR: [Twilight Cafe and Bar](https://www.twilightcafeandbar.com/)*</span><span>[With Mom's Mad and Sparkle Carpet, plus Special guest](https://www.facebook.com/events/272918153421551/)</span></li>
+<li><span>**Sat Jan 19, 2019**</span><span>*PORTLAND, OR: [Twilight Cafe and Bar](https://www.twilightcafeandbar.com/)*</span><span>[With Dead Coyote, Mom's Mad, and Sparkle Carpet](https://www.facebook.com/events/272918153421551/)</span></li>
 <li><span>**Fri Dec 7, 2018**</span><span>*[Cafe Paloma](https://goo.gl/maps/waw3EGymy9G2)*</span><span>With [Malke &amp; the Boychiks](https://www.facebook.com/malkeboychiks/)</span></li>
 <li><span>**Sun Dec 2, 2018**</span><span>*House show, Ravenna - message for address*</span><span>[At Doug and Robin's](https://www.facebook.com/DougandRobinHouseConcerts/)</span></li>
 <li><span>**Tue Nov 20, 2018**</span><span>*[The Tractor Tavern](http://www.tractortavern.com/)*</span><span>[Opening for Daniel Kahn &amp; The Painted Bird, Geoff Berner, and The Debaucherauntes](https://www.facebook.com/events/174277766795920/)</span></li>
