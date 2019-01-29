@@ -9,10 +9,10 @@ title: Shows
 <ul class='showslist'>
 <li><span>**Sat Feb 16, 2019, 6pm**</span><span>*SALEM, OR: [Temple Beth Sholom](https://tbsholom.org/)*</span><span>Leading Havdallah, with concert following</span></li>
 <li><span>**Sun Feb 17, 2019, 4pm**</span><span>*EUGENE, OR: [Temple Beth Israel](https://www.tbieugene.org/)*</span><span>[Afternoon show](https://www.facebook.com/events/2060278144020483/)</span></li>
-<li><span>**Sun Feb 17, 2019, 8pm**</span><span>*CORVALLIS, OR: [Interzone Cafe](https://goo.gl/maps/8wbhiFuQkWq)*</span><span>Evening show</span></li>
-<li><span>**Sat Feb 23, 2019**</span><span>*OLYMPIA, WA: [Temple Beth Hatfiloh](https://www.bethhatfiloh.org/)*</span><span>With Varda</span></li>
+<li><span>**Sun Feb 17, 2019, 8pm**</span><span>*CORVALLIS, OR: [Interzone Cafe](https://goo.gl/maps/8wbhiFuQkWq)*</span><span>[Evening show](../images/shows/brivele_interzone.pdf)</span></li>
+<li><span>**Sat Feb 23, 2019**</span><span>*OLYMPIA, WA: The Carleton House*</span><span>With Varda</span></li>
 <li><span>**Fri Mar 8, 2019**</span><span>*BELLINGHAM, WA: [Alternative Library](http://altlib.org/)*</span><span>An evening of anti-fascist Jewish culture, with co-conspirators TBA</span></li>
-<li><span>**Sat May 11, 2019**</span><span>*[Phinney Center Concert Hall](https://goo.gl/maps/MmJsmxuyaAM2), Brick Building*</span><span>Seattle Folklore Society Concert: [An evening of Klezmer Music and Song](http://www.seafolklore.org/wp/events/kesselgarden-and-brivele-an-evening-of-klezmer-music-and-song/)</span></li>
+<li><span>**Sat May 11, 2019**</span><span>*[Phinney Center Concert Hall](https://goo.gl/maps/MmJsmxuyaAM2), Brick Building*</span><span>Seattle Folklore Society Concert: [An evening of Klezmer Music and Song](http://www.seafolklore.org/wp/events/kesselgarden-and-brivele-an-evening-of-klezmer-music-and-song/), with [Kesselgarden](https://sites.google.com/site/kesselgardenhomepage)</span></li>
 </ul>
 
 
