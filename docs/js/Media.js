@@ -43,7 +43,7 @@ $(document).ready(function(){
       $('#getfullres').removeClass('promo');
       if (show == 'bandpix/lowfi') {
         $('#getfullres').addClass('promo');
-        getfullres();
+        getfullres(picname);
       }
   	}
 
@@ -108,10 +108,10 @@ $(document).ready(function(){
   });
 
   // open full-res image in a new tab when '#getfullres' element is clicked (for promo photo album ONLY)
-  function getfullres() {
+  function getfullres(picname) {
       var nowshowing = $('figure img').attr('src').replace('lowfi','hifi');
       var link = $('#getfullres>span>a');
-      console.log(link);
+      link.attr('download', 'brivele-'+picname);
       link.attr('href',nowshowing);
   }
 
