@@ -7,9 +7,6 @@ title: Shows
 
 ## Upcoming shows
 <ul class='showslist'>
-<li><span>**Sat Feb 16, 2019, 6pm**</span><span>*SALEM, OR: [Temple Beth Sholom](https://tbsholom.org/)*</span><span>Leading Havdallah, with concert following</span></li>
-<li><span>**Sun Feb 17, 2019, 4pm**</span><span>*EUGENE, OR: [Temple Beth Israel](https://www.tbieugene.org/)*</span><span>[Afternoon show](https://www.facebook.com/events/2060278144020483/)</span></li>
-<li><span>**Sun Feb 17, 2019, 8pm**</span><span>*CORVALLIS, OR: [Interzone Cafe](https://goo.gl/maps/8wbhiFuQkWq)*</span><span>[Evening show](../images/shows/brivele_interzone.pdf)</span></li>
 <li><span>**Sat Feb 23, 2019**</span><span>*OLYMPIA, WA: [The Carlton House](https://goo.gl/maps/gbFbxnWYr8k)*</span><span>[With Varda](https://www.facebook.com/events/292052821500939/)</span></li>
 <li><span>**Fri Mar 8, 2019**</span><span>*BELLINGHAM, WA: [Alternative Library](http://altlib.org/)*</span><span>[An Evening with Brivele and Other Jewish AntiFascists Living and Dead](https://www.facebook.com/events/312960589333263/)</span></li>
 <li><span>**Thu Mar 21, 2019**</span><span>*[Columbia City Theater](http://www.columbiacitytheater.com/)*</span><span>We might make a Brief appearance for Purim</span></li>
@@ -23,6 +20,9 @@ title: Shows
 
 ## Past shows
 <ul class='showslist'>
+<li><span>**Sun Feb 17, 2019, 8pm**</span><span>*CORVALLIS, OR: [Interzone Cafe](https://goo.gl/maps/8wbhiFuQkWq)*</span><span>[Evening show](../images/shows/brivele_interzone.pdf)</span></li>
+<li><span>**Sun Feb 17, 2019, 4pm**</span><span>*EUGENE, OR: [Temple Beth Israel](https://www.tbieugene.org/)*</span><span>[Afternoon show](https://www.facebook.com/events/2060278144020483/)</span></li>
+<li><span>**Sat Feb 16, 2019, 6pm**</span><span>*SALEM, OR: [Temple Beth Sholom](https://tbsholom.org/)*</span><span>Leading Havdallah, with concert following</span></li>
 <li><span>**Sat Jan 19, 2019**</span><span>*PORTLAND, OR: [Twilight Cafe and Bar](https://www.twilightcafeandbar.com/)*</span><span>[With Dead Coyote, Mom's Mad, and Sparkle Carpet](https://www.facebook.com/events/272918153421551/)</span></li>
 <li><span>**Fri Dec 7, 2018**</span><span>*[Cafe Paloma](https://goo.gl/maps/waw3EGymy9G2)*</span><span>With [Malke &amp; the Boychiks](https://www.facebook.com/malkeboychiks/)</span></li>
 <li><span>**Sun Dec 2, 2018**</span><span>*House show, Ravenna - message for address*</span><span>[At Doug and Robin's](https://www.facebook.com/DougandRobinHouseConcerts/)</span></li>
