@@ -43,7 +43,7 @@ $(document).ready(function(){
   socialmedia['18-05-01-houseshow.jpg'] = ['May Day house show 2018. Photo by BPS.'];
   socialmedia['18-01-20-houseshow.jpg'] = ['House show at 5507 Farm, Jan 2018. Photo by Alex.'];
   socialmedia['17-11-18-paloma.jpg'] = ['Cafe Paloma, Nov 2017. Photo by Todo Es.'];
-  socialmedia['17-10-23.jpg'] = ['The Royal Room, Oct 2017. Video by <a href ="https://www.instagram.com/thesarahshay/">@thesarahshay</a>.'];
+  socialmedia['17-10-23.jpg'] = ['Brief at the Royal Room, Oct 2017. Photo by <a href ="https://www.instagram.com/thesarahshay/">@thesarahshay</a>.'];
   socialmedia['18-01-20-1.mp4'] = ['House show at 5507 Farm, Jan 2018. Video by <a href ="https://www.instagram.com/thesarahshay/">@thesarahshay</a>.'];
   socialmedia['18-01-20-2.mp4'] = ['House show at 5507 Farm, Jan 2018. Video by <a href ="https://www.instagram.com/thesarahshay/">@thesarahshay</a>.'];
   socialmedia['17-08-04-pocket-theater.jpg'] = ['The Pocket Theater, Aug 2017. Photo by Leah Knopf.'];
@@ -136,7 +136,7 @@ $(document).ready(function(){
  // close photo overlay and remove images if background or close button is clicked  
   $('#photo-overlay,.thisphoto,.xit').click(function(event) {
     if(event.target != this) return;
-    else {$('#photo-overlay').css('display','none');}
+    else {$('#photo-overlay').css('display','none');removevideo();}
   });
 
   // open photo overlay showing current img if image is clicked from the list
