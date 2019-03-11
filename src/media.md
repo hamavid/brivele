@@ -41,7 +41,7 @@ title: Media
 <div class='sights'>
 <div><span class='caption'>Khanike show at Cafe Paloma with Malke &amp; the Boychiks, Dec '18. <span class='total'>(3 images)</span></span><img src='../images/shows/paloma-khanike18/thumb.jpg'></div>
 
-<div><span class='caption'>Klezmer at The Riot Part II, Montreal, Aug '18. Feat. Eleonore and Zoe! <span class='total'>(6 images)</span></span><img src='../images/shows/theriot-montreal18/thumb.jpg'></div>
+<div><span class='caption'>Klezmer at The Riot Part II, Montreal, Aug '18. Feat. Zaphyr and the Dans and Eleonore and Zoe!<span class='total'>(7 images)</span></span><img src='../images/shows/theriot-montreal18/thumb.jpg'></div>
 
 <div><span class='caption'>Album release show at Cafe Paloma, Jun '18. Drawing by Jane Covert-Bowlds. <span class='total'>(4 images)</span></span><img src='../images/shows/paloma-release18/thumb.jpg'></div>
 
@@ -51,23 +51,24 @@ title: Media
 
 <div><span class='caption'>Brivele at The 6th Annual Bubbe's Old-Fashioned Hanukkah Shindig, Dec '17. <span class='total'>(11 images)</span></span><img src='../images/shows/bubbes17/thumb.jpg'></div>
 
-<div><span class='caption'>More shows 2017-'18. <span class='total'>(5 images)</span></span><img src='../images/shows/misc/thumb.jpg'></div>
+<div><span class='caption'>From social media. <span class='total'>(10 images)</span></span><img src='../images/shows/misc/thumb.jpg'></div>
 
 <div><span class='caption'><b>For Promo (hi-def).</b> <span class='total'>(4 images)</span></span><img src='../images/bandpix/lowfi/thumb.JPG'></div>
 </div>
 </div>
 
 <!--////////////////////////////////////////////////////////////-->
-
 <div id='photo-overlay'><span class='showid'>[Show caption]<!--<i class='fa fa-angle-double-up fa-lg'></i>--></span>
-<div class='showidcontainer'><span class='theidoftheshow'></span></div>
+<div class='showidcontainer'><div class='theidoftheshow'></div></div>
 <div class='thisphoto'>
 <span class='xit'>&times;</span>
 <span class='larr'><i class="fa fa-angle-left fa-2x"></i></span><span class='rarr'><i class="fa fa-angle-right fa-2x"></i></span>
 <figure><img src=''></figure>
+<video id='videoelement' controls><source src='' type='video/mp4'>Your browser does not support the video tag.</video>
 <div id='getfullres'><span><a href='' target='_blank'><i class="fa fa-download" aria-hidden="true"></i> Get full-res image</a></span></div>
 <div id="leftside"></div>
 <div id="rightside"></div>
 </div>
+<div class='attribution-container'><span class='attribution'></span></div>
 </div>
 
