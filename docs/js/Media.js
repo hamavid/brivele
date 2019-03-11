@@ -89,7 +89,8 @@ $(document).ready(function(){
         if ($(this).attr('src').includes(show)){
           var bigcaption = $(this).parent().find('.caption').html()
           var caption = bigcaption.slice(0, bigcaption.indexOf('<span'));
-          $('.theidoftheshow').html(caption + ' (' + thisnum + ' of ' + total + ')');
+          //$('.theidoftheshow').html(caption + ' (' + thisnum + ' of ' + total + ')');
+          $('.theidoftheshow').html(caption);
         }
       });
   	}
@@ -155,12 +156,14 @@ $(document).ready(function(){
 
   // Scroll right or left when various elements are clicked
 	$('.larr, #leftside').click(function() {
+    removevideo();
     var src=$(this).parent().find('.active').attr('src');
     var tail=src.slice(src.indexOf('images/')+7);
     var show=tail.substring(0, tail.lastIndexOf('/'));
     iterate(show, -1);
 	});
 	$('.rarr, #rightside').click(function() {
+    removevideo();
     var src=$(this).parent().find('.active').attr('src');
     var tail=src.slice(src.indexOf('images/')+7);
     var show=tail.substring(0, tail.lastIndexOf('/'));
