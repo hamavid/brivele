@@ -8,10 +8,13 @@ $(document).ready(function(){
 		var windowheight=document.documentElement.clientHeight; // viewable max height	
 		var maxheight=windowheight-52; // with a little leeway for caption and padding
 		if (windowwidth<=535){maxheight=maxheight-57;} // to make room for menu banner
-		if (maxheight<370){$('.thisphoto').css('height',maxheight+'px');}
-	  }
-	  $(window).bind('resize',set_show_heights); 
-	  set_show_heights();
+		if (maxheight<370){
+      $('.thisphoto, #videoelement').css('height',maxheight+'px');
+      $('#videoelement').css('width',maxheight+'px');
+    }
+	}
+	$(window).bind('resize',set_show_heights); 
+	set_show_heights();
 
 
 // SLIDESHOWS
@@ -26,7 +29,7 @@ $(document).ready(function(){
 	showdict['shows/bubbes17'] = ['25440158_10213236172671598_2710990013775537959_o.jpg', '20171216_213355.jpg', 'DSC01442.jpg', 'DSC01431.jpg',
 		'DSC01434.jpg', 'DSC01470.jpg', 'DSC01477.jpg', 'DSC01588.jpg','20171216_213353.jpg',
 		'DSC01466.jpg', 'DSC01417.jpg'];
-	showdict['shows/misc'] = ['18-11-20-tractor.jpg', '19-02-23.mp4', '18-10-14.jpg', '18-05-01-houseshow.jpg', '18-01-20-houseshow.jpg', '18-01-20-1.mp4', '18-01-20-2.mp4', '17-11-18-paloma.jpg', '17-10-23.jpg', '17-08-04-pocket-theater.jpg'],
+	showdict['shows/misc'] = ['18-11-20-tractor.jpg', '18-10-14.jpg', '18-05-01-houseshow.jpg', '18-01-20-houseshow.jpg', '17-11-18-paloma.jpg', '17-10-23.jpg', '17-08-04-pocket-theater.jpg'],
   showdict['bandpix/lowfi'] = ['tea.JPG', 'sketch3.JPG', 'closeinstrumentscolor.JPG', 'brivele-debut.jpg'];
 
 // create a meta dictionary of all the shows and their order
@@ -37,18 +40,27 @@ $(document).ready(function(){
     metashowdict[initial] = key;
   };
 
-// create a dictionary of attributions for each item in social media album
-  var socialmedia = {};
-  socialmedia['18-11-20-tractor.jpg'] = ['The Tractor, Nov 2018. Photo by Mai Li Pittard.'];
-  socialmedia['18-05-01-houseshow.jpg'] = ['May Day house show 2018. Photo by BPS.'];
-  socialmedia['18-01-20-houseshow.jpg'] = ['House show at 5507 Farm, Jan 2018. Photo by Alex.'];
-  socialmedia['17-11-18-paloma.jpg'] = ['Cafe Paloma, Nov 2017. Photo by Todo Es.'];
-  socialmedia['17-10-23.jpg'] = ['Brief at the Royal Room, Oct 2017. Photo by <a href ="https://www.instagram.com/thesarahshay/">@thesarahshay</a>.'];
-  socialmedia['18-01-20-1.mp4'] = ['House show at 5507 Farm, Jan 2018. Video by <a href ="https://www.instagram.com/thesarahshay/">@thesarahshay</a>.'];
-  socialmedia['18-01-20-2.mp4'] = ['House show at 5507 Farm, Jan 2018. Video by <a href ="https://www.instagram.com/thesarahshay/">@thesarahshay</a>.'];
-  socialmedia['17-08-04-pocket-theater.jpg'] = ['The Pocket Theater, Aug 2017. Photo by Leah Knopf.'];
-  socialmedia['18-10-14.jpg'] = ['The Murder Mine, Oct 2018. Photo by <a href ="https://www.instagram.com/rascalmiles/">@rascalmiles</a>.'];
-  socialmedia['19-02-23.mp4'] = ['Carlton House, Feb 2019. Video by Emily <a href ="https://www.instagram.com/stringandshadow/">@stringandshadow</a>.'];
+// create a dictionary of attributions for each item in social media albums
+  var miscphoto = {};
+  miscphoto['18-11-20-tractor.jpg'] = ['The Tractor, Nov 2018. Photo by Mai Li Pittard.'];
+  miscphoto['18-05-01-houseshow.jpg'] = ['May Day house show 2018. Photo by BPS.'];
+  miscphoto['18-01-20-houseshow.jpg'] = ['House show at 5507 Farm, Jan 2018. Photo by Alex.'];
+  miscphoto['17-11-18-paloma.jpg'] = ['Cafe Paloma, Nov 2017. Photo by Todo Es.'];
+  miscphoto['17-10-23.jpg'] = ['Brief at the Royal Room, Oct 2017. Photo by <a href ="https://www.instagram.com/thesarahshay/">@thesarahshay</a>.'];
+  miscphoto['17-08-04-pocket-theater.jpg'] = ['The Pocket Theater, Aug 2017. Photo by Leah Knopf.'];
+  miscphoto['18-10-14.jpg'] = ['The Murder Mine, Oct 2018. Photo by <a href ="https://www.instagram.com/rascalmiles/">@rascalmiles</a>.'];
+  
+
+// video dictionaries
+  var viddict = {}
+  viddict['misc'] = ['19-02-23.mp4', '18-01-20-1.mp4', '18-01-20-2.mp4'];
+
+  var miscvideo = {}
+  miscvideo['18-01-20-1.mp4'] = ['House show at 5507 Farm, Jan 2018. Video by <a href ="https://www.instagram.com/thesarahshay/">@thesarahshay</a>.'];
+  miscvideo['18-01-20-2.mp4'] = ['More house show at 5507 Farm, Jan 2018. Video by <a href ="https://www.instagram.com/thesarahshay/">@thesarahshay</a>.'];
+  miscvideo['19-02-23.mp4'] = ['Carlton House, Feb 2019. Video by Emily <a href ="https://www.instagram.com/stringandshadow/">@stringandshadow</a>.'];
+  miscvideo['bham-altlib-1.mp4'] = ['Bellingham Alternative Library, Mar 2019. Video by <a href ="https://www.instagram.com/bhamaltlib/">@bhamaltlib</a>.'];
+
 
   // on page load the 0th image will be shown for each show, so trigger the fxn to say this in the captions
 	function start() {for (var key in showdict) {enumerate(key,0,showdict[key].length);}}
@@ -56,24 +68,12 @@ $(document).ready(function(){
 
  // function to look up which pictures to show in a given slideshow, using the id of the div and the show dictionary
   	function whichpics(show) {for (var key in showdict) {if (show.includes(key)) {return showdict[key];}};};
-
+    
   // function to show a given image in the slides for a given show
   	function showslideimg(show, picname){
-      var filetype = picname.slice(-3);
-      //remove extra photos/videos
+      //remove extra photos
   		$('figure img').remove();
-  		if (filetype != 'mp4'){
-        $('figure').css('height','90%');$('video').css('height','0%');
-        $('figure').prepend($('<img/>').attr('src','../images/'+show+'/'+picname));
-        $('video source').removeClass('active');$('figure img').addClass('active');
-      }
-      else{
-        removevideo();
-        $('video').empty();
-        $('figure').css('height','0%');$('video').css('height','90%');
-        $('video').prepend($('<source/>').attr('src','../images/'+show+'/'+picname));
-        $('figure img').removeClass('active');$('video source').addClass('active');
-      };
+      $('figure').prepend($('<img/>').attr('src','../images/'+show+'/'+picname));
       // for promo album only
       $('#getfullres').removeClass('promo');
       if (show == 'bandpix/lowfi') {
@@ -95,14 +95,6 @@ $(document).ready(function(){
       });
   	}
 
-  // remove video when we have moved on
-   function removevideo() {
-    var videoElement = document.getElementById('videoelement');
-    videoElement.pause();
-    videoElement.removeAttribute('source'); // empty source
-    videoElement.load();
-   }
-
   // function to find the order number of a given show
     function findshowindex(show){
       var foundit;var i = -1;
@@ -119,7 +111,7 @@ $(document).ready(function(){
     // get info on which image to display
   		var srcList = whichpics(show);
       if (direction==0){var thisimg = srcList[0];}
-  		else{var thisimg=$('#photo-overlay').find('.active').attr('src').replace('../images/'+show+'/','');}
+  		else{var thisimg=$('#photo-overlay').find('img').attr('src').replace('../images/'+show+'/','');}
 		  for (var i = 0; i < srcList.length; i++) {if (srcList[i] == thisimg){var thisindex=i;}};
 		  var nextindex=(thisindex+direction);
     // reset to appropriate image in adjacent show if we've run out of images for this show
@@ -129,9 +121,34 @@ $(document).ready(function(){
     // show the image!
 		  showslideimg(show, nextimg);
 		  enumerate(show, nextindex, srcList.length);
-      if (show == 'shows/misc'){$('.attribution').html(socialmedia[nextimg]);$('.attribution-container').css('display','block');}
+      if (show == 'shows/misc'){$('.attribution').html(miscphoto[nextimg]);$('.attribution-container').css('display','block');}
       else{$('.attribution').html('');$('.attribution-container').css('display','none');}
   	}
+
+
+  // remove video when we have moved on
+   function removevideo() {
+    var videoElement = document.getElementById('videoelement');
+    videoElement.pause();
+    videoElement.removeAttribute('source'); // empty source
+    videoElement.load();
+   }
+
+  // video iteration etc functions
+    function videoscroll(video, direction) {
+      // get info
+      for (var i = 0; i < viddict['misc'].length; i++) {if (viddict['misc'][i] == video){var thisindex=i;}};
+      var nextindex = (thisindex+direction) % viddict['misc'].length;
+      if (nextindex < 0) {var nextindex = viddict['misc'].length-1;}
+      var nextvideo = viddict['misc'][nextindex];
+      // clear the way
+      removevideo();
+      $('.vidattrib').html('');
+      // repopulate elements
+      $('#videoelement').prepend($('<source/>').attr('src','../images/video/'+nextvideo));
+      $('.vidattrib').html(miscvideo[nextvideo]);
+    }  
+    videoscroll(viddict['misc'][0], 0);
 
  // close photo overlay and remove images if background or close button is clicked  
   $('#photo-overlay,.thisphoto,.xit').click(function(event) {
@@ -155,20 +172,30 @@ $(document).ready(function(){
 	$('#rightside').mouseleave(function(){$(this).parent().find('.rarr').css('opacity','0.6');});
 
   // Scroll right or left when various elements are clicked
-	$('.larr, #leftside').click(function() {
-    removevideo();
-    var src=$(this).parent().find('.active').attr('src');
-    var tail=src.slice(src.indexOf('images/')+7);
-    var show=tail.substring(0, tail.lastIndexOf('/'));
-    iterate(show, -1);
-	});
-	$('.rarr, #rightside').click(function() {
-    removevideo();
-    var src=$(this).parent().find('.active').attr('src');
+// TO DO: make this slicker/less repetitive
+  $('.larr, #leftside').click(function() {
+    var src=$(this).parent().find('img').attr('src');
     var tail=src.slice(src.indexOf('images/')+7);
     var show=tail.substring(0, tail.lastIndexOf('/'));
     iterate(show, +1);
   });
+	$('.rarr, #rightside').click(function() {
+    var src=$(this).parent().find('img').attr('src');
+    var tail=src.slice(src.indexOf('images/')+7);
+    var show=tail.substring(0, tail.lastIndexOf('/'));
+    iterate(show, +1);
+  });
+  $('.vidlarr').click(function() {
+    var src=$(this).parent().find('source').attr('src');
+    var tail=src.slice(src.indexOf('video/')+6);
+    videoscroll(tail, -1);
+  });
+  $('.vidrarr').click(function() {
+    var src=$(this).parent().find('source').attr('src');
+    var tail=src.slice(src.indexOf('video/')+6);
+    videoscroll(tail, +1);
+  });
+
 
   // open full-res image in a new tab when '#getfullres' element is clicked (for promo photo album ONLY)
   function getfullres(picname) {

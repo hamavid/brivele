@@ -11,7 +11,7 @@ title: Shows
 <li><span>**Sat Mar 30, 2019**</span><span>*[St. Mark's](https://saintmarks.org/)*</span><span>Playing as Brief at the [MEPC](http://www.kadima.org/middle-east-peace-camp.html) scholarship fundraiser with potluck and bake sale</span></li>
 <li><span>**Thu Apr 25, 2019**</span><span>*Venue TBA*</span><span>Kadima Passover</span></li>
 <li><span>**Sat May 11, 2019**</span><span>*[Phinney Center Concert Hall](https://goo.gl/maps/MmJsmxuyaAM2), Brick Building*</span><span>Seattle Folklore Society Concert: [An evening of Klezmer Music and Song](http://www.seafolklore.org/wp/events/kesselgarden-and-brivele-an-evening-of-klezmer-music-and-song/), with [Kesselgarden](https://sites.google.com/site/kesselgardenhomepage)</span></li>
-<li><span>**Thu May 23, 2019**</span><span>*TBA*</span><span>Judith's 90th birthday party (Private Event)</span></li>
+<li><span>**Thu May 23, 2019**</span><span>*Private Event*</span><span>Judith's 90th birthday party</span></li>
 <li><span>**Mon May 27, 2019, 6:10-6:40pm**</span><span>*Seattle Center, [Folklife Underground Caf&eacute;](https://www.nwfolklife.org/experience/festival-map-2019/)*</span><span>Showcase with [Bellows and Squawk](https://www.bellowsandsquawk.com/) at the [Northwest Folklife Festival](https://www.nwfolklife.org/festival/)</span></li>
 </ul>
 

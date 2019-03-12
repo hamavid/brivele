@@ -84,7 +84,7 @@ h1{text-align:center;background-color:#f9d6a9;}
     background-color:rgba(0,0,0,0.7);
     cursor:pointer;
 }
-figure, video{
+figure{
     position:relative;
     max-width:90%;
     height:90%;top:5%;
@@ -92,8 +92,8 @@ figure, video{
     padding:0 1em;
     text-align:center;
 }
-video{margin-top:1em;z-index:4;}
-figure>img, video>source {
+
+figure>img{
     z-index:3;
     max-width:100%;
     max-height:100%;
@@ -128,6 +128,17 @@ figure>img, video>source {
 .rarr{text-align: right;right:2%;}
 .larr:hover,.rarr:hover{opacity:1!important;}
 
+/* video stuff */
+video{max-width:90%;margin:auto;}
+.arrowseparator{display:none;height:0;}
+.vidlarr, .vidrarr{
+    position:relative;color:white;-webkit-text-stroke-width: 1px;cursor:pointer;z-index:2;
+    -webkit-text-stroke-color: black;font-size:2.2em;margin-top:140px;opacity:0.5;
+}
+.vidlarr{float:left;}.vidrarr{float:right;}
+.vidlarr:hover,.vidrarr:hover{opacity:1;}
+.vidattrib{padding:0.3em;font-size:0.9em;font-style:italic;margin-bottom:4em;}
+
 /* sometimes-appearing info under photos */
 .promo{position:absolute;z-index:4;width:100%;font-size:1.3em;}
 .promo span{
@@ -154,6 +165,13 @@ figure>img, video>source {
 .attribution a{color:white;cursor:pointer;}
 
 /* small screens */
+@media only screen and (max-width:480px){
+    .vidlarr,.vidrarr{margin-top:-50%;bottom:2em;}
+    .arrowseparator{display:block;height:2em;}
+}
+@media only screen and (max-height:350px){
+    .vidlarr,.vidrarr{margin-top:60px;}
+}
 @media only screen and (max-width:450px), (max-height:450px) {
     .larr,.rarr{opacity:1!important;color:white!important;}
     .thisphoto{height:100%!important;top:0;}
