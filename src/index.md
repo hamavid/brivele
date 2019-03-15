@@ -17,7 +17,7 @@ outdirs: '.'
 <div id="mc_embed_signup">
 <form action="https://brivele.us19.list-manage.com/subscribe/post?u=0eba332778a4c9bc308cd72b1&amp;id=cb8f6ec040" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 <div id="mc_embed_signup_scroll">
-<p class='follow'>Follow us on <a href='https://www.facebook.com/brivele/'>Facebook</a><br/>Or sign up for our mailing list to hear (occasionally) about shows and news!</p>
+<p class='follow'>Follow us on <a href='https://www.facebook.com/brivele/'>Facebook</a> or <a href='https://www.instagram.com/brivelemusic/'>Instagram</a><br/>Or sign up for our mailing list to hear (occasionally) about shows and news!</p>
 <div class="mc-field-group">
 <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Your email address">
 <input type="submit" value="SIGN UP" name="subscribe" id="mc-embedded-subscribe" class="button">

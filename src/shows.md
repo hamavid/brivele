@@ -3,7 +3,7 @@ layout: page.html
 outdirs: '..'
 title: Shows
 ---
-<p class='follow'>Follow us on <a href='https://www.facebook.com/brivele/'>Facebook</a> or sign up for our <a href='../#mc_anchor'>mailing list</a> to hear (occasionally) about shows and news!</p><br/>
+<p class='follow'>Follow us on <a href='https://www.facebook.com/brivele/'>Facebook</a> or <a href='https://www.instagram.com/brivelemusic/'>Instagram</a><br>Or sign up for our <a href='../#mc_anchor'>mailing list</a> to hear (occasionally) about shows and news!</p><br/>
 
 ## Upcoming shows
 <ul class='showslist'>
