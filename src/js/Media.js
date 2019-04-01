@@ -177,7 +177,7 @@ $(document).ready(function(){
     var src=$(this).parent().find('img').attr('src');
     var tail=src.slice(src.indexOf('images/')+7);
     var show=tail.substring(0, tail.lastIndexOf('/'));
-    iterate(show, +1);
+    iterate(show, -1);
   });
 	$('.rarr, #rightside').click(function() {
     var src=$(this).parent().find('img').attr('src');

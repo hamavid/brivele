@@ -7,7 +7,6 @@ title: Shows
 
 ## Upcoming shows
 <ul class='showslist'>
-<li><span>**Sat Mar 30, 2019**</span><span>*[St. Mark's](https://saintmarks.org/)*</span><span>Playing as Brief at the [MEPC](http://www.kadima.org/middle-east-peace-camp.html) scholarship fundraiser with potluck and bake sale</span></li>
 <li><span>**Thu Apr 25, 2019**</span><span>*Venue TBA*</span><span>Kadima Passover</span></li>
 <li><span>**Sat May 11, 2019**</span><span>*[Phinney Center Concert Hall](https://goo.gl/maps/MmJsmxuyaAM2), Brick Building*</span><span>Seattle Folklore Society Concert: [An evening of Klezmer Music and Song](http://www.seafolklore.org/wp/events/kesselgarden-and-brivele-an-evening-of-klezmer-music-and-song/), with [Kesselgarden](https://sites.google.com/site/kesselgardenhomepage)</span></li>
 <li><span>**Thu May 23, 2019**</span><span>*Private Event*</span><span>Judith's 90th birthday party</span></li>
@@ -18,8 +17,9 @@ title: Shows
 
 ## Past shows
 <ul class='showslist'>
+<li><span>**Sat Mar 30, 2019**</span><span>*[St. Mark's](https://saintmarks.org/)*</span><span>[MEPC](http://www.kadima.org/middle-east-peace-camp.html) scholarship fundraiser with potluck and bake sale</span></li>
 <li><span>**Thu Mar 21, 2019**</span><span>*[Columbia City Theater](http://www.columbiacitytheater.com/)*</span><span>We might make a Brief appearance for Purim</span></li>
-<li><span>**Fri Mar 8, 2019**</span><span>*BELLINGHAM, WA: [Alternative Library](http://altlib.org/)*</span><span>[An Evening with Brivele and Other Jewish AntiFascists Living and Dead](https://www.facebook.com/events/312960589333263/)</span></li>
+<li><span>**Fri Mar 8, 2019**</span><span>*BELLINGHAM, WA: [Alternative Library](http://altlib.org/)*</span><span>[An Evening with Brivele and Other Jewish AntiFascists](https://www.facebook.com/events/312960589333263/)</span></li>
 <li><span>**Sat Feb 23, 2019**</span><span>*OLYMPIA, WA: [The Carlton House](https://goo.gl/maps/gbFbxnWYr8k)*</span><span>[With Varda](https://www.facebook.com/events/292052821500939/)</span></li>
 <li><span>**Sun Feb 17, 2019, 8pm**</span><span>*CORVALLIS, OR: [Interzone Cafe](https://goo.gl/maps/8wbhiFuQkWq)*</span><span>[Evening show](../images/shows/brivele_interzone.pdf)</span></li>
 <li><span>**Sun Feb 17, 2019, 4pm**</span><span>*EUGENE, OR: [Temple Beth Israel](https://www.tbieugene.org/)*</span><span>[Afternoon show](https://www.facebook.com/events/2060278144020483/)</span></li>
