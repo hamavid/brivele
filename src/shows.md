@@ -7,7 +7,6 @@ title: Shows
 
 ## Upcoming shows
 <ul class='showslist'>
-<li><span>**Thu May 2, 2019**</span><span>*Private Event*</span><span>Sandy's retirement party</span></li>
 <li><span>**Sat May 11, 2019**</span><span>*[Phinney Center Concert Hall](https://goo.gl/maps/MmJsmxuyaAM2), Brick Building*</span><span>Seattle Folklore Society Concert: [An evening of Klezmer Music and Song](http://www.seafolklore.org/wp/events/kesselgarden-and-brivele-an-evening-of-klezmer-music-and-song/), with [Kesselgarden](https://sites.google.com/site/kesselgardenhomepage)</span></li>
 <li><span>**Mon May 27, 2019, 6:10-6:40pm**</span><span>*Seattle Center, [Folklife Underground Caf&eacute;](https://www.nwfolklife.org/experience/festival-map-2019/)*</span><span>Showcase with [Bellows and Squawk](https://www.bellowsandsquawk.com/) at the [Northwest Folklife Festival](https://www.nwfolklife.org/festival/)</span></li>
 <li><span>**Sat Jun 1, 2019**</span><span>*Private Event*</span><span>Judith's 90th birthday party</span></li>
@@ -17,6 +16,7 @@ title: Shows
 
 ## Past shows
 <ul class='showslist'>
+<li><span>**Thu May 2, 2019**</span><span>*Private Event*</span><span>Sandy's retirement party</span></li>
 <li><span>**Thu Apr 25, 2019**</span><span>*[Hillman City Collaboratory](https://hillmancitycollaboratory.org/)*</span><span>[Kadima Passover](https://secure.lglforms.com/form_engine/s/NS1PomR7oB25RQSq1TezRw)</span></li>
 <li><span>**Sat Mar 30, 2019**</span><span>*[St. Mark's](https://saintmarks.org/)*</span><span>[MEPC](http://www.kadima.org/middle-east-peace-camp.html) scholarship fundraiser with potluck and bake sale</span></li>
 <li><span>**Thu Mar 21, 2019**</span><span>*[Columbia City Theater](http://www.columbiacitytheater.com/)*</span><span>A Brief appearance for Purim</span></li>
