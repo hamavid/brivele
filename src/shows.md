@@ -9,7 +9,7 @@ title: Shows
 <ul class='showslist'>
 <li><span>**Mon May 27, 2019, 6:10-6:40pm**</span><span>*Seattle Center, [Folklife Underground Caf&eacute;](https://www.nwfolklife.org/experience/festival-map-2019/)*</span><span>[Showcase](https://www.facebook.com/events/2236768783078145/) with [Bellows and Squawk](https://www.bellowsandsquawk.com/) at the [Northwest Folklife Festival](https://www.nwfolklife.org/festival/)</span></li>
 <li><span>**Sat Jun 1, 2019**</span><span>*Private Event*</span><span>Judith's 90th birthday party</span></li>
-<li><span>**Sun Jul 28, 2019**</span><span>*House show - message for address*</span><span>Candace's kugel caf&eacute;</span></li>
+<li><span>**Sun Jul 28, 2019**</span><span>*House show, Rainier Valley - message for address*</span><span>Candace's Kugel Caf&eacute;</span></li>
 </ul>
 
 
