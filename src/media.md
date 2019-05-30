@@ -23,6 +23,7 @@ title: Media
 </div>
 
 <h1>VIDEO</h1>
+<p class='follow'><span style='font-size:1.5em;'>Watch more on our <a href='https://www.youtube.com/channel/UCmr6wOxFd3DQY7nJqINhQqw'>YouTube</a> channel</span></p>
 <div class='videoembed'>
 <div class='video'>
 <span class='caption'>Live at the Tractor Tavern, November 2018.</span>

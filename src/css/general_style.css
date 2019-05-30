@@ -1,4 +1,4 @@
-html,body{margin:0;padding:0;background-color:#FDF0DF;color:#000;}
+html,body{margin:0;padding:0;background-color:#FDF0DF;color:#000;box-sizing: border-box;}
 a,a:visited,a:hover,a:active{color:black;}
 body {
 	text-align:center;
@@ -102,7 +102,7 @@ nav a{
 	.bignavlinks a {padding:0.2em 0.45em;}
 	body{padding:0;}
 }
-@media only screen and (max-width:590px){
+@media only screen and (max-width:650px){
 	.bignavlinks a {font-size:1em;} /* NOTE: change select-class in all page-specific css if this max width or font size changes */
 	.reviews p{margin-left:0.5em;margin-right:0.5em;}
 }
