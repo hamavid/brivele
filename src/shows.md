@@ -7,7 +7,7 @@ title: Shows
 
 ## Upcoming shows
 <ul class='showslist'>
-<li><span>**Sat Jun 1, 2019**</span><span>*Private Event*</span><span>Judith's 90th birthday party</span></li>
+<li><span>**Thu Jul 18, 2019**</span><span>*House show, Meadowbrook - message for address*</span><span>Homestead summer show</span></li>
 <li><span>**Sun Jul 28, 2019**</span><span>*Private Event*</span><span>Candace's Kugel Caf&eacute;</span></li>
 </ul>
 
@@ -15,6 +15,7 @@ title: Shows
 
 ## Past shows
 <ul class='showslist'>
+<li><span>**Sat Jun 1, 2019**</span><span>*Private Event*</span><span>Judith's 90th birthday party</span></li>
 <li><span>**Mon May 27, 2019, 6:10-6:40pm**</span><span>*Seattle Center, [Folklife Underground Caf&eacute;](https://www.nwfolklife.org/experience/festival-map-2019/)*</span><span>[Showcase](https://www.facebook.com/events/2236768783078145/) with [Bellows and Squawk](https://www.bellowsandsquawk.com/) at the [Northwest Folklife Festival](https://www.nwfolklife.org/festival/)</span></li>
 <li><span>**Sat May 11, 2019**</span><span>*[Phinney Center Concert Hall](https://goo.gl/maps/MmJsmxuyaAM2), Brick Building*</span><span>Seattle Folklore Society Concert: [An evening of Klezmer Music and Song](http://www.seafolklore.org/wp/events/kesselgarden-and-brivele-an-evening-of-klezmer-music-and-song/), with [Kesselgarden](https://sites.google.com/site/kesselgardenhomepage)</span></li>
 <li><span>**Thu May 2, 2019**</span><span>*Private Event*</span><span>Sandy's retirement party</span></li>
