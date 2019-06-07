@@ -9,6 +9,7 @@ title: Shows
 <ul class='showslist'>
 <li><span>**Thu Jul 18, 2019**</span><span>*House show, Meadowbrook - message for address*</span><span>Homestead summer show</span></li>
 <li><span>**Sun Jul 28, 2019**</span><span>*Private Event*</span><span>Candace's Kugel Caf&eacute;</span></li>
+<li><span>**Mon Aug 12, 2019**</span><span>*[Copious](https://www.copious.art/)*</span><span>With [The Spectacles](http://www.thespectacles.org/)</span></li>
 </ul>
 
 
