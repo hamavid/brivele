@@ -8,7 +8,10 @@ title: Shows
 ## Upcoming shows
 <ul class='showslist'>
 <li><span>**Sat Jul 6, 2019**</span><span>*[Salsa N' Seattle Dance Studio](https://www.salsanseattle.com)*</span><span>Playing as Brief at [HomeWord :: Queering Diaspora through Talmud](https://www.facebook.com/events/442261356588698/)</span></li>
-<li><span>**Thu Jul 18, 2019**</span><span>*House show, Meadowbrook - message for address*</span><span>Homestead summer show</span></li>
+<li><span>**Thu Jul 11, 2019**</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>Fundraiser show for [Seattle/King County Coalition on Homelessness](http://homelessinfo.org/)</span></li>
+<!--<li><span>**Fri Jul 12, 2019**</span><span>OLYMPIA: [Olympia Timberland Library](https://www.trl.org/locations/olympia)</span><span>Free show post all-day all-ages zine workshop, with [The Beauty](https://thebeautyolympia.bandcamp.com/)</span></li>
+<li><span>**Sat Jul 13, 2019**</span><span>PORT TOWNSEND</span><span>With [The Beauty](https://thebeautyolympia.bandcamp.com/) and [Rowan Katz](https://soundcloud.com/rowanwantsyoursoul)</span></li>-->
+<li><span>**Thu Jul 18, 2019, 7pm**</span><span>*House show, Meadowbrook - message for address*</span><span>Homestead summer show</span></li>
 <li><span>**Sun Jul 28, 2019**</span><span>*Private Event*</span><span>Candace's Kugel Caf&eacute;</span></li>
 <li><span>**Mon Aug 12, 2019**</span><span>*[Copious](https://www.copious.art/)*</span><span>With [The Spectacles](http://www.thespectacles.org/)</span></li>
 </ul>
