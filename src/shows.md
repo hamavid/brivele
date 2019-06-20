@@ -10,7 +10,7 @@ title: Shows
 <li><span>**Sat Jul 6, 2019**</span><span>*[Salsa N' Seattle Dance Studio](https://www.salsanseattle.com)*</span><span>Playing as Brief at [HomeWord :: Queering Diaspora through Talmud](https://www.facebook.com/events/442261356588698/)</span></li>
 <li><span>**Thu Jul 11, 2019**</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>Fundraiser show for [Seattle/King County Coalition on Homelessness](http://homelessinfo.org/)</span></li>
 <!--<li><span>**Fri Jul 12, 2019**</span><span>OLYMPIA: [Olympia Timberland Library](https://www.trl.org/locations/olympia)</span><span>Free show post all-day all-ages zine workshop, with [The Beauty](https://thebeautyolympia.bandcamp.com/)</span></li>
-<li><span>**Sat Jul 13, 2019**</span><span>PORT TOWNSEND</span><span>With [The Beauty](https://thebeautyolympia.bandcamp.com/) and [Rowan Katz](https://soundcloud.com/rowanwantsyoursoul)</span></li>-->
+<li><span>**Sat Jul 13, 2019**</span><span>PORT TOWNSEND</span><span>With [The Beauty](https://thebeautyolympia.bandcamp.com/) and [Rowan Katz](https://rowankatz.bandcamp.com/)</span></li>-->
 <li><span>**Thu Jul 18, 2019**</span><span>*House show, Meadowbrook - message for address*</span><span>[Homestead summer show](https://www.facebook.com/events/443470329823687/)</span></li>
 <li><span>**Sun Jul 28, 2019**</span><span>*Private Event*</span><span>Candace's Kugel Caf&eacute;</span></li>
 <li><span>**Mon Aug 12, 2019**</span><span>*[Copious](https://www.copious.art/)*</span><span>With [The Spectacles](http://www.thespectacles.org/)</span></li>
@@ -19,6 +19,7 @@ title: Shows
 
 
 ## Past shows
+<div id='2019'>
 <ul class='showslist'>
 <li><span>**Sat Jun 1, 2019**</span><span>*Private Event*</span><span>Judith's 90th birthday party</span></li>
 <li><span>**Mon May 27, 2019, 6:10-6:40pm**</span><span>*Seattle Center, [Folklife Underground Caf&eacute;](https://www.nwfolklife.org/experience/festival-map-2019/)*</span><span>[Showcase](https://www.facebook.com/events/2236768783078145/) with [Bellows and Squawk](https://www.bellowsandsquawk.com/) at the [Northwest Folklife Festival](https://www.nwfolklife.org/festival/)</span></li>
@@ -33,13 +34,19 @@ title: Shows
 <li><span>**Sun Feb 17, 2019, 4pm**</span><span>*EUGENE, OR: [Temple Beth Israel](https://www.tbieugene.org/)*</span><span>[Afternoon show](https://www.facebook.com/events/2060278144020483/)</span></li>
 <li><span>**Sat Feb 16, 2019, 6pm**</span><span>*SALEM, OR: [Temple Beth Sholom](https://tbsholom.org/)*</span><span>Leading Havdallah, with concert following</span></li>
 <li><span>**Sat Jan 19, 2019**</span><span>*PORTLAND, OR: [Twilight Cafe and Bar](https://www.twilightcafeandbar.com/)*</span><span>[With Dead Coyote, Mom's Mad, and Sparkle Carpet](https://www.facebook.com/events/272918153421551/)</span></li>
+</ul>
+</div>
+
+<div id='s2018'>
+<h2><i class="fa fa-caret-right fa-lg"></i>2018</h2>
+<ul class='showslist'>
 <li><span>**Fri Dec 7, 2018**</span><span>*[Cafe Paloma](https://goo.gl/maps/waw3EGymy9G2)*</span><span>With [Malke &amp; the Boychiks](https://www.facebook.com/malkeboychiks/)</span></li>
 <li><span>**Sun Dec 2, 2018**</span><span>*House show, Ravenna - message for address*</span><span>[At Doug and Robin's](https://www.facebook.com/DougandRobinHouseConcerts/)</span></li>
 <li><span>**Tue Nov 20, 2018**</span><span>*[The Tractor Tavern](http://www.tractortavern.com/)*</span><span>[Opening for Daniel Kahn &amp; The Painted Bird, Geoff Berner, and The Debaucherauntes](https://www.facebook.com/events/174277766795920/)</span></li>
-<li><span>**Sat Nov 3, 2018**</span><span>*[Duvall Visitor Center](https://goo.gl/maps/24tf1Zgxm3G2)*</span><span>Multi-band concert and art show</li>
-<li><span>**Fri Oct 19, 2018**</span><span>*House show at the Murder Mine, near Judkins Park - message for address*</span><span>[With Sparkle Carpet, Loud in the Morning, and Special Place in Hell](https://www.facebook.com/events/281504449351941/)</li>
-<li><span>**Sun Oct 14, 2018**</span><span>*[Left Bank Books](http://www.leftbankbooks.com/)*</span><span>[45th Anniversary Party](https://www.facebook.com/events/898169157060359/), with [Danbert Nobacon and Kira Wood Cramer](https://thebadthings.bandcamp.com/album/woebegone), and [Squill](https://squilll.bandcamp.com/)</li>
-<li><span>**Fri Sep 28, 2018**</span><span>*[Hillman City Collaboratory](https://hillmancitycollaboratory.org/)*</span><span>[The Rhapsody Project](https://www.therhapsodyproject.org/about) monthly concert series</li>
+<li><span>**Sat Nov 3, 2018**</span><span>*[Duvall Visitor Center](https://goo.gl/maps/24tf1Zgxm3G2)*</span><span>Multi-band concert and art show</span></li>
+<li><span>**Fri Oct 19, 2018**</span><span>*House show at the Murder Mine, near Judkins Park - message for address*</span><span>[With Sparkle Carpet, Loud in the Morning, and Special Place in Hell](https://www.facebook.com/events/281504449351941/)</span></li>
+<li><span>**Sun Oct 14, 2018**</span><span>*[Left Bank Books](http://www.leftbankbooks.com/)*</span><span>[45th Anniversary Party](https://www.facebook.com/events/898169157060359/), with [Danbert Nobacon and Kira Wood Cramer](https://thebadthings.bandcamp.com/album/woebegone), and [Squill](https://squilll.bandcamp.com/)</span></li>
+<li><span>**Fri Sep 28, 2018**</span><span>*[Hillman City Collaboratory](https://hillmancitycollaboratory.org/)*</span><span>[The Rhapsody Project](https://www.therhapsodyproject.org/about) monthly concert series</span></li>
 <li><span>**Mon Aug 27, 2018**</span><span>*MONTREAL: [5074 Rue de Mentana](https://goo.gl/maps/EefkASQdr4Q2) (aka The Riot)*</span><span>[Klezmer at The Riot, Part 2](https://www.facebook.com/events/2249494601757471)</span></li>
 <li><span>**Sun Aug 19, 2018**</span><span>*MONTREAL: [Museum of Jewish Montreal](http://imjm.ca/)*</span><span>[Klezmer Brunch](https://www.facebook.com/events/457826584685595/)</span></li>
 <li><span>**Sun July 8, 2018**</span><span>*Occidental Park*</span><span>Brief at Kadima's 40th Anniversary</span></li>
@@ -51,8 +58,15 @@ title: Shows
 <li><span>**Sat Mar 3, 2018**</span><span>*[Nii Modo Gallery](https://www.facebook.com/niimodo/)*</span><span>MC-ing Kadima’s annual Purim party as Brief, with [The Debaucherauntes](https://www.facebook.com/thedebaucherauntes/) and Shpilkis</span></li>
 <li><span>**Sat Jan 20, 2018**</span><span>*House show, Udistrict - message for address*</span><span>With Sonya &amp; [Brian](http://www.countercurrentmusic.com/) and <a href='http://sarahshay.com'>Sarah Shay</a></span></li>
 <li><span>**Tue Jan 16, 2018**</span><span>*[The Good Egg](https://www.goodeggbi.com/)*</span><span>Playing as Brief for MOX: an Eastern Bloc Party, menu by [Mossback](http://www.mossbackcafe.com/new-index)</span></li>
+</ul>
+</div>
+
+<div id='s2017'>
+<h2><i class="fa fa-caret-right fa-lg"></i>2017</h2>
+<ul class='showslist'>
 <li><span>**Sat Dec 16, 2017**</span><span>*[Columbia City Theater](http://www.columbiacitytheater.com/)*</span><span>Bubbe's Old-fashioned Hanukkah shindig  [(Tickets](http://www.columbiacitytheater.com/events/49886022/the-6th-annual-bubbes-old-fashioned-hanukkah-shindig), [Facebook)](https://www.facebook.com/events/1893384187657149/) with [The Debaucherauntes](https://www.facebook.com/thedebaucherauntes/) and others</span></li>
 <li><span>**Sat Nov 18, 2017**</span><span>*[Cafe Paloma](http://www.cafepaloma.com/)*</span><span>With [Borys Kossakowski](http://www.kossakowski.art.pl) and [Todo Es](http://www.todoesjazz.com/) at Muhabbet, hosted by Peter Lippman</span></li>
 <li><span>**Mon Oct 23, 2017**</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>With [Oddjob Ensemble](http://www.oddjobensemble.com/) and [The Debaucherauntes](https://www.facebook.com/thedebaucherauntes/)</span></li>
 <li><span>**Fri Aug 4, 2017**</span><span>*[The Pocket Theater](http://thepocket.org/)*</span><span>[Little Letters: for your ears only](https://www.facebook.com/events/836392326529179/) with [On a Clear Day](https://stefaniebrendler.com/projects/on-a-clear-day/)</span></li>
 </ul>
+</div>
