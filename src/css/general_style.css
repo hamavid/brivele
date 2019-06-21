@@ -92,6 +92,10 @@ nav a{
 }
 .name img {position:relative;margin:auto;margin-top:0.8em;width:80%;max-width:450px}
 .follow{text-align:center;color:#da810f;font-size:1.1em;font-weight:bold;}
+/* signup form details */
+.signupdetails a {font-size:0.8em; padding:0.4em 0.9em;}
+#showhelpsignup {cursor:pointer;}
+#helpsignup{display:none;}
 
 /* for small screens */
 /*@media only screen and (max-width:895px){ ## once EPK is added this format is for all widths*/

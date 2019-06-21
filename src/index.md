@@ -21,7 +21,9 @@ outdirs: '.'
 <div class="mc-field-group">
 <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Your email address">
 <input type="submit" value="SIGN UP" name="subscribe" id="mc-embedded-subscribe" class="button">
-<p style='font-size:0.8em;'><a href="https://us19.campaign-archive.com/home/?u=0eba332778a4c9bc308cd72b1&id=cb8f6ec040" title="View past emails">View past newsletters</a></p>
+<p class='signupdetails'><a href="https://us19.campaign-archive.com/home/?u=0eba332778a4c9bc308cd72b1&id=cb8f6ec040" title="View past emails">View past newsletters</a>
+<a id='showhelpsignup' href='javascript:;''>Sign up form not working?</a><div id='helpsignup'>If the form isn't working, try changing your browser's privacy settings to disable content-blocking for brivele.com. Or just email us at info@brivele.com and say you'd like to be added to the list!</div>
+</p>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
