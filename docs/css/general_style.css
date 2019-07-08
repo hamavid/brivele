@@ -59,7 +59,7 @@ figcaption {font-size:0.8em;font-style:italic;}
 }
 
 /* control look and behavior of navbar and its contents for diff window sizes */
-.bignavlinks {margin:1em;}
+.bignavlinks {margin:1em;display:block;}
 .bignavlinks a {padding:0.2em 1em;height:1.1em;border-radius:5px;}
 nav a{
 	color:black;

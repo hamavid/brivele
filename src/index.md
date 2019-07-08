@@ -22,7 +22,7 @@ outdirs: '.'
 <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Your email address">
 <input type="submit" value="SIGN UP" name="subscribe" id="mc-embedded-subscribe" class="button">
 <p class='signupdetails'><a href="https://us19.campaign-archive.com/home/?u=0eba332778a4c9bc308cd72b1&id=cb8f6ec040" title="View past emails">View past newsletters</a>
-<a id='showhelpsignup' href='javascript:;''>Sign up form not working?</a><div id='helpsignup'>If the form isn't working, try changing your browser's privacy settings to disable content-blocking for brivele.com. Or just email us at info@brivele.com and say you'd like to be added to the list!</div>
+<a id='showhelpsignup' href='javascript:;'>Sign up form not working?</a><div id='helpsignup'>If the form isn't working, try changing your browser's privacy settings to disable content-blocking for brivele.com. Or just email us at info@brivele.com and say you'd like to be added to the list!</div>
 </p>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
@@ -35,7 +35,6 @@ outdirs: '.'
 </div>
 </form>
 </div>
-<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';fnames[6]='MMERGE6';ftypes[6]='text';fnames[7]='MMERGE7';ftypes[7]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 </div>
 <!--End mc_embed_signup-->
 
@@ -49,3 +48,5 @@ I also want to say how much I enjoyed the invented parts of the album, like the 
 <span class='reviewer'>&mdash;Dan Blacksberg of the <span style='font-style:normal'>Radiant Others</span> podcast</span>
 </p>
 </div>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
+<script type='text/javascript' src='../js/mailchimpscript.js'</script>

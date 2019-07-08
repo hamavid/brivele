@@ -1,9 +1,11 @@
 $(document).ready(function(){
+
 // open small nav menu on navbar click and show overlay, close when overlay is clicked or navbars are clicked again
+	$('.navbar-bars, .overlay').bind('click', togglemenu);
 	function togglemenu() {
 		$('.smallnavlinks').slideToggle();$('#overlaybkgrnd').fadeToggle();
 	};
-	//$('.navbar-bars, .overlay').click(togglemenu());
+	
 
 // swipe up to close menu
  	/*$('.smallnavlinks, .overlay').touchwipe({
@@ -13,7 +15,8 @@ $(document).ready(function(){
 */
 
 // show signup form help when help span is clicked
-	$('#showhelpsignup').click(function(){$('#helpsignup').slideToggle()});
+ $('#showhelpsignup').click(function(){$('#helpsignup').slideToggle()});
+
 
 
 });
