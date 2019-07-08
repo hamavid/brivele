@@ -26,6 +26,8 @@ outdirs: '.'
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
+	<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
+	<script type='text/javascript' src='../js/mailchimpscript.js'></script>
 	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true">
     <input type="text" name="b_0eba332778a4c9bc308cd72b1_cb8f6ec040" tabindex="-1" value="">
@@ -36,12 +38,11 @@ outdirs: '.'
 </div>
 </div><!--End mc_embed_signup-->
 <div class='reviews'>
-
-To me, this is what klezmer, or folk music, or ok, all music should be. It's aware and serious about the tradition in which it's working. But it understands that music is above all for making people feel something, dammit. There's beauty in the sadness, and there's good laughs in the funny bits. It's reassuring and inspiring to hear a song like Vi Azoy Shloft Der Keyser and realize how witty and subversive these old time people were. The Yiddish in the Yiddish songs is pronounced and sung beautifully, too. <span style='font-style:italic'>A Little Letter</span> is the kind of record I aspire to make.<br/><br/>I also want to say how much I enjoyed the invented parts of the album, like the commentary on Amazon and the housing crisis in the Hungry Yid song. Brivele don't just ride the tradition or recreate it, they do their part to add clever relevance, to keep the tradition truly living and growing.<br/><br/>
+<p>To me, this is what klezmer, or folk music, or ok, all music should be. It's aware and serious about the tradition in which it's working. But it understands that music is above all for making people feel something, dammit. There's beauty in the sadness, and there's good laughs in the funny bits. It's reassuring and inspiring to hear a song like Vi Azoy Shloft Der Keyser and realize how witty and subversive these old time people were. The Yiddish in the Yiddish songs is pronounced and sung beautifully, too. <span style='font-style:italic'>A Little Letter</span> is the kind of record I aspire to make.<br/><br/>I also want to say how much I enjoyed the invented parts of the album, like the commentary on Amazon and the housing crisis in the Hungry Yid song. Brivele don't just ride the tradition or recreate it, they do their part to add clever relevance, to keep the tradition truly living and growing.<br/><br/>
 <span class='reviewer'>&mdash;Geoff Berner, Vancouver klezmer punk gives-no-fucks accordion player &amp; novelist</span>
-
+</p>
+<p>
 Brivele's new EP brings Yiddish song and sensibility into the world of punk-folk like it was always meant to be with tight vocal harmonies, creative arrangements, and hard hitting political clarity!<br/><br/>
 <span class='reviewer'>&mdash;Dan Blacksberg of the <span style='font-style:normal'>Radiant Others</span> podcast</span>
+</p>
 </div>
-<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
-<script type='text/javascript' src='../js/mailchimpscript.js'</script>
