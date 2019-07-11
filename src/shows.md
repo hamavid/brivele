@@ -11,7 +11,7 @@ title: Shows
 <li><span>**Fri Jul 12, 2019**</span><span>*PORT TOWNSEND: [Phosphene](https://www.we-are-phosphene.com/)*</span><span>[Show](https://www.facebook.com/events/469965113818918/) with [The Beauty](https://thebeautyolympia.bandcamp.com/) and [Rowan Katz](https://rowankatz.bandcamp.com/)</span></li>
 <li><span>**Sat Jul 13, 2019**</span><span>*OLYMPIA: [Olympia Timberland Library](https://www.trl.org/locations/olympia)*</span><span>[Free show](https://www.facebook.com/events/291068885005334) post all-day all-ages zine workshop, with [The Beauty](https://thebeautyolympia.bandcamp.com/)</span></li>
 <li><span>**Thu Jul 18, 2019**</span><span>*House show, Meadowbrook - message for address*</span><span>[Homestead summer show](https://www.facebook.com/events/443470329823687/)</span></li>
-<li><span>**Sun Jul 28, 2019**</span><span>*Private Event*</span><span>Candace's Kugel Caf&eacute;</span></li>
+<li><span>**Sun Jul 28, 2019**</span><span>*Private Event*</span><span>[Candace's Kugel Caf&eacute;](https://www.facebook.com/events/2027659847338709)</span></li>
 <li><span>**Mon Aug 12, 2019**</span><span>*[Copious](https://www.copious.art/)*</span><span>With [The Spectacles](http://www.thespectacles.org/)</span></li>
 </ul>
 
