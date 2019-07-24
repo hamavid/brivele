@@ -9,14 +9,13 @@ title: Shows
 <ul class='showslist'>
 <li><span>**Sun Jul 28, 2019**</span><span>*Private Event*</span><span>[Candace's Kugel Caf&eacute;](https://www.facebook.com/events/2027659847338709)</span></li>
 <li><span>**Mon Aug 12, 2019**</span><span>*[Copious](https://www.copious.art/)*</span><span>With [The Spectacles](http://www.thespectacles.org/)</span></li>
-<!--<li><span>**Sun Aug 18, 2019**</span><span>*SOMERVILLE, MA: The Caf&eacute; at The Armory*</span><span>With special guest</span></li>
-<li><span>**Mon Aug 26, 2019**</span><span>*MONTREAL: [5074 Rue de Mentana](https://goo.gl/maps/EefkASQdr4Q2) (aka The Riot)*</span><span>Klezmer at The Riot, Part 3</span></li>
-<li><span>**Tue Aug 27, 2019**</span><span>*PIONEER VALLEY, MA: TBA*</span><span>With Burikes</span></li>
-<li><span>**Wed Aug 28, 2019**</span><span>*NEW YORK, NY: [Jalopy Theater](http://jalopytheatre.org/)*</span><span>Roots &amp; Ruckus showcase</span></li>
-<li><span>**Thu Aug 29, 2019**</span><span>*PHILADELPHIA, PA: House show, West Philly - message for address*</span><span>With Dot's synogogue simcha band</span></li>
-<li><span>**Fri Aug 30, 2019**</span><span>*BALTIMORE, MD: TBA*</span><span>With Mark Gunnery</span></li>-->
+<li><span>**Sun Aug 18, 2019**</span><span>*SOMERVILLE, MA: [The Caf&eacute; at The Armory](https://artsatthearmory.org/cafe/)*</span><span>With TBA</span></li>
+<li><span>**Mon Aug 26, 2019**</span><span>*MONTREAL, QC: [5074 Rue de Mentana](https://goo.gl/maps/EefkASQdr4Q2) (aka The Riot)*</span><span>Klezmer at The Riot, Part 3</span></li>
+<li><span>**Tue Aug 27, 2019**</span><span>*NORTHAMPTON, MA: House show - message for address*</span><span>With [Burikes](https://www.facebook.com/burikes/)</span></li>
+<li><span>**Wed Aug 28, 2019**</span><span>*NEW YORK, NY: [Jalopy Theater](http://jalopytheatre.org/)*</span><span>[Roots &amp; Ruckus showcase](https://gothamist.com/2015/12/01/red_hook_folk_roots_ruckus.php)</span></li>
+<li><span>**Thu Aug 29, 2019**</span><span>*PHILADELPHIA, PA: House show, 50th &amp; Larchwood - message for address*</span><span>With Dot's synogogue simcha band</span></li>
+<li><span>**Fri Aug 30, 2019**</span><span>*BALTIMORE, MD: [2640 Space](https://www.2640space.net/)*</span><span>With [Mark Gunnery](https://markgunnery.com/)</span></li>
 </ul>
-
 
 
 ## Past shows
@@ -24,7 +23,7 @@ title: Shows
 <ul class='showslist'>
 <li><span>**Thu Jul 18, 2019**</span><span>*House show, Meadowbrook - message for address*</span><span>[Homestead summer show](https://www.facebook.com/events/443470329823687/)</span></li>
 <li><span>**Sat Jul 13, 2019**</span><span>*OLYMPIA, WA: [Olympia Timberland Library](https://www.trl.org/locations/olympia)*</span><span>[Free show](https://www.facebook.com/events/291068885005334) post all-day all-ages zine workshop, with [The Beauty](https://thebeautyolympia.bandcamp.com/)</span></li>
-<li><span>**Fri Jul 12, 2019**</span><span>*PORT TOWNSEND: [Phosphene](https://www.we-are-phosphene.com/)*</span><span>[Show](https://www.facebook.com/events/469965113818918/) with [The Beauty](https://thebeautyolympia.bandcamp.com/) and [Rowan Katz](https://rowankatz.bandcamp.com/)</span></li>
+<li><span>**Fri Jul 12, 2019**</span><span>*PORT TOWNSEND, WA: [Phosphene](https://www.we-are-phosphene.com/)*</span><span>[Show](https://www.facebook.com/events/469965113818918/) with [The Beauty](https://thebeautyolympia.bandcamp.com/) and [Rowan Katz](https://rowankatz.bandcamp.com/)</span></li>
 <li><span>**Thu Jul 11, 2019**</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>[Fundraiser show](https://www.facebook.com/events/435827223924401/) for Seattle/King County Coalition on Homelessness ([SKCCH](http://homelessinfo.org/))</span></li>
 <li><span>**Sat Jul 6, 2019**</span><span>*[Salsa N' Seattle Dance Studio](https://www.salsanseattle.com)*</span><span>Playing as Brief at [HomeWord :: Queering Diaspora through Talmud](https://www.facebook.com/events/442261356588698/)</span></li>
 <li><span>**Sat Jun 1, 2019**</span><span>*Private Event*</span><span>Judith's 90th birthday party</span></li>
@@ -53,8 +52,8 @@ title: Shows
 <li><span>**Fri Oct 19, 2018**</span><span>*House show at the Murder Mine, near Judkins Park - message for address*</span><span>[With Sparkle Carpet, Loud in the Morning, and Special Place in Hell](https://www.facebook.com/events/281504449351941/)</span></li>
 <li><span>**Sun Oct 14, 2018**</span><span>*[Left Bank Books](http://www.leftbankbooks.com/)*</span><span>[45th Anniversary Party](https://www.facebook.com/events/898169157060359/), with [Danbert Nobacon and Kira Wood Cramer](https://thebadthings.bandcamp.com/album/woebegone), and [Squill](https://squilll.bandcamp.com/)</span></li>
 <li><span>**Fri Sep 28, 2018**</span><span>*[Hillman City Collaboratory](https://hillmancitycollaboratory.org/)*</span><span>[The Rhapsody Project](https://www.therhapsodyproject.org/about) monthly concert series</span></li>
-<li><span>**Mon Aug 27, 2018**</span><span>*MONTREAL: [5074 Rue de Mentana](https://goo.gl/maps/EefkASQdr4Q2) (aka The Riot)*</span><span>[Klezmer at The Riot, Part 2](https://www.facebook.com/events/2249494601757471)</span></li>
-<li><span>**Sun Aug 19, 2018**</span><span>*MONTREAL: [Museum of Jewish Montreal](http://imjm.ca/)*</span><span>[Klezmer Brunch](https://www.facebook.com/events/457826584685595/)</span></li>
+<li><span>**Mon Aug 27, 2018**</span><span>*MONTREAL, QC: [5074 Rue de Mentana](https://goo.gl/maps/EefkASQdr4Q2) (aka The Riot)*</span><span>[Klezmer at The Riot, Part 2](https://www.facebook.com/events/2249494601757471)</span></li>
+<li><span>**Sun Aug 19, 2018**</span><span>*MONTREAL, QC: [Museum of Jewish Montreal](http://imjm.ca/)*</span><span>[Klezmer Brunch](https://www.facebook.com/events/457826584685595/)</span></li>
 <li><span>**Sun July 8, 2018**</span><span>*Occidental Park*</span><span>Brief at Kadima's 40th Anniversary</span></li>
 <li><span>**Sat Jun 23, 2018**</span><span>*[Cafe Paloma](http://www.cafepaloma.com/)*</span><span>[CD release show!](https://www.facebook.com/events/424903964618753/)</span></li>
 <li><span>**Mon May 28, 2018, 12:30-1pm**</span><span>*Seattle Center, [Fisher Green Stage](https://www.nwfolklife.org/experience/festival-map-2017/)*</span><span>[Northwest Folklife Festival](https://www.nwfolklife.org/festival/)</span></li>

@@ -14,7 +14,8 @@
     display: table-cell;
     height: 2.1em; text-align:left;
 }
-.page-content ul li span:last-child{width:50%;text-align:right;}
+.page-content ul li span:2nd-child{width:30%;text-align:right;}
+.page-content ul li span:last-child{width:45%;text-align:right;}
 
 #s2018 h2, #s2017 h2{cursor:pointer;}
 #s2018 .fa, #s2017 .fa {padding-right:0.3em;}
