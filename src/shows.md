@@ -9,7 +9,7 @@ title: Shows
 <ul class='showslist'>
 <li><span>**Sun Jul 28, 2019**</span><span>*Private Event*</span><span>[Candace's Kugel Caf&eacute;](https://www.facebook.com/events/2027659847338709)</span></li>
 <li><span>**Mon Aug 12, 2019**</span><span>*[Copious](https://www.copious.art/)*</span><span>With [The Spectacles](http://www.thespectacles.org/)</span></li>
-<li><span>**Sun Aug 18, 2019**</span><span>*SOMERVILLE, MA: [The Caf&eacute; at The Armory](https://artsatthearmory.org/cafe/)*</span><span>With TBA</span></li>
+<li><span>**Sun Aug 18, 2019**</span><span>*SOMERVILLE, MA: [The Caf&eacute; at The Armory](https://artsatthearmory.org/cafe/)*</span><span>With [Klezwoods](http://klezwoods.com/)</span></li>
 <li><span>**Mon Aug 26, 2019**</span><span>*MONTREAL, QC: [5074 Rue de Mentana](https://goo.gl/maps/EefkASQdr4Q2) (aka The Riot)*</span><span>Klezmer at The Riot, Part 3</span></li>
 <li><span>**Tue Aug 27, 2019**</span><span>*NORTHAMPTON, MA: House show - message for address*</span><span>With [Burikes](https://www.facebook.com/burikes/)</span></li>
 <li><span>**Wed Aug 28, 2019**</span><span>*NEW YORK, NY: [Jalopy Theater](http://jalopytheatre.org/)*</span><span>[Roots &amp; Ruckus showcase](https://gothamist.com/2015/12/01/red_hook_folk_roots_ruckus.php)</span></li>
