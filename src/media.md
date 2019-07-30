@@ -55,7 +55,9 @@ title: Media
 <h1>PHOTOS</h1>
 <div class='sightspocket'>
 <div class='sights'>
-<div><span class='caption'>Khanike show at Cafe Paloma with Malke &amp; the Boychiks, Dec '18. <span class='total'>(3 images)</span></span><img src='../images/shows/paloma-khanike18/thumb.jpg'></div>
+<div><span class='caption'>Kugel Caf&eacute; backyard show, Jul '19. <span class='total'>(5 images)</span></span><img src='../images/shows/kugel-cafe19/thumb.jpg'></div>
+
+<!--<div><span class='caption'>Khanike show at Cafe Paloma with Malke &amp; the Boychiks, Dec '18. <span class='total'>(3 images)</span></span><img src='../images/shows/paloma-khanike18/thumb.jpg'></div>-->
 
 <div><span class='caption'>Klezmer at The Riot Part II, Montreal, Aug '18. Feat. Zafer and the Dans and Eleonore and Zoe!<span class='total'>(7 images)</span></span><img src='../images/shows/theriot-montreal18/thumb.jpg'></div>
 

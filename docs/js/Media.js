@@ -21,7 +21,8 @@ $(document).ready(function(){
   // Create a dictionary of img names for each show 
   // key is show name, which should =  name of the directory that has the relevant files
 	var showdict = {};
-  showdict['shows/paloma-khanike18'] = ['three.jpg', 'one.jpg', 'two.jpg'];
+  showdict['shows/kugel-cafe19'] = ['one.jpg', 'two.jpg', 'three.jpg', 'four.jpg', 'five.jpg'];
+  //showdict['shows/paloma-khanike18'] = ['three.jpg', 'one.jpg', 'two.jpg'];
   showdict['shows/theriot-montreal18'] = ['one.jpg', 'two.jpg', 'three.jpg', 'four.jpg', 'five.jpg', 'six.jpg', 'seven.jpg'];
   showdict['shows/paloma-release18'] = ['20180623_210640.jpg', '20180623_205751.jpg', '20180623_210655.jpg', 'janedrawing.jpg'];
   showdict['shows/cdassembly'] = ['20180604_171434.jpg', '20180604_191501.jpg', '20180604_191513.jpg', '20180604_203746.jpg', '20180604_214911.jpg', '20180604_221752.jpg'];
