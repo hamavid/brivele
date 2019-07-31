@@ -7,12 +7,12 @@ title: Shows
 
 ## Upcoming shows
 <ul class='showslist'>
-<li><span>**Mon Aug 12, 2019**</span><span>*[Copious](https://www.copious.art/)*</span><span>[A Night of 3-Part Harmony](https://www.copious.art/events/brivele-the-spectacles-concert), with [The Spectacles](http://www.thespectacles.org/)</span></li>
+<li><span>**Mon Aug 12, 2019**</span><span>*[Copious](https://www.copious.art/)*</span><span>[A Night of 3-Part Harmony](https://www.facebook.com/events/2312642112104320/), with [The Spectacles](http://www.thespectacles.org/). Tickets [here](https://www.copious.art/events/brivele-the-spectacles-concert).</span></li>
 <li><span>**Sun Aug 18, 2019**</span><span>*SOMERVILLE, MA: [The Caf&eacute; at The Armory](https://artsatthearmory.org/cafe/)*</span><span>With [Klezwoods](http://klezwoods.com/)</span></li>
 <li><span>**Mon Aug 26, 2019**</span><span>*MONTREAL, QC: [5074 Rue de Mentana](https://goo.gl/maps/EefkASQdr4Q2) (aka The Riot)*</span><span>Klezmer at The Riot, Part 3</span></li>
-<li><span>**Tue Aug 27, 2019**</span><span>*NORTHAMPTON, MA: House show - message for address*</span><span>With [Burikes](https://www.facebook.com/burikes/)</span></li>
+<li><span>**Tue Aug 27, 2019**</span><span>*NORTHAMPTON, MA: House show - message for address*</span><span>[Notes and Beats](https://www.facebook.com/events/560726447793981/), Brivele and [Burikes](https://www.facebook.com/burikes/) house show</span></li>
 <li><span>**Wed Aug 28, 2019**</span><span>*NEW YORK, NY: [Jalopy Theater](http://jalopytheatre.org/)*</span><span>[Roots &amp; Ruckus showcase](https://gothamist.com/2015/12/01/red_hook_folk_roots_ruckus.php)</span></li>
-<li><span>**Thu Aug 29, 2019**</span><span>*PHILADELPHIA, PA: House show, 50th &amp; Larchwood - message for address*</span><span>[Yiddish folk-punk from Seattle](https://www.facebook.com/events/472148883361196/) with Kol Tzedek's Simcha Band</span></li>
+<li><span>**Thu Aug 29, 2019**</span><span>*PHILADELPHIA, PA: House show, 50th &amp; Larchwood - message for address*</span><span>[Yiddish folk-punk from Seattle](https://www.facebook.com/events/472148883361196/) with [Kol Tzedek's Simcha Band](http://www.kol-tzedek.org/kts-simcha-band.html)</span></li>
 <li><span>**Fri Aug 30, 2019**</span><span>*BALTIMORE, MD: [2640 Space](https://www.2640space.net/)*</span><span>With [Mark Gunnery](https://markgunnery.com/)</span></li>
 </ul>
 
