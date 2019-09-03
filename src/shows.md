@@ -7,18 +7,19 @@ title: Shows
 
 ## Upcoming shows
 <ul class='showslist'>
-<li><span>**Sun Aug 18, 2019**</span><span>*SOMERVILLE, MA: [The Caf&eacute; at The Armory](https://artsatthearmory.org/cafe/)*</span><span>[Klezwoods](http://klezwoods.com/) and Brivele [Play the Armory](https://www.facebook.com/events/2349394411975726/)</span></li>
-<li><span>**Mon Aug 26, 2019**</span><span>*MONTREAL, QC: [5074 Rue de Mentana](https://goo.gl/maps/EefkASQdr4Q2) (aka The Riot)*</span><span>[Klezmer at The Riot 3.0](https://www.facebook.com/events/482053629250678/)</span></li>
-<li><span>**Tue Aug 27, 2019**</span><span>*NORTHAMPTON, MA: [Quaker Meeting House](https://goo.gl/maps/Y3o4G9MBcN4GqaUn9)*</span><span>[Notes and Beats](https://www.facebook.com/events/560726447793981/), Brivele and [Burikes](https://www.facebook.com/burikes/)</span></li>
-<li><span>**Wed Aug 28, 2019**</span><span>*BROOKLYN, NY: [Jalopy Theater](http://jalopytheatre.org/)*</span><span>[Roots &amp; Ruckus showcase](https://gothamist.com/2015/12/01/red_hook_folk_roots_ruckus.php)</span></li>
-<li><span>**Thu Aug 29, 2019**</span><span>*PHILADELPHIA, PA: House show, 50th &amp; Larchwood - message for address*</span><span>[Yiddish folk-punk from Seattle](https://www.facebook.com/events/472148883361196/) with [Kol Tzedek's Simcha Band](http://www.kol-tzedek.org/kts-simcha-band.html)</span></li>
-<li><span>**Fri Aug 30, 2019**</span><span>*BALTIMORE, MD: [2640 Space](https://www.2640space.net/)*</span><span>[Shabbes show](https://www.facebook.com/events/1074681909588923/) with [Mark Gunnery](https://markgunnery.com/) and TBA</span></li>
+<li><span>**Sat Dec 7, 2019**</span><span>*OLYMPIA, WA: [Temple Bat Hatfiloh](https://www.bethhatfiloh.org/)*</span><span>With Varda</span></li>
 </ul>
 
 
 ## Past shows
 <div id='2019'>
 <ul class='showslist'>
+<li><span>**Fri Aug 30, 2019**</span><span>*BALTIMORE, MD: [2640 Space](https://www.2640space.net/)*</span><span>[Shabbes show](https://www.facebook.com/events/1074681909588923/) with [Mark Gunnery](https://markgunnery.com/) and TBA</span></li>
+<li><span>**Thu Aug 29, 2019**</span><span>*PHILADELPHIA, PA: House show, 50th &amp; Larchwood - message for address*</span><span>[Yiddish folk-punk from Seattle](https://www.facebook.com/events/472148883361196/) with [Kol Tzedek's Simcha Band](http://www.kol-tzedek.org/kts-simcha-band.html)</span></li>
+<li><span>**Wed Aug 28, 2019**</span><span>*BROOKLYN, NY: [Jalopy Theater](http://jalopytheatre.org/)*</span><span>[Roots &amp; Ruckus showcase](https://gothamist.com/2015/12/01/red_hook_folk_roots_ruckus.php)</span></li>
+<li><span>**Tue Aug 27, 2019**</span><span>*NORTHAMPTON, MA: [Quaker Meeting House](https://goo.gl/maps/Y3o4G9MBcN4GqaUn9)*</span><span>[Notes and Beats](https://www.facebook.com/events/560726447793981/), Brivele and [Burikes](https://www.facebook.com/burikes/)</span></li>
+<li><span>**Mon Aug 26, 2019**</span><span>*MONTREAL, QC: [5074 Rue de Mentana](https://goo.gl/maps/EefkASQdr4Q2) (aka The Riot)*</span><span>[Klezmer at The Riot 3.0](https://www.facebook.com/events/482053629250678/)</span></li>
+<li><span>**Sun Aug 18, 2019**</span><span>*SOMERVILLE, MA: [The Caf&eacute; at The Armory](https://artsatthearmory.org/cafe/)*</span><span>[Klezwoods](http://klezwoods.com/) and Brivele [Play the Armory](https://www.facebook.com/events/2349394411975726/)</span></li>
 <li><span>**Mon Aug 12, 2019**</span><span>*[Copious](https://www.copious.art/)*</span><span>[A Night of 3-Part Harmony](https://www.facebook.com/events/2312642112104320/), with [The Spectacles](http://www.thespectacles.org/). Tickets [here](https://www.copious.art/events/brivele-the-spectacles-concert).</span></li>
 <li><span>**Sun Jul 28, 2019**</span><span>*Private Event*</span><span>[Candace's Kugel Caf&eacute;](https://www.facebook.com/events/2027659847338709)</span></li>
 <li><span>**Thu Jul 18, 2019**</span><span>*House show, Meadowbrook - message for address*</span><span>[Homestead summer show](https://www.facebook.com/events/443470329823687/)</span></li>
