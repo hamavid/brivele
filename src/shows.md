@@ -8,6 +8,8 @@ title: Shows
 ## Upcoming shows
 <ul class='showslist'>
 <li><span>**Sat Dec 7, 2019**</span><span>*OLYMPIA, WA: [Temple Bat Hatfiloh](https://www.bethhatfiloh.org/)*</span><span>With Varda</span></li>
+<li><span>**Sun Jan 19, 2020**</span><span>*PORTLAND, OR: [The Old Church](https://www.theoldchurch.org/)*</span><span>With [Geoff Berner](http://geoffberner.com/) and TBA</span></li>
+<li><span>**Sat Apr 11, 2020**</span><span>*Seattle, venue TBA*</span><span>With [Midwood](https://www.midwoodband.com/music)</span></li>
 </ul>
 
 
