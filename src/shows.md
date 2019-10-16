@@ -8,7 +8,7 @@ title: Shows
 ## Upcoming shows
 <ul class='showslist'>
 <li><span>**Thu Oct 17, 2019**</span><span>*[Seattle Rep](https://www.seattlerep.org/)*</span><span>[Pre-show pop-up performance](https://www.seattlerep.org/audience-programs/upcoming-events/klezmer-music-event) for [Indecent](https://www.seattlerep.org/plays/1920/indecent/)</span></li>
-<li><span>**Wed Nov 13, 2019**</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>Opening for [Michael Winograd](https://www.michaelwinograd.net/) and [Christina Crowder](http://christinacrowder.cc/)'s "100-years-of-Klezmer" tour</span></li>
+<li><span>**Wed Nov 13, 2019**</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>Opening for [Michael Winograd](https://www.michaelwinograd.net/) and [Christina Crowder](http://christinacrowder.cc/)</span></li>
 <li><span>**Sat Dec 7, 2019**</span><span>*OLYMPIA, WA: [Temple Bat Hatfiloh](https://www.bethhatfiloh.org/)*</span><span>With Varda</span></li>
 <li><span>**Sun Jan 19, 2020**</span><span>*PORTLAND, OR: [The Old Church](https://www.theoldchurch.org/)*</span><span>With [Geoff Berner](http://geoffberner.com/) and TBA</span></li>
 <li><span>**Sat Apr 11, 2020**</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>With [Midwood](https://www.midwoodband.com/music)</span></li>
