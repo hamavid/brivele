@@ -7,7 +7,6 @@ title: Shows
 
 ## Upcoming shows
 <ul class='showslist'>
-<li><span>**Thu Oct 17, 2019**</span><span>*[Seattle Rep](https://www.seattlerep.org/)*</span><span>[Pre-show pop-up performance](https://www.seattlerep.org/audience-programs/upcoming-events/klezmer-music-event) for [Indecent](https://www.seattlerep.org/plays/1920/indecent/)</span></li>
 <li><span>**Wed Nov 13, 2019**</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>Opening for [Michael Winograd](https://www.michaelwinograd.net/) and [Christina Crowder](http://christinacrowder.cc/)</span></li>
 <li><span>**Sat Nov 16, 2019**</span><span>*[Bet Alef Meditative Synagogue](https://www.betalef.org/)*</span><span>Playing as Brief at [A Fundraiser to Promote the Fair Fight Immigrant Bond Fund](https://www.facebook.com/events/954939784845970/)</span></li>
 <li><span>**Sat Dec 7, 2019**</span><span>*OLYMPIA, WA: [Temple Bat Hatfiloh](https://www.bethhatfiloh.org/)*</span><span>With Varda</span></li>
@@ -19,6 +18,7 @@ title: Shows
 ## Past shows
 <div id='2019'>
 <ul class='showslist'>
+<li><span>**Thu Oct 17, 2019**</span><span>*[Seattle Rep](https://www.seattlerep.org/)*</span><span>[Pre-show pop-up performance](https://www.seattlerep.org/audience-programs/upcoming-events/klezmer-music-event) for [Indecent](https://www.seattlerep.org/plays/1920/indecent/)</span></li>
 <li><span>**Fri Aug 30, 2019**</span><span>*BALTIMORE, MD: [2640 Space](https://www.2640space.net/)*</span><span>[Shabbes show](https://www.facebook.com/events/1074681909588923/) with [Mark Gunnery](https://markgunnery.com/) and TBA</span></li>
 <li><span>**Thu Aug 29, 2019**</span><span>*PHILADELPHIA, PA: House show, 50th &amp; Larchwood - message for address*</span><span>[Yiddish folk-punk from Seattle](https://www.facebook.com/events/472148883361196/) with [Kol Tzedek's Simcha Band](http://www.kol-tzedek.org/kts-simcha-band.html)</span></li>
 <li><span>**Wed Aug 28, 2019**</span><span>*BROOKLYN, NY: [Jalopy Theater](http://jalopytheatre.org/)*</span><span>[Roots &amp; Ruckus showcase](https://gothamist.com/2015/12/01/red_hook_folk_roots_ruckus.php)</span></li>
