@@ -8,7 +8,7 @@ title: Shows
 ## Upcoming shows
 <ul class='showslist'>
 <li><span>**Sat Dec 7, 2019**</span><span>*OLYMPIA, WA: [Temple Bat Hatfiloh](https://www.bethhatfiloh.org/)*</span><span>With Varda</span></li>
-<li><span>**Mon Dec 23, 2019**</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>Hanukkah party with Darren Loucas, The Klein Party, and TBA</span></li>
+<li><span>**Mon Dec 23, 2019**</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>[Hanukkah party](https://www.facebook.com/events/428726791360111) with I Am What I Am, The Klein Party, [Orkestyr Farfeleh](https://www.facebook.com/farfeleh), and [Ari Joshua](https://arijoshua.com/home) Quartet</span></li>
 <li><span>**Sun Jan 19, 2020**</span><span>*PORTLAND, OR: [The Old Church](https://www.theoldchurch.org/)*</span><span>With [Geoff Berner](http://geoffberner.com/) and TBA</span></li>
 <li><span>**Sat Apr 11, 2020**</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>With [Midwood](https://www.midwoodband.com/music)</span></li>
 </ul>
