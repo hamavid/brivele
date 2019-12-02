@@ -9,7 +9,7 @@ title: Shows
 <ul class='showslist'>
 <li><span>**Sat Dec 7, 2019**</span><span>*OLYMPIA, WA: [Temple Beth Hatfiloh](https://www.bethhatfiloh.org/)*</span><span>[A Celebration of Klezmer and Yiddish Music](https://www.facebook.com/events/811050616004073/), with [Varda](https://www.instagram.com/vardamusic/)</span></li>
 <li><span>**Mon Dec 23, 2019**</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>[Hanukkah party](https://www.facebook.com/events/428726791360111) with I Am What I Am, The Klein Party, [Orkestyr Farfeleh](https://www.facebook.com/farfeleh), and [Ari Joshua](https://arijoshua.com/home) Quartet</span></li>
-<li><span>**Sun Jan 19, 2020**</span><span>*PORTLAND, OR: [The Old Church](https://www.theoldchurch.org/)*</span><span>With [Geoff Berner](http://geoffberner.com/) and TBA</span></li>
+<li><span>**Sun Jan 19, 2020**</span><span>*PORTLAND, OR: [The Old Church](https://www.theoldchurch.org/)*</span><span>[The Klezmer Extravaganza](https://www.facebook.com/events/2814984885192257), opening for [Geoff Berner](http://geoffberner.com/)</span></li>
 <li><span>**Fri Jan 31, 2020**</span><span>*[Cafe Zippy](http://www.cafezippy.com/)*</span><span>Yiddish folk-punk comes to Everett</span></li>
 <li><span>**Sat Apr 11, 2020**</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>With [Midwood](https://www.midwoodband.com/music) and [The Debaucherauntes](https://www.facebook.com/thedebaucherauntes/)</span></li>
 </ul>
