@@ -14,7 +14,8 @@ title: Shows
 
 
 ## Past shows
-<div id='2019'>
+<div id='s2019'>
+<h2><i class="fa fa-caret-right fa-lg"></i>2019</h2>
 <ul class='showslist'>
 <li><span>**Mon Dec 23, 2019**</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>[Hanukkah party](https://www.facebook.com/events/428726791360111) with I Am What I Am, The Klein Party, [Orkestyr Farfeleh](https://www.facebook.com/farfeleh), and [Ari Joshua](https://arijoshua.com/home) Quartet</span></li>
 <li><span>**Sat Dec 7, 2019**</span><span>*OLYMPIA, WA: [Temple Beth Hatfiloh](https://www.bethhatfiloh.org/)*</span><span>[A Celebration of Klezmer and Yiddish Music](https://www.facebook.com/events/811050616004073/), with [Varda](https://www.instagram.com/vardamusic/)</span></li>
