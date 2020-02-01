@@ -7,7 +7,6 @@ title: Shows
 
 ## Upcoming shows
 <ul class='showslist'>
-<li><span>**Fri Jan 31, 2020**</span><span>*[Cafe Zippy](http://www.cafezippy.com/)*</span><span>[Yiddish folk-punk comes to Everett](https://www.facebook.com/events/621204195283491/)</span></li>
 <li><span>**Sun Mar 1, 2020**</span><span>*House show, Udistrict - message for address*</span><span>[Leap Year show](https://www.facebook.com/events/1630686120406244/) with [Countercurrent](https://countercurrentmusic.com/) and [Dear Crow](https://www.facebook.com/dearcrow/)</span></li>
 <li><span>**Sat Apr 11, 2020**</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>With [Midwood](https://www.midwoodband.com/music) and [The Debaucherauntes](https://www.facebook.com/thedebaucherauntes/)</span></li>
 <!--<li><span>**Sun May 24, 2020**</span><span>*[The Vera Project]*</span><span>Folk life folk punk showcase</span></li>-->
@@ -18,6 +17,7 @@ title: Shows
 <div id='s2019'>
 <h2><i class="fa fa-caret-right fa-lg"></i>2019</h2>
 <ul class='showslist'>
+<li><span>**Fri Jan 31, 2020**</span><span>*[Cafe Zippy](http://www.cafezippy.com/)*</span><span>[Yiddish folk-punk comes to Everett](https://www.facebook.com/events/621204195283491/)</span></li>
 <li><span>**Sun Jan 19, 2020**</span><span>*PORTLAND, OR: [The Old Church](https://www.theoldchurch.org/)*</span><span>[The Klezmer Extravaganza](https://www.facebook.com/events/2814984885192257), opening for [Geoff Berner](http://geoffberner.com/)</span></li>
 <li><span>**Mon Dec 23, 2019**</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>[Hanukkah party](https://www.facebook.com/events/428726791360111) with I Am What I Am, The Klein Party, [Orkestyr Farfeleh](https://www.facebook.com/farfeleh), and [Ari Joshua](https://arijoshua.com/home) Quartet</span></li>
 <li><span>**Sat Dec 7, 2019**</span><span>*OLYMPIA, WA: [Temple Beth Hatfiloh](https://www.bethhatfiloh.org/)*</span><span>[A Celebration of Klezmer and Yiddish Music](https://www.facebook.com/events/811050616004073/), with [Varda](https://www.instagram.com/vardamusic/)</span></li>
