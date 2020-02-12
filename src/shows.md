@@ -14,11 +14,14 @@ title: Shows
 
 
 ## Past shows
-<div id='s2019'>
-<h2><i class="fa fa-caret-right fa-lg"></i>2019</h2>
 <ul class='showslist'>
 <li><span>**Fri Jan 31, 2020**</span><span>*[Cafe Zippy](http://www.cafezippy.com/)*</span><span>[Yiddish folk-punk comes to Everett](https://www.facebook.com/events/621204195283491/)</span></li>
 <li><span>**Sun Jan 19, 2020**</span><span>*PORTLAND, OR: [The Old Church](https://www.theoldchurch.org/)*</span><span>[The Klezmer Extravaganza](https://www.facebook.com/events/2814984885192257), opening for [Geoff Berner](http://geoffberner.com/)</span></li>
+</ul>
+
+<div id='s2019'>
+<h2><i class="fa fa-caret-right fa-lg"></i>2019</h2>
+<ul class='showslist'>
 <li><span>**Mon Dec 23, 2019**</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>[Hanukkah party](https://www.facebook.com/events/428726791360111) with I Am What I Am, The Klein Party, [Orkestyr Farfeleh](https://www.facebook.com/farfeleh), and [Ari Joshua](https://arijoshua.com/home) Quartet</span></li>
 <li><span>**Sat Dec 7, 2019**</span><span>*OLYMPIA, WA: [Temple Beth Hatfiloh](https://www.bethhatfiloh.org/)*</span><span>[A Celebration of Klezmer and Yiddish Music](https://www.facebook.com/events/811050616004073/), with [Varda](https://www.instagram.com/vardamusic/)</span></li>
 <li><span>**Wed Nov 13, 2019**</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>Opening for [Michael Winograd](https://www.michaelwinograd.net/) and [Christina Crowder](http://christinacrowder.cc/)</span></li>
