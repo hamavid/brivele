@@ -7,9 +7,10 @@ title: Shows
 
 ## Upcoming shows
 <ul class='showslist'>
-<li><span>**Sat Apr 11, 2020**</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>With [Midwood](https://www.midwoodband.com/music) and [The Debaucherauntes](https://www.facebook.com/thedebaucherauntes/)</span></li>
+<!--<li><span>**Sat Apr 11, 2020**</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>With [Midwood](https://www.midwoodband.com/music) and [The Debaucherauntes](https://www.facebook.com/thedebaucherauntes/)</span></li>-->
 <!--<li><span>**Thu Apr 30, 2020**</span><span>*[Frontier House]*</span><span>House show</span></li>-->
 <li><span>**Sun May 24, 2020, 7:15-7:45pm**</span><span>*[The Vera Project](https://goo.gl/maps/axNWd3T46sv1Pamx5)*</span><span>[NW Folklife Festival](https://www.nwfolklife.org/festival/)</span></li>
+<li><span>**Sat Jun 20, 2020, midday**</span><span>*[Camp Long](https://www.seattle.gov/parks/find/centers/camp-long)*</span><span>[Arts in Nature Festival](https://dnda.org/festival/)</span></li>
 </ul>
 
 
