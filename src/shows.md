@@ -7,17 +7,17 @@ title: Shows
 
 ## Upcoming shows
 <ul class='showslist'>
-<li style='text-align: center;'>All upcoming shows postponed until further notice. Be well and take care of each other!</li>
-<!--<li><span>**Sat Apr 11, 2020**</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>With [Midwood](https://www.midwoodband.com/music) and [The Debaucherauntes](https://www.facebook.com/thedebaucherauntes/)</span></li>
-<li><span>**Thu Apr 30, 2020**</span><span>*[Frontier House]*</span><span>House show</span></li>-->
-<!--<li><span>**Sun May 24, 2020, 7:15-7:45pm**</span><span>*[The Vera Project](https://goo.gl/maps/axNWd3T46sv1Pamx5)*</span><span>[NW Folklife Festival](https://www.nwfolklife.org/festival/)</span></li>
-<li><span>**Sat Jun 20, 2020, midday**</span><span>*[Camp Long](https://www.seattle.gov/parks/find/centers/camp-long)*</span><span>[Arts in Nature Festival](https://dnda.org/festival/)</span></li>-->
+<li class='follow'>All upcoming shows canceled until further notice. Be well and take care of each other!</li>
+<li><span>**CANCELED: Sat Apr 11, 2020**</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>With [Midwood](https://www.midwoodband.com/music) and [The Debaucherauntes](https://www.facebook.com/thedebaucherauntes/)</span></li>
+<li><span>**CANCELED: Thu Apr 30, 2020**</span><span>*Frontier House*</span><span>House show</span></li>
+<li><span>**CANCELED: Sun May 24, 2020, 7:15-7:45pm**</span><span>*[The Vera Project](https://goo.gl/maps/axNWd3T46sv1Pamx5)*</span><span>[NW Folklife Festival](https://www.nwfolklife.org/festival/)</span></li>
+<li><span>**CANCELED: Sat Jun 20, 2020, midday**</span><span>*[Camp Long](https://www.seattle.gov/parks/find/centers/camp-long)*</span><span>[Arts in Nature Festival](https://dnda.org/festival/)</span></li>
 </ul>
 
 
 ## Past shows
 <ul class='showslist'>
-<li><span>**Sun Mar 1, 2020**</span><span>*House show, Udistrict - message for address*</span><span>[Leap Year show](https://www.facebook.com/events/1630686120406244/) with [Countercurrent](https://countercurrentmusic.com/) and [Dear Crow](https://www.facebook.com/dearcrow/)</span></li>
+<li><span>**Sun Mar 1, 2020**</span><span>*House show, Udistrict - message for address*</span><span>[Leap Year show](https://www.facebook.com/events/1630686120406244/) with [Countercurrent](https://countercurrentmusic.com/), [Dear Crow](https://www.facebook.com/dearcrow/), and [The Spectacles](http://www.thespectacles.org/)</span></li>
 <li><span>**Fri Jan 31, 2020**</span><span>*[Cafe Zippy](http://www.cafezippy.com/)*</span><span>[Yiddish folk-punk comes to Everett](https://www.facebook.com/events/621204195283491/)</span></li>
 <li><span>**Sun Jan 19, 2020**</span><span>*PORTLAND, OR: [The Old Church](https://www.theoldchurch.org/)*</span><span>[The Klezmer Extravaganza](https://www.facebook.com/events/2814984885192257), opening for [Geoff Berner](http://geoffberner.com/)</span></li>
 </ul>
