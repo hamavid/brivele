@@ -8,7 +8,6 @@ title: Shows
 ## Upcoming shows
 <ul class='showslist'>
 <li class='follow'>All upcoming shows canceled until further notice. Be well and take care of each other!</li>
-<li><span>**CANCELED: Thu Apr 30, 2020**</span><span>*[Frontier Home](https://www.facebook.com/thefrontierhome)*</span><span>House show</span></li>
 <li><span>**CANCELED: Sun May 24, 2020, 7:15-7:45pm**</span><span>*[The Vera Project](https://goo.gl/maps/axNWd3T46sv1Pamx5)*</span><span>[NW Folklife Festival](https://www.nwfolklife.org/festival/)</span></li>
 <li><span>**CANCELED: Sat Jun 20, 2020, midday**</span><span>*[Camp Long](https://www.seattle.gov/parks/find/centers/camp-long)*</span><span>[Arts in Nature Festival](https://dnda.org/festival/)</span></li>
 <li><span>**CANCELED: Sat-Sun Jul 18-19, 2020**</span><span>*[Jericho Beach Park](https://vancouver.ca/parks-recreation-culture/jericho-beach.aspx)*</span><span>[Vancouver Folk Festival](https://thefestival.bc.ca/)</span></li>
@@ -17,6 +16,7 @@ title: Shows
 
 ## Past shows
 <ul class='showslist'>
+<li><span>**CANCELED: Thu Apr 30, 2020**</span><span>*[Frontier Home](https://www.facebook.com/thefrontierhome)*</span><span>House show</span></li>
 <li><span>**CANCELED: Sat Apr 11, 2020**</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>With [Midwood](https://www.midwoodband.com/music) and [The Debaucherauntes](https://www.facebook.com/thedebaucherauntes/)</span></li>
 <li><span>**Sun Mar 1, 2020**</span><span>*House show, Udistrict - message for address*</span><span>[Leap Year show](https://www.facebook.com/events/1630686120406244/) with [Countercurrent](https://countercurrentmusic.com/), [Dear Crow](https://www.facebook.com/dearcrow/), and [The Spectacles](http://www.thespectacles.org/)</span></li>
 <li><span>**Fri Jan 31, 2020**</span><span>*[Cafe Zippy](http://www.cafezippy.com/)*</span><span>[Yiddish folk-punk comes to Everett](https://www.facebook.com/events/621204195283491/)</span></li>
