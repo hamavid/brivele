@@ -9,6 +9,7 @@ outdirs: '.'
 <p>Brivele is pronounced "BREE-veh-leh" (בריוועלע) and means "Little Letter" in Yiddish.</p>
 <p>We sometimes play as a duo, called Brief.</p>
 </div>
+<div class="reviews"><p><span class="follow" style="font-size:1.4em;">Call for Submissions: The Antifa Kugelbook</span><br/><br/>We need your help! This cookbook will have recipes for actual food in it (eg, kugel). It will also have your instructions and stories about cooking up other types of mayhem, music, and community. Written, drawn, and collaged submissions are all on point. We want this to be a collection of little letters that we send to each other as part of the making of the revolution!<br/><br/><b><span class="follow">Submit your ideas via email: info (at) brivele( dot) com by August 1st, 2020.</span></b><br/><br/>The book will be printed zine-style and sold at our shows and on Bandcamp for a sliding scale starting at the cost of printing. If we include your submission, we'll credit you in the book and send you 2 free copies.<br/><br/><b>Some ideas:</b><br/><b>Food</b> ~ kugel, borsht, babka, fermentation, foraging<br/><b>Activisting</b> ~ wheatpasting, stenciling, neighborhood beautification, organizing your neighbors, organizing your workplace, direct action, lockdowns<br/><b>Music</b> ~ how to play an instrument, how to start a band, how to organize/book a show</p></div>
 
 <!-- Begin Mailchimp Signup Form -->
 <div id='mailinglistsignup'>
