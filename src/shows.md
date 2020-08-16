@@ -8,12 +8,12 @@ title: Shows
 ## Upcoming shows
 <ul class='showslist'>
 <li class='follow'>All in-person shows canceled until further notice. Be well and take care of each other!</li>
-<li><span>**Thu Aug 13, 2020**</span><span>*[Zoom](https://bit.ly/3epsRJh)*</span><span>Antifascist Klezmer [online discussion and performance](https://www.facebook.com/events/265500951381584/) with [Geoff Berner](http://geoffberner.com/) and Ira Khonen Temple</span></li>
 </ul>
 
 
 ## Past shows
 <ul class='showslist'>
+<li><span>**Thu Aug 13, 2020**</span><span>*[Zoom](https://bit.ly/3epsRJh)*</span><span>Antifascist Klezmer [online discussion and performance](https://www.facebook.com/events/265500951381584/) with [Geoff Berner](http://geoffberner.com/) and Ira Khonen Temple</span></li>
 <li><span>**CANCELED: Sat-Sun Jul 18-19, 2020**</span><span>*[Jericho Beach Park](https://vancouver.ca/parks-recreation-culture/jericho-beach.aspx)*</span><span>[Vancouver Folk Festival](https://thefestival.bc.ca/)</span></li>
 <li><span>**CANCELED: Sat Jun 20, 2020, midday**</span><span>*[Camp Long](https://www.seattle.gov/parks/find/centers/camp-long)*</span><span>[Arts in Nature Festival](https://dnda.org/festival/)</span></li>
 <li><span>**CANCELED: Sun May 24, 2020, 7:15-7:45pm**</span><span>*[The Vera Project](https://goo.gl/maps/axNWd3T46sv1Pamx5)*</span><span>[NW Folklife Festival](https://www.nwfolklife.org/festival/)</span></li>
