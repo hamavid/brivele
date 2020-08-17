@@ -55,6 +55,8 @@ title: Media
 <h1>PHOTOS</h1>
 <div class='sightspocket'>
 <div class='sights'>
+<div><span class='caption'>From the Shtetl to the Streets Zoom show, Aug '20. <span class='total'>(11 images)</span></span><img src='../images/shows/shtetl-to-streets-20/thumb.jpg'></div>
+
 <div><span class='caption'>Kugel Caf&eacute; backyard show, Jul '19. <span class='total'>(5 images)</span></span><img src='../images/shows/kugel-cafe19/thumb.jpg'></div>
 
 <!--<div><span class='caption'>Khanike show at Cafe Paloma with Malke &amp; the Boychiks, Dec '18. <span class='total'>(3 images)</span></span><img src='../images/shows/paloma-khanike18/thumb.jpg'></div>-->
@@ -65,11 +67,11 @@ title: Media
 
 <div><span class='caption'>CD assembly party. <span class='total'>(6 images)</span></span><img src='../images/shows/cdassembly/thumb.jpg'></div>
 
-<div><span class='caption'>Brivele at the 2018 Northwest Folklife Festival. Photos by Stan Mandell. <span class='total'>(3 images)</span></span><img src='../images/shows/folklife18/thumb.jpg'></div>
+<div><span class='caption'>The 2018 Northwest Folklife Festival. Photos by Stan Mandell. <span class='total'>(3 images)</span></span><img src='../images/shows/folklife18/thumb.jpg'></div>
 
-<div><span class='caption'>Brivele at The 6th Annual Bubbe's Old-Fashioned Hanukkah Shindig, Dec '17. <span class='total'>(11 images)</span></span><img src='../images/shows/bubbes17/thumb.jpg'></div>
+<div><span class='caption'>The 6th Annual Bubbe's Old-Fashioned Hanukkah Shindig, Dec '17. <span class='total'>(11 images)</span></span><img src='../images/shows/bubbes17/thumb.jpg'></div>
 
-<div><span class='caption'>Miscellaneous shows. <span class='total'>(11 images)</span></span><img src='../images/shows/misc/thumb.jpg'></div>
+<div><span class='caption'>Miscellaneous shows. <span class='total'>(9 images)</span></span><img src='../images/shows/misc/thumb.jpg'></div>
 
 <div><span class='caption'><b>For Promo (hi-def).</b> <span class='total'>(4 images)</span></span><img src='../images/bandpix/lowfi/thumb.JPG'></div>
 </div>

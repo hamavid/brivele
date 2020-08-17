@@ -7,7 +7,7 @@ title: Shows
 
 ## Upcoming shows
 <ul class='showslist'>
-<li class='follow'>All in-person shows canceled until further notice. Be well and take care of each other!</li>
+<p class='follow'>All in-person shows canceled until further notice. Be well and take care of each other!</p>
 </ul>
 
 

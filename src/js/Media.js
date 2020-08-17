@@ -21,6 +21,7 @@ $(document).ready(function(){
   // Create a dictionary of img names for each show 
   // key is show name, which should =  name of the directory that has the relevant files
 	var showdict = {};
+  showdict['shows/shtetl-to-streets-20'] = ['one.jpg', 'two.jpg', 'three.jpg', 'four.jpg', 'five.jpg', 'six.jpg', 'seven.jpg', 'eight.jpg', 'nine.jpg', 'ten.jpg', 'eleven.jpg'];
   showdict['shows/kugel-cafe19'] = ['one.jpg', 'two.jpg', 'three.jpg', 'four.jpg', 'five.jpg'];
   //showdict['shows/paloma-khanike18'] = ['three.jpg', 'one.jpg', 'two.jpg'];
   showdict['shows/theriot-montreal18'] = ['one.jpg', 'two.jpg', 'three.jpg', 'four.jpg', 'five.jpg', 'six.jpg', 'seven.jpg'];
@@ -30,7 +31,7 @@ $(document).ready(function(){
 	showdict['shows/bubbes17'] = ['25440158_10213236172671598_2710990013775537959_o.jpg', '20171216_213355.jpg', 'DSC01442.jpg', 'DSC01431.jpg',
 		'DSC01434.jpg', 'DSC01470.jpg', 'DSC01477.jpg', 'DSC01588.jpg','20171216_213353.jpg',
 		'DSC01466.jpg', 'DSC01417.jpg'];
-	showdict['shows/misc'] = ['18-11-20-tractor.jpg', '20-01-19.jpg', '18-10-14.jpg', '18-05-01-houseshow.jpg', '18-01-20-houseshow.jpg', '17-11-18-paloma.jpg', '17-10-23.jpg', '17-08-04-pocket-theater.jpg'],
+	showdict['shows/misc'] = ['18-11-20-tractor.jpg', '20-01-19.jpg', '18-12-07-paloma.jpg', '18-10-14.jpg', '18-05-01-houseshow.jpg', '18-01-20-houseshow.jpg', '17-11-18-paloma.jpg', '17-10-23.jpg', '17-08-04-pocket-theater.jpg'],
   showdict['bandpix/lowfi'] = ['tea.JPG', 'sketch3.JPG', 'closeinstrumentscolor.JPG', 'brivele-debut.jpg'];
 
 // create a meta dictionary of all the shows and their order
@@ -43,6 +44,7 @@ $(document).ready(function(){
 
 // create a dictionary of attributions for each item in social media albums
   var miscphoto = {};
+  miscphoto['18-12-07-paloma.jpg'] = ['Cafe Paloma, Dec 2018.'];
   miscphoto['18-11-20-tractor.jpg'] = ['The Tractor, Nov 2018. Photo by Mai Li Pittard.'];
   miscphoto['20-01-19.jpg'] = ['The Old Church, Portland, Jan 2020. Photo by Sooze.'];
   miscphoto['18-05-01-houseshow.jpg'] = ['May Day house show 2018. Photo by BPS.'];
