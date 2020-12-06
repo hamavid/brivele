@@ -8,6 +8,7 @@ title: Shows
 ## Upcoming shows
 <ul class='showslist'>
 <p class='follow'>All in-person shows canceled until further notice. Be well and take care of each other!</p>
+<li><span>**Sat Dec 12, 2020, 5:00-6:30pm PST**</span><span>*[Zoom](https://www.kadima.org/calendarofevents.html)*</span><span>Kadima Chanukah show</span></li>
 </ul>
 
 
