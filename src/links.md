@@ -5,6 +5,7 @@ title: Links
 ---
 <div id="linklist">
 		<ul>
+			<a href='https://brivele.bandcamp.com/merch/antifa-shooting-star-sticker'><li>Antifa Shooting Star Sticker</li></a>
 			<a href='https://brivele.bandcamp.com/merch/the-antifa-kugelbook'><li>The Antifa Kugelbook</li></a>
 			<a href='https://www.youtube.com/watch?v=TtwMwY2GLZ4'><li>Don't Despair About The Supreme Court - Phase II Sessions</li></a>
 			<a href='https://www.youtube.com/watch?v=QkADPtTxj7o'><li>Oyfn Ganikl - Phase II Sessions</li></a>
