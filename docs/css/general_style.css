@@ -2,7 +2,7 @@ html,body{margin:0;padding:0;background-color:#FDF0DF;color:#000;box-sizing: bor
 a,a:visited,a:hover,a:active{color:black;}
 body {
 	text-align:center;
-  	font-size:100%;
+  	font-size:105%;
   	padding:1em;
   	font-family:Lato, sans-serif;
   	max-width:900px;margin:auto;
@@ -72,7 +72,7 @@ nav a{
 .navbar-bars span{display:table-cell;vertical-align:middle;padding:10px 0 7px 7px;font-size:0.8em;}
 .smallnavlinks{
 	display:none;
-	line-height:2.4em;
+	line-height:3em;
 	position:fixed;
 	width:100%;
 	text-align:center;
@@ -102,7 +102,7 @@ nav a{
 	footer .cp,footer .socialmedia{float:none;text-align:center;line-height:1.7em;}
 	footer .cp{padding:0.2em 1em 1em 1em;}footer .socialmedia{padding:1em 1em 0.2em 1em;}
 /*}*/
-@media only screen and (max-width:745px){
+@media only screen and (max-width:755px){
 	.bignavlinks a {padding:0.2em 0.45em;}
 	body{padding:0;}
 }
@@ -110,11 +110,11 @@ nav a{
 	.bignavlinks a {font-size:1em;} /* NOTE: change select-class in all page-specific css if this max width or font size changes */
 	.reviews p{margin-left:0.5em;margin-right:0.5em;}
 }
-@media only screen and (min-width:500px){
+@media only screen and (min-width:520px){
 	.smallnavlinks{display:none!important;}
 	#overlaybkgrnd{display:none!important;}
 }
-@media only screen and (max-width:499px){
+@media only screen and (max-width:519px){
 	header{
 		height:57px;
 		position:fixed;
