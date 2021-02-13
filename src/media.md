@@ -5,7 +5,7 @@ title: Media
 ---
 <h1>MUSIC</h1>
 <div class='sounds'>
-<p class='follow'><span style='font-size:1.4em;'>Streaming, downloads, CDs, and merch available on <a href='https://brivele.bandcamp.com/merch'>Bandcamp</a></span><br><br>Preorder our album, <i><a href='https://brivele.bandcamp.com/album/cradle-songs-grave-songs'>Cradle Songs, Grave Songs</a></i></p>
+<p class='follow'><span style='font-size:1.4em;'>Streaming, downloads, CDs, and merch available on <a href='https://brivele.bandcamp.com/merch'>Bandcamp</a></span><br><br>Preorder our forthcoming album, <i><a href='https://brivele.bandcamp.com/album/cradle-songs-grave-songs'>Cradle Songs, Grave Songs</a></i></p>
 
 <div class='bandcampembed'>
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1657040146/size=large/bgcol=ffffff/linkcol=da810f/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://brivele.bandcamp.com/album/cradle-songs-grave-songs">Cradle Songs, Grave Songs by Brivele</a></iframe>
