@@ -8,6 +8,8 @@ title: Shows
 ## Upcoming shows
 <ul class='showslist'>
 <p class='follow'>All in-person shows canceled until further notice. Be well and take care of each other!</p>
+<li><span>**Sun Apr 4, 2021, 12:00-12:45pm PST**</span><span>*[Zoom](https://secure.lglforms.com/form_engine/s/xbp40eJSIEA77X5wOQr-oA?t=1615963448
+)*</span><span>Kadima Pesach show</span></li>
 </ul>
 
 
