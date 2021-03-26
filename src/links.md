@@ -5,7 +5,7 @@ title: Links
 ---
 <div id="linklist">
 		<ul>
-			<a href='https://brivele.bandcamp.com/merch/antifa-shooting-star-sticker'><li>Cradle Songs, Grave Songs</li></a>
+			<a href='https://brivele.bandcamp.com/album/cradle-songs-grave-songs'><li>Cradle Songs, Grave Songs</li></a>
 			<a href='https://youtu.be/vPQsGNjtdo4'><li>Zumertsayt Video</li></a>
 			<a href='https://brivele.bandcamp.com/merch/antifa-shooting-star-sticker'><li>Antifa Shooting Star Sticker</li></a>
 			<a href='https://brivele.bandcamp.com/merch/the-antifa-kugelbook'><li>The Antifa Kugelbook</li></a>
