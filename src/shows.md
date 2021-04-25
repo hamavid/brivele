@@ -8,13 +8,13 @@ title: Shows
 ## Upcoming shows
 <ul class='showslist'>
 <p class='follow'>All in-person shows canceled until further notice. Be well and take care of each other!</p>
-<li><span>**Sun Apr 4, 2021, 12:00-12:45pm PST**</span><span>*[Zoom](https://secure.lglforms.com/form_engine/s/xbp40eJSIEA77X5wOQr-oA?t=1615963448
-)*</span><span>Kadima Pesach show</span></li>
 </ul>
 
 
 ## Past shows
 <ul class='showslist'>
+<li><span>**Sun Apr 4, 2021, 12:00-12:45pm PST**</span><span>*[Zoom](https://secure.lglforms.com/form_engine/s/xbp40eJSIEA77X5wOQr-oA?t=1615963448
+)*</span><span>Kadima Pesach show</span></li>
 <li><span>**Sat Dec 12, 2020, 5:00-6:30pm PST**</span><span>*[Zoom](https://www.kadima.org/calendarofevents.html)*</span><span>Kadima Chanukah show</span></li>
 <li><span>**Thu Aug 13, 2020**</span><span>*[Zoom](https://bit.ly/3epsRJh)*</span><span>Antifascist Klezmer [online discussion and performance](https://www.facebook.com/events/265500951381584/) with [Geoff Berner](http://geoffberner.com/) and Ira Khonen Temple</span></li>
 <li><span>**CANCELED: Sat-Sun Jul 18-19, 2020**</span><span>*[Jericho Beach Park](https://vancouver.ca/parks-recreation-culture/jericho-beach.aspx)*</span><span>[Vancouver Folk Festival](https://thefestival.bc.ca/)</span></li>
