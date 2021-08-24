@@ -7,12 +7,13 @@ title: Shows
 
 ## Upcoming shows
 <ul class='showslist'>
-<li><span>**Sat Jul 24, 2021**</span><span>*Backyard show, Ravenna - message for address*</span><span>[Tu b'av Show](https://www.facebook.com/events/261830042373553/), with [Dottie's Serenade Service](https://www.facebook.com/dottiesserenadeservice)</span></li>
+<li><span>**Sat Aug 28, 2021**</span><span>*5500 block of 8th Ave NE*</span><span>[Block Party Show](https://drive.google.com/file/d/1YjJSKHSZm04tf6rfk3LnjV_yRdc073rj/view), with [Shpilkis!](https://www.shpilkisseattle.com/) and more</span></li>
 </ul>
 
 
 ## Past shows
 <ul class='showslist'>
+<li><span>**Sat Jul 24, 2021**</span><span>*Backyard show, Ravenna - message for address*</span><span>[Tu b'av Show](https://www.facebook.com/events/261830042373553/), with [Dottie's Serenade Service](https://www.facebook.com/dottiesserenadeservice)</span></li>
 <li><span>**Sat May 29, 2021, 11:00am PT or later**</span><span>*[NW Folklife On Demand channel](https://www.nwfolklife.org/festival/ondemand/)*</span><span>[Big Jewish Show](https://www.nwfolklife.org/festival/music/brivele.html)</span></li>
 <li><span>**Sat May 22, 2021, 7:30-9:30pm PT**</span><span>*[Zoom](https://secure.lglforms.com/form_engine/s/RRPSyAshbHyX6EtjsU5RsA)*</span><span>[Heart &amp; Chutzpah Kadima fundraiser](https://www.facebook.com/events/295536218609265)</span></li>
 <li><span>**Sun Apr 4, 2021, 12:00-12:45pm PT**</span><span>*[Zoom](https://secure.lglforms.com/form_engine/s/xbp40eJSIEA77X5wOQr-oA?t=1615963448)*</span><span>Kadima Pesach show</span></li>
