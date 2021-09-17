@@ -7,7 +7,8 @@ title: Shows
 
 ## Upcoming shows
 <ul class='showslist'>
-<p class='follow'>No in-person shows until further notice, but check back here for virtual events.<br>Be well and take care of each other!</p>
+<!--<p class='follow'>No in-person shows until further notice, but check back here for virtual events.<br>Be well and take care of each other!</p>-->
+<li><span>**Wed Oct 20, 2021, 5pm PT**</span><span>*Online, [click here to register](https://give.forward.com/event/the-forward-presents-have-i-got-a-story-for-you/e345939)*</span><span>At [The Forward](https://forward.com/)'s annual gala, *Have I Got A Story For You*</span></li>
 </ul>
 
 
