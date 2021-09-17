@@ -18,6 +18,11 @@ title: Shows
 <li><span>**Sat May 29, 2021, 11:00am PT or later**</span><span>*[NW Folklife On Demand channel](https://www.nwfolklife.org/festival/ondemand/)*</span><span>[Big Jewish Show](https://www.nwfolklife.org/festival/music/brivele.html)</span></li>
 <li><span>**Sat May 22, 2021, 7:30-9:30pm PT**</span><span>*[Zoom](https://secure.lglforms.com/form_engine/s/RRPSyAshbHyX6EtjsU5RsA)*</span><span>[Heart &amp; Chutzpah Kadima fundraiser](https://www.facebook.com/events/295536218609265)</span></li>
 <li><span>**Sun Apr 4, 2021, 12:00-12:45pm PT**</span><span>*[Zoom](https://secure.lglforms.com/form_engine/s/xbp40eJSIEA77X5wOQr-oA?t=1615963448)*</span><span>Kadima Pesach show</span></li>
+</ul>
+
+<div id='s2020'>
+<h2><i class="fa fa-caret-right fa-lg"></i>2020</h2>
+<ul class='showslist'>
 <li><span>**Sat Dec 12, 2020, 5:00-6:30pm PT**</span><span>*[Zoom](https://www.kadima.org/calendarofevents.html)*</span><span>Kadima Chanukah show</span></li>
 <li><span>**Thu Aug 13, 2020**</span><span>*[Zoom](https://bit.ly/3epsRJh)*</span><span>Antifascist Klezmer [online discussion and performance](https://www.facebook.com/events/265500951381584/) with [Geoff Berner](http://geoffberner.com/) and Ira Khonen Temple</span></li>
 <li><span>**CANCELED: Sat-Sun Jul 18-19, 2020**</span><span>*[Jericho Beach Park](https://vancouver.ca/parks-recreation-culture/jericho-beach.aspx)*</span><span>[Vancouver Folk Festival](https://thefestival.bc.ca/)</span></li>
@@ -29,6 +34,7 @@ title: Shows
 <li><span>**Fri Jan 31, 2020**</span><span>*[Cafe Zippy](http://www.cafezippy.com/)*</span><span>[Yiddish folk-punk comes to Everett](https://www.facebook.com/events/621204195283491/)</span></li>
 <li><span>**Sun Jan 19, 2020**</span><span>*PORTLAND, OR: [The Old Church](https://www.theoldchurch.org/)*</span><span>[The Klezmer Extravaganza](https://www.facebook.com/events/2814984885192257), opening for [Geoff Berner](http://geoffberner.com/)</span></li>
 </ul>
+</div>
 
 <div id='s2019'>
 <h2><i class="fa fa-caret-right fa-lg"></i>2019</h2>
