@@ -8,6 +8,7 @@ title: Shows
 ## Upcoming shows
 <ul class='showslist'>
 <!--<p class='follow'>No in-person shows until further notice, but check back here for virtual events.<br>Be well and take care of each other!</p>-->
+<li><span>**Sat Oct 2, 2021, 1:15pm PT**</span><span>*[Roosevelt light rail station, NE corner](https://goo.gl/maps/qzsa6MNRLYs33cmP7)*</span><span>New light rail opening celebration</span></li>
 <li><span>**Wed Oct 20, 2021, 5pm PT**</span><span>*Online, [click here to register](https://give.forward.com/event/the-forward-presents-have-i-got-a-story-for-you/e345939)*</span><span>At [The Forward](https://forward.com/)'s annual gala, *Have I Got A Story For You*</span></li>
 </ul>
 
