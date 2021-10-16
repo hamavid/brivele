@@ -8,13 +8,13 @@ title: Shows
 ## Upcoming shows
 <ul class='showslist'>
 <!--<p class='follow'>No in-person shows until further notice, but check back here for virtual events.<br>Be well and take care of each other!</p>-->
-<li><span>**Sat Oct 2, 2021, 1:15pm PT**</span><span>*[Roosevelt light rail station, NE corner](https://goo.gl/maps/qzsa6MNRLYs33cmP7)*</span><span>New light rail opening celebration</span></li>
 <li><span>**Wed Oct 20, 2021, 5pm PT**</span><span>*Online, [click here to register](https://give.forward.com/event/the-forward-presents-have-i-got-a-story-for-you/e345939)*</span><span>At [The Forward](https://forward.com/)'s annual gala, *Have I Got A Story For You*</span></li>
 </ul>
 
 
 ## Past shows
 <ul class='showslist'>
+<li><span>**Sat Oct 2, 2021, 1:15pm PT**</span><span>*[Roosevelt light rail station, NE corner](https://goo.gl/maps/qzsa6MNRLYs33cmP7)*</span><span>New light rail opening celebration</span></li>
 <li><span>**Sat Aug 28, 2021**</span><span>*5500 block of 8th Ave NE*</span><span>[Block Party Show](https://drive.google.com/file/d/1YjJSKHSZm04tf6rfk3LnjV_yRdc073rj/view), with [Shpilkis!](https://www.shpilkisseattle.com/) and more</span></li>
 <li><span>**Sat Jul 24, 2021**</span><span>*Backyard show, Ravenna - message for address*</span><span>[Tu b'av Show](https://www.facebook.com/events/261830042373553/), with [Dottie's Serenade Service](https://www.facebook.com/dottiesserenadeservice)</span></li>
 <li><span>**Sat May 29, 2021, 11:00am PT or later**</span><span>*[NW Folklife On Demand channel](https://www.nwfolklife.org/festival/ondemand/)*</span><span>[Big Jewish Show](https://www.nwfolklife.org/festival/music/brivele.html)</span></li>
