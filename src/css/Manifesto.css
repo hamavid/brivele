@@ -3,3 +3,9 @@
 @media only screen and (max-width:590px){.bignavlinks a.manifesto-select{font-size:1.2em!important;}}
 .wrapper{padding:2em;line-height:1.5em;}
 .pressbio{background-color:#f9d6a9;padding:1em;border-radius:2px;}
+
+/* for coconspirators:*/
+.page-content ul{list-style-type:none;padding-left:5%;max-width:400px;margin:auto;}
+.page-content li img{width:1em;height:1em;padding-right:0.8em;}
+.page-content ul li {margin: 1.2em 0em;}
+

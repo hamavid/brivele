@@ -1,7 +1,7 @@
 ---
 layout: page.html
 outdirs: '..'
-title: Media
+title: Music
 ---
 <h1>MUSIC</h1>
 <div class='sounds'>

@@ -1,0 +1,8 @@
+.home-select{font-weight:normal;font-size:1.2em;}
+.news-select{font-weight:bolder;font-size:1.4em;}
+@media only screen and (max-width:590px){.bignavlinks a.news-select{font-size:1.2em!important;}}
+.page-content a{color:#da810f!important;font-weight:bold;}
+
+.imgrev{text-align:center;}
+/*.imgrev figure{padding:1em;margin:auto;}
+.imgrev img{max-width:100%;}*/
