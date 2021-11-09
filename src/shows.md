@@ -7,8 +7,9 @@ title: Shows
 
 ## Upcoming shows
 <ul class='showslist'>
-<!--<p class='follow'>No in-person shows until further notice, but check back here for virtual events.<br>Be well and take care of each other!</p>-->
-<p class='follow'>No shows coming up, but check back here for the latest.<br>Be well and take care of each other!</p>
+<li><span>**Sat Nov 27, 2021, 5pm PT**</span><span>*Zoom, link forthcoming*</span><span>Yid Mit Lit salon</span></li>
+<!--<p class='follow'>No in-person shows until further notice, but check back here for virtual events.<br>Be well and take care of each other!</p>
+<p class='follow'>No shows coming up, but check back here for the latest.<br>Be well and take care of each other!</p>-->
 </ul>
 
 
