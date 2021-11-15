@@ -7,7 +7,8 @@ title: Shows
 
 ## Upcoming shows
 <ul class='showslist'>
-<li><span>**Sat Nov 27, 2021, 5pm PT**</span><span>*Zoom, link forthcoming*</span><span>Yid Mit Lit salon</span></li>
+<li><span>**Sat Nov 27, 2021, 5pm PT**</span><span>*Zoom, [click here to register](https://www.tickettailor.com/events/radyiddish/609974)*</span><span>Yid Lit Mit... salon</span></li>
+<li><span>**Fri Dec 3, 2021, 6pm**</span><span>*OLYMPIA, WA: Venue TBA*</span><span>Fundraiser for [Yeshiva Beis HaGolus](yeshivabeishagolus.com) and [JCARF](www.jcarf.org)</span></li>
 <!--<p class='follow'>No in-person shows until further notice, but check back here for virtual events.<br>Be well and take care of each other!</p>
 <p class='follow'>No shows coming up, but check back here for the latest.<br>Be well and take care of each other!</p>-->
 </ul>
