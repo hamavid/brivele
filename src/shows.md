@@ -3,7 +3,8 @@ layout: page.html
 outdirs: '..'
 title: Shows
 ---
-<p class='follow'>Follow us on <a href='https://www.facebook.com/brivele/'>Facebook</a> or <a href='https://www.instagram.com/brivelemusic/'>Instagram</a><br>Or sign up for our <a href='../#mc_anchor'>mailing list</a> to hear (occasionally) about shows and news!</p><br/>
+<p class='follow'>Follow us on <a href='https://www.facebook.com/brivele/'>Facebook</a> or <a href='https://www.instagram.com/brivelemusic/'>Instagram</a><br>Or sign up for our <a href='../#mc_anchor'>mailing list</a> to hear (occasionally) about shows and news!</p>
+<p class='follow'>Online shows that were recorded can be watched via links below, or enjoyed via YouTube playlists. We have a collection of <a href='https://www.youtube.com/playlist?list=PLlvwhydanVuwD5s_U6Foj_7iVgFIKlRV3'>virtual events</a> we've been part of, as well as our <a href='https://www.youtube.com/playlist?list=PLlvwhydanVuyomfozpxCBh15x4qLSHX9J'>Phase II Sessions</a> for more music-video-style pandemic performances.</p><br/>
 
 ## Upcoming shows
 <ul class='showslist'>
@@ -16,11 +17,11 @@ title: Shows
 
 ## Past shows
 <ul class='showslist'>
-<li><span>**Wed Oct 20, 2021, 5pm PT**</span><span>*Online, [click here to register](https://give.forward.com/event/the-forward-presents-have-i-got-a-story-for-you/e345939)*</span><span>At [The Forward](https://forward.com/)'s annual gala, *Have I Got A Story For You*</span></li>
+<li><span>**Wed Oct 20, 2021, 5pm PT**</span><span>*Online, [click here to register](https://give.forward.com/event/the-forward-presents-have-i-got-a-story-for-you/e345939)*</span><span>At [The Forward](https://forward.com/)'s annual gala, *Have I Got A Story For You.* [WATCH HERE](https://www.youtube.com/watch?v=Y9MO_senj1s)</span></li>
 <li><span>**Sat Oct 2, 2021, 1:15pm PT**</span><span>*[Roosevelt light rail station, NE corner](https://goo.gl/maps/qzsa6MNRLYs33cmP7)*</span><span>New light rail opening celebration</span></li>
 <li><span>**Sat Aug 28, 2021**</span><span>*5500 block of 8th Ave NE*</span><span>[Block Party Show](https://drive.google.com/file/d/1YjJSKHSZm04tf6rfk3LnjV_yRdc073rj/view), with [Shpilkis!](https://www.shpilkisseattle.com/) and more</span></li>
 <li><span>**Sat Jul 24, 2021**</span><span>*Backyard show, Ravenna - message for address*</span><span>[Tu b'av Show](https://www.facebook.com/events/261830042373553/), with [Dottie's Serenade Service](https://www.facebook.com/dottiesserenadeservice)</span></li>
-<li><span>**Sat May 29, 2021, 11:00am PT or later**</span><span>*[NW Folklife On Demand channel](https://www.nwfolklife.org/festival/ondemand/)*</span><span>[Big Jewish Show](https://www.nwfolklife.org/festival/music/brivele.html)</span></li>
+<li><span>**Sat May 29, 2021, 11:00am PT or later**</span><span>*[NW Folklife On Demand channel](https://www.nwfolklife.org/festival/ondemand/)*</span><span>[Big Jewish Show](https://www.nwfolklife.org/festival/music/brivele.html). [WATCH HERE](https://vimeo.com/549017200?embedded=true&source=video_title&owner=114221642)</span></li>
 <li><span>**Sat May 22, 2021, 7:30-9:30pm PT**</span><span>*[Zoom](https://secure.lglforms.com/form_engine/s/RRPSyAshbHyX6EtjsU5RsA)*</span><span>[Heart &amp; Chutzpah Kadima fundraiser](https://www.facebook.com/events/295536218609265)</span></li>
 <li><span>**Sun Apr 4, 2021, 12:00-12:45pm PT**</span><span>*[Zoom](https://secure.lglforms.com/form_engine/s/xbp40eJSIEA77X5wOQr-oA?t=1615963448)*</span><span>Kadima Pesach show</span></li>
 </ul>
@@ -29,7 +30,7 @@ title: Shows
 <h2><i class="fa fa-caret-right fa-lg"></i>2020</h2>
 <ul class='showslist'>
 <li><span>**Sat Dec 12, 2020, 5:00-6:30pm PT**</span><span>*[Zoom](https://www.kadima.org/calendarofevents.html)*</span><span>Kadima Chanukah show</span></li>
-<li><span>**Thu Aug 13, 2020**</span><span>*[Zoom](https://bit.ly/3epsRJh)*</span><span>Antifascist Klezmer [online discussion and performance](https://www.facebook.com/events/265500951381584/) with [Geoff Berner](http://geoffberner.com/) and Ira Khonen Temple</span></li>
+<li><span>**Thu Aug 13, 2020**</span><span>*[Zoom](https://bit.ly/3epsRJh)*</span><span>Antifascist Klezmer [online discussion and performance](https://www.facebook.com/events/265500951381584/) with [Geoff Berner](http://geoffberner.com/) and Ira Khonen Temple.) [WATCH HERE](https://www.youtube.com/watch?v=--bTy5dWDK0)</span></li>
 <li><span>**CANCELED: Sat-Sun Jul 18-19, 2020**</span><span>*[Jericho Beach Park](https://vancouver.ca/parks-recreation-culture/jericho-beach.aspx)*</span><span>[Vancouver Folk Festival](https://thefestival.bc.ca/)</span></li>
 <li><span>**CANCELED: Sat Jun 20, 2020, midday**</span><span>*[Camp Long](https://www.seattle.gov/parks/find/centers/camp-long)*</span><span>[Arts in Nature Festival](https://dnda.org/festival/)</span></li>
 <li><span>**CANCELED: Sun May 24, 2020, 7:15-7:45pm**</span><span>*[The Vera Project](https://goo.gl/maps/axNWd3T46sv1Pamx5)*</span><span>[NW Folklife Festival](https://www.nwfolklife.org/festival/)</span></li>
