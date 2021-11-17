@@ -4,12 +4,12 @@ outdirs: '..'
 title: Shows
 ---
 <p class='follow'>Follow us on <a href='https://www.facebook.com/brivele/'>Facebook</a> or <a href='https://www.instagram.com/brivelemusic/'>Instagram</a><br>Or sign up for our <a href='../#mc_anchor'>mailing list</a> to hear (occasionally) about shows and news!</p>
-<p class='follow'>Online shows that were recorded can be watched via links below, or enjoyed via YouTube playlists. We have a collection of <a href='https://www.youtube.com/playlist?list=PLlvwhydanVuwD5s_U6Foj_7iVgFIKlRV3'>virtual events</a> we've been part of, as well as our <a href='https://www.youtube.com/playlist?list=PLlvwhydanVuyomfozpxCBh15x4qLSHX9J'>Phase II Sessions</a> for more music-video-style pandemic performances.</p><br/>
+<p class='follow'>Past shows that were streamed online and recorded can be watched via links below, or enjoyed via YouTube playlists: We have a collection of <a href='https://www.youtube.com/playlist?list=PLlvwhydanVuwD5s_U6Foj_7iVgFIKlRV3'>virtual events</a> we've been part of, as well as our <a href='https://www.youtube.com/playlist?list=PLlvwhydanVuyomfozpxCBh15x4qLSHX9J'>Phase II Sessions</a> for more music-video-style pandemic performances.</p><br/>
 
 ## Upcoming shows
 <ul class='showslist'>
 <li><span>**Sat Nov 27, 2021, 5pm PT**</span><span>*Zoom, [click here to register](https://www.tickettailor.com/events/radyiddish/609974)*</span><span>Yid Lit Mit... salon</span></li>
-<li><span>**Fri Dec 3, 2021, 6pm**</span><span>*OLYMPIA, WA: Venue TBA*</span><span>Fundraiser for [Yeshiva Beis HaGolus](yeshivabeishagolus.com) and [JCARF](www.jcarf.org)</span></li>
+<li><span>**Fri Dec 3, 2021, 6pm**</span><span>*OLYMPIA, WA: [Pressing On Fitness](https://goo.gl/maps/vo8yFqk7JxRhSrqX9)*</span><span>Fundraiser for [Yeshiva Beis HaGolus](yeshivabeishagolus.com) and [JCARF](www.jcarf.org)</span></li>
 <!--<p class='follow'>No in-person shows until further notice, but check back here for virtual events.<br>Be well and take care of each other!</p>
 <p class='follow'>No shows coming up, but check back here for the latest.<br>Be well and take care of each other!</p>-->
 </ul>
