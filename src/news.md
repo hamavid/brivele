@@ -7,7 +7,7 @@ title: News
 
 ## News
 
-We are slowly figuring out how to play shows again as the pandemic changes shape. The good news for non-locals is a lot of our performances are still virtual, so you can access them from afar. The good news for locals is we're kinda doing live shows sometimes now. Follow us on social media or [sign up for our mailing list](http://localhost:8080/#mc_anchor) to get the latest. <!--Here are a few examples of the sorts of antics that will grace your inbox if you do: 
+We are slowly figuring out how to play shows again as the pandemic changes shape. The good news for non-locals is a lot of our performances are still virtual, so you can access them from afar. The good news for locals is we're kinda doing live shows sometimes now. Follow us on social media or [sign up for our mailing list](../#mc_anchor) to get the latest. <!--Here are a few examples of the sorts of antics that will grace your inbox if you do: 
  Link to where people can stream past performances? maybe add to shows page as well -->
 
 
