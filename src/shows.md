@@ -8,7 +8,7 @@ title: Shows
 
 ## Upcoming shows
 <ul class='showslist'>
-<li><span>**Fri Jan 7, 2022, doors 6:30pm**</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>With [Kesselgarden](https://sites.google.com/site/kesselgardenhomepage/) and [Shpilkis!](https://www.shpilkisseattle.com/), as Brief</span></li>
+<li><span>**CANCELED: Fri Jan 7, 2022, doors 6:30pm**</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>With [Kesselgarden](https://sites.google.com/site/kesselgardenhomepage/) and [Shpilkis!](https://www.shpilkisseattle.com/)</span></li>
 <!--<p class='follow'>No in-person shows until further notice, but check back here for virtual events.<br>Be well and take care of each other!</p>
 <p class='follow'>No shows coming up, but check back here for the latest.<br>Be well and take care of each other!</p>-->
 </ul>
