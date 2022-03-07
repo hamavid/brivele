@@ -11,9 +11,9 @@ title: Archive
 
 <ul class='showslist'>
 
-<li><span>11/16/21 - </span><span>[Purim is the only P word, דאַלױ אַלע טזאַרס](https://mailchi.mp/944917b8dd9e/purim-is-the-only-p-word)</span></li>
-<li><span>11/16/21 - </span><span>[CANCELED: The Royal Room Fri 1/7/22](https://us19.campaign-archive.com/?u=0eba332778a4c9bc308cd72b1&id=e01a61a96c)</span></li>
-<li><span>11/16/21 - </span><span>[Here Comes the Sun](https://us19.campaign-archive.com/?u=0eba332778a4c9bc308cd72b1&id=9b37cf91eb)</span></li>
+<li><span>03/06/22 - </span><span>[Purim is the only P word, דאַלױ אַלע טזאַרס](https://mailchi.mp/944917b8dd9e/purim-is-the-only-p-word)</span></li>
+<li><span>01/02/22 - </span><span>[CANCELED: The Royal Room Fri 1/7/22](https://us19.campaign-archive.com/?u=0eba332778a4c9bc308cd72b1&id=e01a61a96c)</span></li>
+<li><span>12/13/21 - </span><span>[Here Comes the Sun](https://us19.campaign-archive.com/?u=0eba332778a4c9bc308cd72b1&id=9b37cf91eb)</span></li>
 <li><span>11/16/21 - </span><span>[A little bitta Yid Lit Mit wit](https://us19.campaign-archive.com/?u=0eba332778a4c9bc308cd72b1&id=db370dcbd7)</span></li>
 <li><span>10/18/21 - </span><span>[My? Yuh!](https://us19.campaign-archive.com/?u=0eba332778a4c9bc308cd72b1&id=024902613b)</span></li>
 <li><span>09/24/21 - </span><span>[Onward, Upward, Forward!](https://us19.campaign-archive.com/?u=0eba332778a4c9bc308cd72b1&id=270903e95e)</span></li>
