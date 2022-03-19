@@ -9,13 +9,14 @@ title: Shows
 ## Upcoming shows
 <ul class='showslist'>
 <!--<p class='follow'>No in-person shows until further notice, but check back here for virtual events.<br>Be well and take care of each other!</p>-->
-<li><span>Wed Mar 16, 2022, 11am-2pm PDT</span><span>*Zoom, [click here to register](https://bio8i14rrrh.typeform.com/to/hOewO5CT)*</span><span>pink peacock purim party</span></li>
-<li><span>Fri May 13, 2022, doors 6:30pm</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>With [Kesselgarden](https://sites.google.com/site/kesselgardenhomepage/) and [Shpilkis!](https://www.shpilkisseattle.com/)</span></li>
+<!--<li><span>**Sat Apr 2, 2022**</span><span>*Zoom, [click here to register](.)*</span><span>Ukraine benefit livestream with [Kesselgarden](https://sites.google.com/site/kesselgardenhomepage/) and [Shpilkis!](https://www.shpilkisseattle.com/)</span></li>-->
+<li><span>**Fri May 13, 2022, doors 6:30pm**</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>With [Kesselgarden](https://sites.google.com/site/kesselgardenhomepage/) and [Shpilkis!](https://www.shpilkisseattle.com/)</span></li>
 </ul>
 
 
 ## Past shows
 <ul class='showslist'>
+<li><span>**Wed Mar 16, 2022, 11am-2pm PDT**</span><span>*Zoom, [click here to register](https://bio8i14rrrh.typeform.com/to/hOewO5CT)*</span><span>pink peacock purim party</span></li>
 <li><span>**CANCELED: Fri Jan 7, 2022, doors 6:30pm**</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>With [Kesselgarden](https://sites.google.com/site/kesselgardenhomepage/) and [Shpilkis!](https://www.shpilkisseattle.com/)</span></li>
 <li><span>**Sun Dec 19, 2021, 5pm**</span><span>*[Pipsqueak](https://www.instagram.com/pipsqueak.seattle/)*</span><span>With [Lavender Country](https://lavendercountry.bandcamp.com/album/lavender-country) and [pigeon pit](https://pigeonpit.bandcamp.com/), as Brief</span></li>
 <li><span>**Fri Dec 3, 2021, 6pm**</span><span>*OLYMPIA, WA: [Pressing On Fitness](https://goo.gl/maps/vo8yFqk7JxRhSrqX9)*</span><span>Fundraiser for [Yeshiva Beis HaGolus](yeshivabeishagolus.com) and [JCARF](www.jcarf.org), as Brief</span></li>
