@@ -9,7 +9,7 @@ title: Shows
 ## Upcoming shows
 <ul class='showslist'>
 <!--<p class='follow'>No in-person shows until further notice, but check back here for virtual events.<br>Be well and take care of each other!</p>-->
-<li><span>**Sat Apr 2, 2022, 7pm PDT**</span><span>*Zoom*</span><span>Ukraine benefit livestream with [Kesselgarden](https://sites.google.com/site/kesselgardenhomepage/) and [Shpilkis!](https://www.shpilkisseattle.com/)</span></li>
+<li><span>**Sat Apr 2, 2022, 7pm PDT**</span><span>*Zoom*</span><span>Ukraine benefit livestream with [Kesselgarden](https://sites.google.com/site/kesselgardenhomepage/) and [The Klein Party of 4](https://www.thekleinparty.com/)</span></li>
 <li><span>**Fri May 13, 2022, doors 6:30pm**</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>With [Kesselgarden](https://sites.google.com/site/kesselgardenhomepage/) and [Shpilkis!](https://www.shpilkisseattle.com/)</span></li>
 <li><span>**Sun May 29, 2022, 3:40-4:10pm**</span><span>*Seattle Center, [Fisher Green Stage](https://www.nwfolklife.org/festival/)*</span><span>[Northwest Folklife Festival](https://www.nwfolklife.org/festival/)</span></li>
 </ul>
