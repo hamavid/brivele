@@ -9,8 +9,6 @@ title: Shows
 ## Upcoming shows
 <ul class='showslist'>
 <!--<p class='follow'>No in-person shows until further notice, but check back here for virtual events.<br>Be well and take care of each other!</p>-->
-<li><span>**Sat Apr 2, 2022, 1pm PDT**</span><span>*Zoom pre-record, [click here for tickets](https://www.tickettailor.com/events/qyccab/670989)*</span><span>[Queer Yiddish Camp Cabaret Fundraiser](https://www.facebook.com/events/1113127269524200), with many friends</span></li>
-<li><span>**Sat Apr 2, 2022, 7pm PDT**</span><span>*Youtube, [click here to live stream](https://www.youtube.com/watch?v=HpP_YvWuNuw)*</span><span>Ukraine benefit show with [Kesselgarden](https://sites.google.com/site/kesselgardenhomepage/) and [The Klein Party of 3](https://www.thekleinparty.com/)</span></li>
 <li><span>**Fri May 13, 2022, doors 6:30pm**</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>With [Kesselgarden](https://sites.google.com/site/kesselgardenhomepage/) and [Shpilkis!](https://www.shpilkisseattle.com/)</span></li>
 <li><span>**Sun May 29, 2022, 3:40-4:10pm**</span><span>*Seattle Center, [Fisher Green Stage](https://www.nwfolklife.org/festival/)*</span><span>[Northwest Folklife Festival](https://www.nwfolklife.org/festival/)</span></li>
 </ul>
@@ -18,6 +16,8 @@ title: Shows
 
 ## Past shows
 <ul class='showslist'>
+<li><span>**Sat Apr 2, 2022, 1pm PDT**</span><span>*Zoom pre-record, [click here for tickets](https://www.tickettailor.com/events/qyccab/670989)*</span><span>[Queer Yiddish Camp Cabaret Fundraiser](https://www.facebook.com/events/1113127269524200), with many friends</span></li>
+<li><span>**Sat Apr 2, 2022, 7pm PDT**</span><span>*Youtube*</span><span>Ukraine benefit show with [Kesselgarden](https://sites.google.com/site/kesselgardenhomepage/) and [The Klein Party of 3](https://www.thekleinparty.com/). [WATCH HERE](https://www.youtube.com/watch?v=HpP_YvWuNuw)</span></li>
 <li><span>**Wed Mar 16, 2022, 11am-2pm PDT**</span><span>*Zoom, [click here to register](https://bio8i14rrrh.typeform.com/to/hOewO5CT)*</span><span>pink peacock purim party</span></li>
 <li><span>**CANCELED: Fri Jan 7, 2022, doors 6:30pm**</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>With [Kesselgarden](https://sites.google.com/site/kesselgardenhomepage/) and [Shpilkis!](https://www.shpilkisseattle.com/)</span></li>
 <li><span>**Sun Dec 19, 2021, 5pm**</span><span>*[Pipsqueak](https://www.instagram.com/pipsqueak.seattle/)*</span><span>With [Lavender Country](https://lavendercountry.bandcamp.com/album/lavender-country) and [pigeon pit](https://pigeonpit.bandcamp.com/), as Brief</span></li>
