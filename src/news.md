@@ -17,6 +17,11 @@ We are slowly figuring out how to play shows again as the pandemic changes shape
 We are grateful for the generous things so many lovely people have said about our music!
 <br/><br/>
 <div class='reviews'>
+<p class='imgrev'>
+_The new Klezmer scene got this great write up by Jael Goldfine in the Bandcamp Daily, featuring wise words and music from many of our friends, and a shoutout to us towards the end. [Read the article here](https://daily.bandcamp.com/scene-report/klezmer-jewish-folk-feature)._<br/><br/>
+<a href='https://daily.bandcamp.com/scene-report/klezmer-jewish-folk-feature'><img src='../images/news/BC-klezDIYrevival.png' width='500px'></a>
+</p>
+<br/>
 <h3><em>Cradle Songs, Grave Songs</em></h3>
 <p class='imgrev'>
 _Our recent album was included in a very sweet summer round-up of Yiddish music by Rokhl Kafrissen, along with new albums by [Socalled](https://socalledmtl.bandcamp.com/) and [Mark Rubin](https://www.jewofoklahoma.com/), which you should also check out! [Read the review here](https://www.tabletmag.com/sections/community/articles/sounds-of-summer-yiddish-music)._<br/><br/>
