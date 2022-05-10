@@ -5,6 +5,8 @@ title: Links
 ---
 <div id="linklist">
 		<ul>
+			<a href='https://www.strangertickets.com/events/122060147/shpilkis-with-special-guest-dan-blacksberg-brivele-kesselgarden'><li>Royal Room 5/13/22</li></a>
+			<a href='https://mailchi.mp/cc544f5feef4/nu-music'><li>May 2022 newsletter</li></a>
 			<a href='https://youtu.be/HpP_YvWuNuw?t=244'><li>Ukraine Benefit Livestream</li></a>
 			<a href='https://www.tickettailor.com/events/radyiddish/609974'><li>YidLitWith... StopLine3</li></a>
 			<a href='https://give.forward.com/event/the-forward-presents-have-i-got-a-story-for-you/e345939'><li><em>The Forward's</em> Annual Gala</li></a>
