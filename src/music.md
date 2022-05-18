@@ -5,19 +5,22 @@ title: Music
 ---
 <h1>MUSIC</h1>
 <div class='sounds'>
-<p class='follow'><span style='font-size:1.4em;'>Streaming, downloads, CDs, and merch available on <a href='https://brivele.bandcamp.com/merch'>Bandcamp</a></span><br><br>Listen to our new album, <i><a href='https://brivele.bandcamp.com/album/cradle-songs-grave-songs'>Cradle Songs, Grave Songs</a></i></p>
+<p class='follow'><span style='font-size:1.4em;'>Streaming, downloads, CDs, and merch available on <a href='https://brivele.bandcamp.com/merch'>Bandcamp</a></span><br><br>Listen to our latest album, <i><a href='https://brivele.bandcamp.com/album/cradle-songs-grave-songs'>Cradle Songs, Grave Songs</a></i></p>
 
 <div class='bandcampembed'>
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1657040146/size=large/bgcol=ffffff/linkcol=da810f/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://brivele.bandcamp.com/album/cradle-songs-grave-songs">Cradle Songs, Grave Songs by Brivele</a></iframe>
 </div>
 
-<p class='follow'><span>Listen to our EP, <i><a href='http://brivele.bandcamp.com/album/a-little-letter'>A Little Letter</a></i></span></p>
+<!--<p class='follow'><span>Listen to our EP, <i><a href='http://brivele.bandcamp.com/album/a-little-letter'>A Little Letter</a></i></span></p>
 
 <div class='bandcampembed'>
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=776969049/size=large/bgcol=ffffff/linkcol=da810f/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://brivele.bandcamp.com/album/a-little-letter">A Little Letter by Brivele</a></iframe>
-</div>
+</div>-->
 
 <div class='soundcloudembed'>
+
+<div class='playlist'><span class='caption'>Live at the Royal Room 2022-05-13</span>
+<iframe width="100%" height="120" scrolling="yes" frameborder="yes" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1270748716&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=true&amp;show_teaser=true&amp;visual=true"></iframe></div>
 
 <div class='playlist'><span class='caption'>Live at the Northwest Folk Life Festival 2019.</span>
 <iframe width="100%" height="120" scrolling="yes" frameborder="yes" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/631097751&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=true&amp;show_teaser=true&amp;visual=true"></iframe></div>
