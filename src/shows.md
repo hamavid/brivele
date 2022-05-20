@@ -16,7 +16,7 @@ title: Shows
 ## Past shows
 <ul class='showslist'>
 <li><span>**Sun May 15, 2022, 3:00-5:30pm**</span><span>*[Town Hall Seattle](https://townhallseattle.org/)*</span><span>[Soundside with KUOW](https://www.eventbrite.com/e/kuow-celebrates-70-tickets-309198490007). [LISTEN HERE](https://www.kuow.org/stories/soundside-goes-live-modern-creators)</span></li>
-<li><span>**Fri May 13, 2022, doors 6:30pm**</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>With [Kesselgarden](https://sites.google.com/site/kesselgardenhomepage/) and [Shpilkis!](https://www.shpilkisseattle.com/)</span></li>
+<li><span>**Fri May 13, 2022, doors 6:30pm**</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>With [Kesselgarden](https://sites.google.com/site/kesselgardenhomepage/) and [Shpilkis!](https://www.shpilkisseattle.com/) [LISTEN HERE](https://soundcloud.com/brivele/the-royal-room-live-2022-05-13)</span></li>
 <li><span>**Thu May 12, 2022, 9:24am-9:35am PDT**</span><span>*Zoom*</span><span>[Tsvelf far Ukraine](https://klezmerinstitute.org/tsvelf/)</span></li>
 <li><span>**Sat Apr 2, 2022, 1pm PDT**</span><span>*Zoom pre-record, [click here for tickets](https://www.tickettailor.com/events/qyccab/670989)*</span><span>[Queer Yiddish Camp Cabaret Fundraiser](https://www.facebook.com/events/1113127269524200), with many friends. [WATCH HERE](https://youtu.be/hBMQgHr27po)</span></li>
 <li><span>**Sat Apr 2, 2022, 7pm PDT**</span><span>*Youtube*</span><span>Ukraine benefit show with [Kesselgarden](https://sites.google.com/site/kesselgardenhomepage/) and [The Klein Party of 3](https://www.thekleinparty.com/). [WATCH HERE](https://www.youtube.com/watch?v=HpP_YvWuNuw)</span></li>
