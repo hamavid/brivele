@@ -8,13 +8,13 @@ title: Shows
 
 ## Upcoming shows
 <ul class='showslist'>
-<!--<p class='follow'>No in-person shows until further notice, but check back here for virtual events.<br>Be well and take care of each other!</p>-->
-<li><span>**Sun May 29, 2022, 3:40-4:10pm**</span><span>*Seattle Center, [Fisher Green Stage](https://www.nwfolklife.org/festival/)*</span><span>[Northwest Folklife Festival](https://www.nwfolklife.org/festival/)</span></li>
+<p class='follow'>We're taking a hiatus for the summer: check back here for fall shows.<br>Be well and take care of each other!</p>
 </ul>
 
 
 ## Past shows
 <ul class='showslist'>
+<li><span>**Sun May 29, 2022, 3:40-4:10pm**</span><span>*Seattle Center, [Fisher Green Stage](https://www.nwfolklife.org/festival/)*</span><span>[Northwest Folklife Festival](https://www.nwfolklife.org/festival/)</span></li>
 <li><span>**Sun May 15, 2022, 3:00-5:30pm**</span><span>*[Town Hall Seattle](https://townhallseattle.org/)*</span><span>[Soundside with KUOW](https://www.eventbrite.com/e/kuow-celebrates-70-tickets-309198490007). [LISTEN HERE](https://www.kuow.org/stories/soundside-goes-live-modern-creators)</span></li>
 <li><span>**Fri May 13, 2022, doors 6:30pm**</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>With [Kesselgarden](https://sites.google.com/site/kesselgardenhomepage/) and [Shpilkis!](https://www.shpilkisseattle.com/) [LISTEN HERE](https://soundcloud.com/brivele/the-royal-room-live-2022-05-13)</span></li>
 <li><span>**Thu May 12, 2022, 9:24am-9:35am PDT**</span><span>*Zoom*</span><span>[Tsvelf far Ukraine](https://klezmerinstitute.org/tsvelf/)</span></li>
