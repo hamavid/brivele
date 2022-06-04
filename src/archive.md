@@ -10,6 +10,7 @@ title: Archive
 <p class="joinup"><a href='https://brivele.us19.list-manage.com/subscribe?u=0eba332778a4c9bc308cd72b1&id=cb8f6ec040'>join our mailing list</a></p>
 
 <ul class='showslist'>
+<li><span>05/29/22 - </span><span>[What Joy is Yours](https://mailchi.mp/144c8be9fc6d/what-joy-is-yours)</span></li>
 <li><span>05/06/22 - </span><span>[Nu? Music?](https://mailchi.mp/cc544f5feef4/nu-music)</span></li>
 <li><span>03/27/22 - </span><span>[Fun(d)raisers and Folklife: Four spring shows](https://mailchi.mp/ddc93da017d4/fundraisers-and-folklife-four-spring-shows)</span></li>
 <li><span>03/06/22 - </span><span>[Purim is the only P word, דאַלױ אַלע טזאַרס](https://mailchi.mp/944917b8dd9e/purim-is-the-only-p-word)</span></li>
