@@ -8,7 +8,8 @@ title: Shows
 
 ## Upcoming shows
 <ul class='showslist'>
-<p class='follow'>We're taking a hiatus for the summer: check back here for fall shows.<br>Be well and take care of each other!</p>
+<!--<p class='follow'>We're taking a hiatus for the summer: check back here for fall shows.<br>Be well and take care of each other!</p>-->
+<li><span>**Sat Jul 2, 2022, 5pm**</span><span>*Backyard show, Meadowbrook - message for address*</span><span>[Summer just 'cause show](https://www.facebook.com/events/571703544529767)</span></li>
 </ul>
 
 
