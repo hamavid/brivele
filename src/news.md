@@ -18,6 +18,10 @@ We are grateful for the generous things so many lovely people have said about ou
 <br/><br/>
 <div class='reviews'>
 <p class='imgrev'>
+_We were included in this latest round-up of Yiddish music by Rokhl Kafrissen with lovely things to say about our new EP, 'What Joy is Yours', plus an abundance of other happenings in the world of Yiddish and klezmer. [Read the article here](https://www.tabletmag.com/sections/community/articles/joy-of-summer-yiddish-music)._<br/><br/>
+<a href='https://www.tabletmag.com/sections/community/articles/joy-of-summer-yiddish-music'><img src='../images/news/Rokhl2.png' width='500px'></a>
+</p>
+<p class='imgrev'>
 _The new Klezmer scene got this great write up by Jael Goldfine in the Bandcamp Daily, featuring wise words and music from many of our friends, and a shoutout to us towards the end. [Read the article here](https://daily.bandcamp.com/scene-report/klezmer-jewish-folk-feature)._<br/><br/>
 <a href='https://daily.bandcamp.com/scene-report/klezmer-jewish-folk-feature'><img src='../images/news/BC-klezDIYrevival.png' width='500px'></a>
 </p>
