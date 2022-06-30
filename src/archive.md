@@ -10,6 +10,7 @@ title: Archive
 <p class="joinup"><a href='https://brivele.us19.list-manage.com/subscribe?u=0eba332778a4c9bc308cd72b1&id=cb8f6ec040'>join our mailing list</a></p>
 
 <ul class='showslist'>
+<li><span>06/29/22 - </span><span>[Backyard show this Saturday 7/2! Pls RSVP](https://mailchi.mp/5762c10824ee/backyard-show-this-saturday-72-pls-rsvp)</span></li>
 <li><span>05/29/22 - </span><span>[A Show, An Art, An EP Walk Into A Bar...](https://mailchi.mp/52144397bbe7/a-show-an-art-an-ep-walk-into-a-bar)</span></li>
 <li><span>05/29/22 - </span><span>[What Joy is Yours](https://mailchi.mp/144c8be9fc6d/what-joy-is-yours)</span></li>
 <li><span>05/06/22 - </span><span>[Nu? Music?](https://mailchi.mp/cc544f5feef4/nu-music)</span></li>
