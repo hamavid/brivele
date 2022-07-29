@@ -8,7 +8,9 @@ title: Shows
 
 ## Upcoming shows
 <ul class='showslist'>
-<p class='follow'>We're taking a hiatus for the summer: check back here for fall shows.<br>Be well and take care of each other!</p>
+<!--<p class='follow'>We're taking a hiatus for the summer: check back here for fall shows.<br>Be well and take care of each other!</p>-->
+<li><span>**Sun Aug 28, 2022**</span><span>*MONTREAL, QC: [5074 Rue de Mentana](https://goo.gl/maps/EefkASQdr4Q2) (aka The Riot)*</span><span>Klezmer at The Riot 4.0, with [Mamaliga](https://www.mamaligaband.com/) and others, as Brief</span></li>
+<li><span>**Sep 2-4, 2022**</span><span>*BELLINGHAM, WA: [Lookout Arts Quarry](https://goo.gl/maps/YSWcTyWcTYBZ7wxx9)*</span><span>[Sh'bang! fest](https://www.tickettailor.com/events/lookoutarts/732254/), as Brief</span></li>
 </ul>
 
 
@@ -16,12 +18,12 @@ title: Shows
 <ul class='showslist'>
 <li><span>**Sat Jul 2, 2022, 5pm**</span><span>*Backyard show, Meadowbrook - message for address*</span><span>[Summer just 'cause show](https://www.facebook.com/events/571703544529767). [WATCH HERE](https://www.youtube.com/watch?v=qENj2Xw_BRk&list=PLlvwhydanVuyj1cYC0KW62UUBMBatEeaX)</span></li>
 <li><span>**Sun May 29, 2022, 3:40-4:10pm**</span><span>*Seattle Center, [Fisher Green Stage](https://www.nwfolklife.org/festival/)*</span><span>[Northwest Folklife Festival](https://www.nwfolklife.org/festival/)</span></li>
-<li><span>**Sun May 15, 2022, 3:00-5:30pm**</span><span>*[Town Hall Seattle](https://townhallseattle.org/)*</span><span>[Soundside with KUOW](https://www.eventbrite.com/e/kuow-celebrates-70-tickets-309198490007). [LISTEN HERE](https://www.kuow.org/stories/soundside-goes-live-modern-creators)</span></li>
+<li><span>**Sun May 15, 2022, 3:00-5:30pm**</span><span>*[Town Hall Seattle](https://townhallseattle.org/)*</span><span>As Brief: [Soundside with KUOW](https://www.eventbrite.com/e/kuow-celebrates-70-tickets-309198490007). [LISTEN HERE](https://www.kuow.org/stories/soundside-goes-live-modern-creators)</span></li>
 <li><span>**Fri May 13, 2022, doors 6:30pm**</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>With [Kesselgarden](https://sites.google.com/site/kesselgardenhomepage/) and [Shpilkis!](https://www.shpilkisseattle.com/) [LISTEN HERE](https://soundcloud.com/brivele/the-royal-room-live-2022-05-13)</span></li>
 <li><span>**Thu May 12, 2022, 9:24am-9:35am PDT**</span><span>*Zoom*</span><span>[Tsvelf far Ukraine](https://klezmerinstitute.org/tsvelf/)</span></li>
 <li><span>**Sat Apr 2, 2022, 1pm PDT**</span><span>*Zoom pre-record, [click here for tickets](https://www.tickettailor.com/events/qyccab/670989)*</span><span>[Queer Yiddish Camp Cabaret Fundraiser](https://www.facebook.com/events/1113127269524200), with many friends. [WATCH HERE](https://youtu.be/hBMQgHr27po)</span></li>
 <li><span>**Sat Apr 2, 2022, 7pm PDT**</span><span>*Youtube*</span><span>Ukraine benefit show with [Kesselgarden](https://sites.google.com/site/kesselgardenhomepage/) and [The Klein Party of 3](https://www.thekleinparty.com/). [WATCH HERE](https://www.youtube.com/watch?v=HpP_YvWuNuw)</span></li>
-<li><span>**Wed Mar 16, 2022, 11am-2pm PDT**</span><span>*Zoom, [click here to register](https://bio8i14rrrh.typeform.com/to/hOewO5CT)*</span><span>pink peacock purim party</span></li>
+<li><span>**Wed Mar 16, 2022, 11am-2pm PDT**</span><span>*Zoom, [click here to register](https://bio8i14rrrh.typeform.com/to/hOewO5CT)*</span><span>pink peacock purim party, as Brief</span></li>
 <li><span>**CANCELED: Fri Jan 7, 2022, doors 6:30pm**</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>With [Kesselgarden](https://sites.google.com/site/kesselgardenhomepage/) and [Shpilkis!](https://www.shpilkisseattle.com/)</span></li>
 </ul>
 
