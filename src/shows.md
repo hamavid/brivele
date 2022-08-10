@@ -9,6 +9,7 @@ title: Shows
 ## Upcoming shows
 <ul class='showslist'>
 <!--<p class='follow'>We're taking a hiatus for the summer: check back here for fall shows.<br>Be well and take care of each other!</p>-->
+<li><span>**Sat Aug 13, 2022, 8pm**</span><span>*[Left Bank Books](http://www.leftbankbooks.com/)*</span><span>With Uncanny Dandelions and Sister Wife Sex Strike</span></li>
 <li><span>**Sun Aug 28, 2022**</span><span>*MONTREAL, QC: [5074 Rue de Mentana](https://goo.gl/maps/EefkASQdr4Q2) (aka The Riot)*</span><span>Klezmer at The Riot 4.0, with [Mamaliga](https://www.mamaligaband.com/) and others, as Brief</span></li>
 <li><span>**Sep 2-4, 2022**</span><span>*BELLINGHAM, WA: [Lookout Arts Quarry](https://goo.gl/maps/YSWcTyWcTYBZ7wxx9)*</span><span>[Sh'bang! fest](https://www.tickettailor.com/events/lookoutarts/732254/), as Brief</span></li>
 </ul>
