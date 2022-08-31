@@ -9,14 +9,14 @@ title: Shows
 ## Upcoming shows
 <ul class='showslist'>
 <!--<p class='follow'>We're taking a hiatus for the summer: check back here for fall shows.<br>Be well and take care of each other!</p>-->
-<li><span>**Sat Aug 13, 2022, 8pm**</span><span>*[Left Bank Books](http://www.leftbankbooks.com/)*</span><span>With Uncanny Dandelions and Sister Wife Sex Strike, as Brief</span></li>
-<li><span>**Sun Aug 28, 2022**</span><span>*MONTREAL, QC: [5074 Rue de Mentana](https://goo.gl/maps/EefkASQdr4Q2) (aka The Riot)*</span><span>Klezmer at The Riot 4.0, with [Mamaliga](https://www.mamaligaband.com/) and others, as Brief</span></li>
 <li><span>**Sep 2-4, 2022**</span><span>*BELLINGHAM, WA: [Lookout Arts Quarry](https://goo.gl/maps/YSWcTyWcTYBZ7wxx9)*</span><span>[Sh'bang! fest](https://www.tickettailor.com/events/lookoutarts/732254/), as Brief</span></li>
 </ul>
 
 
 ## Past shows
 <ul class='showslist'>
+<li><span>**Sun Aug 28, 2022**</span><span>*MONTREAL, QC: [5074 Rue de Mentana](https://goo.gl/maps/EefkASQdr4Q2) (aka The Riot)*</span><span>Klezmer at The Riot 4.0, with [Mamaliga](https://www.mamaligaband.com/) and others, as Brief</span></li>
+<li><span>**Sat Aug 13, 2022, 8pm**</span><span>*[Left Bank Books](http://www.leftbankbooks.com/)*</span><span>With Uncanny Dandelions and Sister Wife Sex Strike, as Brief</span></li>
 <li><span>**Sat Jul 2, 2022, 5pm**</span><span>*Backyard show, Meadowbrook - message for address*</span><span>[Summer just 'cause show](https://www.facebook.com/events/571703544529767). [WATCH HERE](https://www.youtube.com/watch?v=qENj2Xw_BRk&list=PLlvwhydanVuyj1cYC0KW62UUBMBatEeaX)</span></li>
 <li><span>**Sun May 29, 2022, 3:40-4:10pm**</span><span>*Seattle Center, [Fisher Green Stage](https://www.nwfolklife.org/festival/)*</span><span>[Northwest Folklife Festival](https://www.nwfolklife.org/festival/)</span></li>
 <li><span>**Sun May 15, 2022, 3:00-5:30pm**</span><span>*[Town Hall Seattle](https://townhallseattle.org/)*</span><span>As Brief: [Soundside with KUOW](https://www.eventbrite.com/e/kuow-celebrates-70-tickets-309198490007). [LISTEN HERE](https://www.kuow.org/stories/soundside-goes-live-modern-creators)</span></li>
