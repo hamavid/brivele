@@ -11,6 +11,7 @@ title: Shows
 <!--<p class='follow'>We're taking a hiatus for the summer: check back here for fall shows.<br>Be well and take care of each other!</p>-->
 <li><span>**Sun Oct 30, 2022**</span><span>*[Zoom](https://68398.blackbaudhosting.com/68398/Music-of-the-Red-Scare-A-Virtual-Concert-Featuring-Ryan-Harvey--Brivele)*</span><span>[Music of the Red Scare, with Ryan Harvey](https://jewishmuseummd.org/events/music-of-the-red-scare-a-virtual-concert-featuring-ryan-harvey-brivele/)</span></li>
 <li><span>**Sat Nov 5, 2022**</span><span>*[Left Bank Books](http://www.leftbankbooks.com/)*</span><span>With Sister Pigeon</span></li>
+<li><span>**Sun Nov 6, 2022**</span><span>*[UW Hillel](https://goo.gl/maps/RUy8StpFYz3UMmFu9)*</span><span>Happy Hour music at [Not Your Temple's Sunday School](https://www.jconnectseattle.org/events/not-your-temples-sunday-school/)</span></li>
 </ul>
 
 
