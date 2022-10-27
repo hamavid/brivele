@@ -10,6 +10,8 @@ title: Archive
 <p class="joinup"><a href='https://brivele.us19.list-manage.com/subscribe?u=0eba332778a4c9bc308cd72b1&id=cb8f6ec040'>join our mailing list</a></p>
 
 <ul class='showslist'>
+<li><span>10/26/22 - </span><span>[What's re(a)d all over?](https://mailchi.mp/0aa64bac545a/whats-read-all-over)</span></li>
+<li><span>08/13/22 - </span><span>[A Few Brief Happenings](https://mailchi.mp/691f50a5d220/a-few-brief-happenings)</span></li>
 <li><span>06/29/22 - </span><span>[Backyard show this Saturday 7/2! Pls RSVP](https://mailchi.mp/5762c10824ee/backyard-show-this-saturday-72-pls-rsvp)</span></li>
 <li><span>05/29/22 - </span><span>[A Show, An Art, An EP Walk Into A Bar...](https://mailchi.mp/52144397bbe7/a-show-an-art-an-ep-walk-into-a-bar)</span></li>
 <li><span>05/29/22 - </span><span>[What Joy is Yours](https://mailchi.mp/144c8be9fc6d/what-joy-is-yours)</span></li>
