@@ -5,6 +5,7 @@ title: Links
 ---
 <div id="linklist">
 		<ul>
+			<a href='https://www.youtube.com/watch?v=noIth4N2kEg&themeRefresh=1'><li>Music of the Red Scare</li></a>
 			<a href='https://www.youtube.com/watch?v=qENj2Xw_BRk&list=PLlvwhydanVuyj1cYC0KW62UUBMBatEeaX'><li>Backyard show videos Jul 2022</li></a>
 			<a href='https://brivele.bandcamp.com/album/what-joy-is-yours'><li>What Joy is Yours EP</li></a>
 			<a href='https://www.strangertickets.com/events/122060147/shpilkis-with-special-guest-dan-blacksberg-brivele-kesselgarden'><li>Royal Room 5/13/22</li></a>
