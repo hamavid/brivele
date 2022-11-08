@@ -8,14 +8,14 @@ title: Shows
 
 ## Upcoming shows
 <ul class='showslist'>
-<!--<p class='follow'>We're taking a hiatus for the summer: check back here for fall shows.<br>Be well and take care of each other!</p>-->
-<li><span>**Sat Nov 5, 2022**</span><span>*[Left Bank Books](http://www.leftbankbooks.com/)*</span><span>With Sister Pigeon</span></li>
-<li><span>**Sun Nov 6, 2022**</span><span>*[UW Hillel](https://goo.gl/maps/RUy8StpFYz3UMmFu9)*</span><span>Happy Hour music at [Not Your Temple's Sunday School](https://www.jconnectseattle.org/events/not-your-temples-sunday-school/)</span></li>
+<p class='follow'>We're taking a hiatus until the new yeaer: check back here for early spring shows.<br>Be well and take care of each other!</p>
 </ul>
 
 
 ## Past shows
 <ul class='showslist'>
+<li><span>**Sun Nov 6, 2022**</span><span>*[UW Hillel](https://goo.gl/maps/RUy8StpFYz3UMmFu9)*</span><span>Happy Hour music at [Not Your Temple's Sunday School](https://www.jconnectseattle.org/events/not-your-temples-sunday-school/)</span></li>
+<li><span>**Sat Nov 5, 2022**</span><span>*[Left Bank Books](http://www.leftbankbooks.com/)*</span><span>With Sister Pigeon</span></li>
 <li><span>**Sun Oct 30, 2022**</span><span>*[Zoom](https://68398.blackbaudhosting.com/68398/Music-of-the-Red-Scare-A-Virtual-Concert-Featuring-Ryan-Harvey--Brivele)*</span><span>[Music of the Red Scare, with Ryan Harvey](https://jewishmuseummd.org/events/music-of-the-red-scare-a-virtual-concert-featuring-ryan-harvey-brivele/). [WATCH HERE](https://www.youtube.com/watch?v=noIth4N2kEg&themeRefresh=1)</span></li>
 <li><span>**Sep 2-4, 2022**</span><span>*BELLINGHAM, WA: [Lookout Arts Quarry](https://goo.gl/maps/YSWcTyWcTYBZ7wxx9)*</span><span>[Sh'bang! fest](https://www.tickettailor.com/events/lookoutarts/732254/), as Brief</span></li>
 <li><span>**Sun Aug 28, 2022**</span><span>*MONTREAL, QC: [5074 Rue de Mentana](https://goo.gl/maps/EefkASQdr4Q2) (aka The Riot)*</span><span>Klezmer at The Riot 4.0, with [Mamaliga](https://www.mamaligaband.com/) and others, as Brief</span></li>
