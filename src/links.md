@@ -5,6 +5,7 @@ title: Links
 ---
 <div id="linklist">
 		<ul>
+			<a href='https://on.soundcloud.com/tSqDw'><li>Folklife 2022</li></a>
 			<a href='https://www.youtube.com/watch?v=noIth4N2kEg&themeRefresh=1'><li>Music of the Red Scare</li></a>
 			<a href='https://www.youtube.com/watch?v=qENj2Xw_BRk&list=PLlvwhydanVuyj1cYC0KW62UUBMBatEeaX'><li>Backyard show videos Jul 2022</li></a>
 			<a href='https://brivele.bandcamp.com/album/what-joy-is-yours'><li>What Joy is Yours EP</li></a>
