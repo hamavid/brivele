@@ -8,7 +8,8 @@ title: Shows
 
 ## Upcoming shows
 <ul class='showslist'>
-<p class='follow'>We're taking a hiatus until the new year: check back here for early spring shows.<br>Be well and take care of each other!</p>
+<!--<p class='follow'>We're taking a hiatus until the new year: check back here for early spring shows.<br>Be well and take care of each other!</p>-->
+<li><span>**Mon Jan 9, 2023**</span><span>*[Left Bank Books](http://www.leftbankbooks.com/)*</span><span>Frank Krasnowsky Yahrzeit show, with Kesselgarden, Sunga Rose, Peter Lippman and more</span></li>
 </ul>
 
 
