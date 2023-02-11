@@ -8,7 +8,8 @@ title: Shows
 
 ## Upcoming shows
 <ul class='showslist'>
-<p class='follow'>Check back here for early spring shows.<br>Be well and take care of each other!</p>
+<!--<p class='follow'>Check back here for early spring shows.<br>Be well and take care of each other!</p>-->
+<li><span>**Thu Mar 30, 2023**</span><span>*Private Event*</span><span>The Summit</span></li>
 </ul>
 
 
