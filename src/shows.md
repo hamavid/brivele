@@ -9,12 +9,17 @@ title: Shows
 ## Upcoming shows
 <ul class='showslist'>
 <!--<p class='follow'>Check back here for early spring shows.<br>Be well and take care of each other!</p>-->
-<li><span>**Thu Mar 30, 2023**</span><span>*Private Event*</span><span>The Summit</span></li>
+<li><span>**Sun Apr 16, 2023**</span><span>*Private Event*</span><span>[Save the Couth Buzzard](https://www.gofundme.com/f/wmruq-save-the-couth-buzzard)</span></li>
+<li><span>**Fri May 12, 2023**</span><span>*House show, Cap Hill - message for address*</span><span>[Pigeon Pit](https://pigeonpit.bandcamp.com/) Album Release Shabbos Backyard Party, as Brief</span></li>
+<li><span>**Sun May 28, 2023, 11:40am-12:10pm**</span><span>*Seattle Center, [Mural Ampitheater](https://www.nwfolklife.org/festival/)*</span><span>[Northwest Folklife Festival](https://www.nwfolklife.org/festival/), Big Jewish Showcase</span></li>
+<li><span>**Mon May 29, 2023, 6:00pm-7:00pm**</span><span>*Seattle Center, [Center Theater](https://www.nwfolklife.org/festival/)*</span><span>[Northwest Folklife Festival](https://www.nwfolklife.org/festival/), Jewish Music Forum, as Brief</span></li>
+<li><span>**Sun Jun 4, 2023**</span><span>*Private Event*</span><span>JCIJ picnic</span></li>
 </ul>
 
 
 ## Past shows
 <ul class='showslist'>
+<li><span>**Thu Mar 30, 2023**</span><span>*Private Event*</span><span>The Summit</span></li>
 <li><span>**Mon Jan 9, 2023**</span><span>*[Left Bank Books](http://www.leftbankbooks.com/)*</span><span>Frank Krasnowsky Yahrzeit show, with Kesselgarden, Sunga Rose, Peter Lippman and more. You can also [watch on Zoom](https://us02web.zoom.us/j/86019432461) (meeting ID: 860 1943 2461)</span></li>
 <li><span>**Sun Nov 6, 2022**</span><span>*[UW Hillel](https://goo.gl/maps/RUy8StpFYz3UMmFu9)*</span><span>Happy Hour music at [Not Your Temple's Sunday School](https://www.jconnectseattle.org/events/not-your-temples-sunday-school/)</span></li>
 <li><span>**Sat Nov 5, 2022**</span><span>*[Left Bank Books](http://www.leftbankbooks.com/)*</span><span>With Sister Pigeon</span></li>
