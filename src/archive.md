@@ -10,6 +10,7 @@ title: Archive
 <p class="joinup"><a href='https://brivele.us19.list-manage.com/subscribe?u=0eba332778a4c9bc308cd72b1&id=cb8f6ec040'>join our mailing list</a></p>
 
 <ul class='showslist'>
+<li><span>05/07/23 - </span><span>[Backyard show, Folkpunklife, picnicks and nitpicks](https://mailchi.mp/e44f32a7ae14/backyard-show-folkpunklife-picnicks-and-nitpicks)</span></li>
 <li><span>01/05/23 - </span><span>[It Ain't Januarily So](https://mailchi.mp/773b659032af/it-aint-januarily-so)</span></li>
 <li><span>10/26/22 - </span><span>[What's re(a)d all over?](https://mailchi.mp/0aa64bac545a/whats-read-all-over)</span></li>
 <li><span>08/13/22 - </span><span>[A Few Brief Happenings](https://mailchi.mp/691f50a5d220/a-few-brief-happenings)</span></li>
