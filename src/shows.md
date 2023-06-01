@@ -9,18 +9,23 @@ title: Shows
 ## Upcoming shows
 <ul class='showslist'>
 <!--<p class='follow'>Check back here for early spring shows.<br>Be well and take care of each other!</p>-->
-<li><span>**Sun May 28, 2023, 11:40am-12:10pm**</span><span>*Seattle Center, [Mural Ampitheater](https://www.nwfolklife.org/festival/)*</span><span>[Northwest Folklife Festival](https://www.nwfolklife.org/festival/), Big Jewish Showcase</span></li>
-<li><span>**Mon May 29, 2023, 6:00pm-7:00pm**</span><span>*Seattle Center, [Center Theater](https://www.nwfolklife.org/festival/)*</span><span>[Northwest Folklife Festival](https://www.nwfolklife.org/festival/), Jewish Music Forum, as Brief</span></li>
 <li><span>**Sun Jun 4, 2023, 3:30pm**</span><span>*[Seward Park](https://goo.gl/maps/YaTkT1oB2ytDyEcp6), Shelter 4*</span><span>[JCIJ](https://www.facebook.com/JCIJNW/) picnic, [RSVP here](https://actionnetwork.org/events/celebrate-jcijs-new-non-profit-status)</span></li>
 </ul>
 
 
 ## Past shows
 <ul class='showslist'>
+<li><span>**Mon May 29, 2023, 6:00pm-7:00pm**</span><span>*Seattle Center, [Center Theater](https://www.nwfolklife.org/festival/)*</span><span>[Northwest Folklife Festival](https://www.nwfolklife.org/festival/), Jewish Music Forum, as Brief</span></li>
+<li><span>**Sun May 28, 2023, 11:40am-12:10pm**</span><span>*Seattle Center, [Mural Ampitheater](https://www.nwfolklife.org/festival/)*</span><span>[Northwest Folklife Festival](https://www.nwfolklife.org/festival/), Big Jewish Showcase</span></li>
 <li><span>**Fri May 12, 2023, arr 5:30, show 6:30**</span><span>*House show, Cap Hill - message for address*</span><span>[Sister Wife Sex Strike](https://sisterwifesexstrike.bandcamp.com/) Album Release Shabbos Backyard Party, as Brief</span></li>
 <li><span>**Sun Apr 16, 2023**</span><span>*Private Event*</span><span>[Save the Couth Buzzard](https://www.gofundme.com/f/wmruq-save-the-couth-buzzard)</span></li>
 <li><span>**Thu Mar 30, 2023**</span><span>*Private Event*</span><span>The Summit</span></li>
 <li><span>**Mon Jan 9, 2023**</span><span>*[Left Bank Books](http://www.leftbankbooks.com/)*</span><span>Frank Krasnowsky Yahrzeit show, with Kesselgarden, Sunga Rose, Peter Lippman and more. You can also [watch on Zoom](https://us02web.zoom.us/j/86019432461) (meeting ID: 860 1943 2461)</span></li>
+</ul>
+
+<div id='s2022'>
+<h2><i class="fa fa-caret-right fa-lg"></i>2022</h2>
+<ul class='showslist'>
 <li><span>**Sun Nov 6, 2022**</span><span>*[UW Hillel](https://goo.gl/maps/RUy8StpFYz3UMmFu9)*</span><span>Happy Hour music at [Not Your Temple's Sunday School](https://www.jconnectseattle.org/events/not-your-temples-sunday-school/)</span></li>
 <li><span>**Sat Nov 5, 2022**</span><span>*[Left Bank Books](http://www.leftbankbooks.com/)*</span><span>With Sister Pigeon</span></li>
 <li><span>**Sun Oct 30, 2022**</span><span>*[Zoom](https://68398.blackbaudhosting.com/68398/Music-of-the-Red-Scare-A-Virtual-Concert-Featuring-Ryan-Harvey--Brivele)*</span><span>[Music of the Red Scare, with Ryan Harvey](https://jewishmuseummd.org/events/music-of-the-red-scare-a-virtual-concert-featuring-ryan-harvey-brivele/). [WATCH HERE](https://www.youtube.com/watch?v=noIth4N2kEg&themeRefresh=1)</span></li>
@@ -37,6 +42,7 @@ title: Shows
 <li><span>**Wed Mar 16, 2022, 11am-2pm PDT**</span><span>*Zoom, [click here to register](https://bio8i14rrrh.typeform.com/to/hOewO5CT)*</span><span>pink peacock purim party, as Brief</span></li>
 <li><span>**CANCELED: Fri Jan 7, 2022, doors 6:30pm**</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>With [Kesselgarden](https://sites.google.com/site/kesselgardenhomepage/) and [Shpilkis!](https://www.shpilkisseattle.com/)</span></li>
 </ul>
+</div>
 
 <div id='s2021'>
 <h2><i class="fa fa-caret-right fa-lg"></i>2021</h2>
