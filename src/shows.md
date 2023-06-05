@@ -8,13 +8,13 @@ title: Shows
 
 ## Upcoming shows
 <ul class='showslist'>
-<!--<p class='follow'>Check back here for early spring shows.<br>Be well and take care of each other!</p>-->
-<li><span>**Sun Jun 4, 2023, 3:30pm**</span><span>*[Seward Park](https://goo.gl/maps/YaTkT1oB2ytDyEcp6), Shelter 4*</span><span>[JCIJ](https://www.facebook.com/JCIJNW/) picnic, [RSVP here](https://actionnetwork.org/events/celebrate-jcijs-new-non-profit-status)</span></li>
+<p class='follow'>Check back here for summer tour and local fall shows.<br>Be well and take care of each other!</p>
 </ul>
 
 
 ## Past shows
 <ul class='showslist'>
+<li><span>**Sun Jun 4, 2023, 3:30pm**</span><span>*[Seward Park](https://goo.gl/maps/YaTkT1oB2ytDyEcp6), Shelter 4*</span><span>[JCIJ](https://www.facebook.com/JCIJNW/) picnic, [RSVP here](https://actionnetwork.org/events/celebrate-jcijs-new-non-profit-status)</span></li>
 <li><span>**Mon May 29, 2023, 6:00pm-7:00pm**</span><span>*Seattle Center, [Center Theater](https://www.nwfolklife.org/festival/)*</span><span>[Northwest Folklife Festival](https://www.nwfolklife.org/festival/), Jewish Music Forum, as Brief</span></li>
 <li><span>**Sun May 28, 2023, 11:40am-12:10pm**</span><span>*Seattle Center, [Mural Ampitheater](https://www.nwfolklife.org/festival/)*</span><span>[Northwest Folklife Festival](https://www.nwfolklife.org/festival/), Big Jewish Showcase</span></li>
 <li><span>**Fri May 12, 2023, arr 5:30, show 6:30**</span><span>*House show, Cap Hill - message for address*</span><span>[Sister Wife Sex Strike](https://sisterwifesexstrike.bandcamp.com/) Album Release Shabbos Backyard Party, as Brief</span></li>
