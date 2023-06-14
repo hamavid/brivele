@@ -45,8 +45,8 @@ I am so grateful to Brivele for creating this sonic storehouse of treasure. Each
 <span class='reviewer'>&mdash;Jenny Romaine, May 2021</span>
 </p>
 <p class='imgrev'>
-_We had the honor to be interviewed by Aaron Lackoff for his podcast Rebel Beat Radio. [Listen to the episode here.](https://www.iheart.com/podcast/256-the-rebel-beat-30995022/episode/101-brivele-anti-fascist-klezmer-from-62981129/)._<br/><br/>
-<a href='https://www.iheart.com/podcast/256-the-rebel-beat-30995022/episode/101-brivele-anti-fascist-klezmer-from-62981129/'><img src='../images/news/rebelbeat.png' width='500px'></a>
+_We had the honor to be interviewed by Aaron Lakoff for his podcast The Rebel Beat. [Listen to the episode here.](https://rebelbeatradio.com/2020/05/27/episode-101-brivele-anti-fascist-klezmer-from-then-til-now/)._<br/><br/>
+<a href='https://rebelbeatradio.com/2020/05/27/episode-101-brivele-anti-fascist-klezmer-from-then-til-now/'><img src='../images/news/rebelbeat.png' width='500px'></a>
 </p>
 <p id='geoff1'>To me, this is what klezmer, or folk music, or ok, all music should be. It's aware and serious about the tradition in which it's working. But it understands that music is above all for making people feel something, dammit. There's beauty in the sadness, and there's good laughs in the funny bits. It's reassuring and inspiring to hear a song like Vi Azoy Shloft Der Keyser and realize how witty and subversive these old time people were. The Yiddish in the Yiddish songs is pronounced and sung beautifully, too. <span style='font-style:italic'>A Little Letter</span> is the kind of record I aspire to make.<br/><br/>I also want to say how much I enjoyed the invented parts of the album, like the commentary on Amazon and the housing crisis in the Hungry Yid song. Brivele don't just ride the tradition or recreate it, they do their part to add clever relevance, to keep the tradition truly living and growing.<br/><br/>
 <span class='reviewer'>&mdash;Geoff Berner, Vancouver klezmer punk gives-no-fucks accordion player &amp; novelist, May 2018</span>
