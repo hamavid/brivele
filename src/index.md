@@ -5,9 +5,10 @@ outdirs: '.'
 <!--<div><p class='follow' style='font-size:1.3em;'>Listen to our new EP, <i><a href='https://brivele.bandcamp.com/album/what-joy-is-yours'>What Joy is Yours</a></i> today.</p></div>-->
 <div id='blurb' class='clearfix'>
 <figure><img id='' src='../images/bandpix/lowfi/sketch3 small.png' width='350px'><figcaption>Photo by Caitlin Palo</figcaption></figure>
-<p>Brivele is a Seattle-based anti-fascist klezmer folk-punk trio who braid together oral history, Yiddish language, contemporary and old-country musical genres, American Vaudeville, and visual arts.</p>
-<p>Brivele is pronounced "BREE-veh-leh" (בריוועלע) and means "Little Letter" in Yiddish.</p>
-<p>We sometimes play as a duo, called Brief.</p>
+<p style='font-size:1.1em;'>**Brivele is a Seattle-based trio who braid together Yiddish song, anti-fascist and labor balladry, folk-punk, and contemporary rabble-rousing in three part harmony.**</p>
+<p>In Yiddish, Brivele (בריוועלע) means "little letter." Like letters, songs travel — through time and over borders. They pick up dirt, aromas, fingerprints. They are sent to lovers, they foment revolution, they get stolen and censored, burned and salvaged, sewn into our clothes.</p>
+<p>We journey into the archives of Yiddish anti-fascist musical tradition, bringing together anti-authoritarian satire, mournful remembrances, and the disguised political commentary in folk ditties and theater classics. These songs are a correspondence: our ancestors' voices speak clearly and uncompromisingly, sometimes sweetly, to our present moment.</p>
+<p>We are discontented, sometimes silly, rarely slick, always cheeky. We draw from a long tradition of Diaspora-proud struggle. We sing in Yiddish because sometimes Yiddish says it best, and because we are the great-grandchildren of Yiddish, so it tastes familiar and unfamiliar at once.  We sing it like the mixed-up, impure Yids we are and strive to be.</p>
 </div>
 
 <!-- Begin Mailchimp Signup Form -->
@@ -43,15 +44,15 @@ outdirs: '.'
 I remember exactly where I was when I first heard “Hunting Season” off of Brivele’s latest harmonically complex, wildly imaginative, future-building album, <em>Cradle Songs, Grave Songs.</em> Taking poet Aurora Levins Morales’s task of “imagine winning” to heart, this latest collection from Brivele sings the past out of the archive and into the streets to fight, to struggle, to laugh, to mourn . . . [(Read More)](./news#zeydi)<br/><br/>
 <span class='reviewer'>&mdash;Ozzy Irving Gold-Shapiro, Yiddish raconteur, archival tinkerer, and 1/6 of <a href='https://www.burikes.com/'>Burikes</a></span>
 </p>
-<p>. . . these people are intent on creating a body of work that will stand as an important part of the story of the long line of Jews, going back to the Bund and beyond, who made and make anti-capitalist, anti-patriarchy, anti-white supremacy, anti-Zionist, anti-boring new culture, culture that brings people together and warms them, to make them feel less alone when things are tough . . . [(Read More)](./news#geoff2)<br/><br/>
+<!--<p>. . . these people are intent on creating a body of work that will stand as an important part of the story of the long line of Jews, going back to the Bund and beyond, who made and make anti-capitalist, anti-patriarchy, anti-white supremacy, anti-Zionist, anti-boring new culture, culture that brings people together and warms them, to make them feel less alone when things are tough . . . [(Read More)](./news#geoff2)<br/><br/>
 <span class='reviewer'>&mdash;Geoff Berner, singer/songwriter/novelist</span>
-</p>
+</p>-->
 <p>
 . . . Brivele's gift as a band is their ability to go between the dark and the light, the serious and the witty, all with a deep sense of tradition, and abandon of tradition.  In that way, they are the quintessential Klezmer Band (even if they would never describe themselves as such) . . . [(Read More)](./news#winograd)<br/><br/> 
 <span class='reviewer'>&mdash;Michael Winograd, Brooklyn, 4/29/21</span>
 </p>
-<p>
+<!--<p>
 I am so grateful to Brivele for creating this sonic storehouse of treasure . . . [(Read More)](./news#jenny)<br/><br/>
 <span class='reviewer'>&mdash;Jenny Romaine</span>
-</p>
+</p>-->
 </div>

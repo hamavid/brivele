@@ -4,7 +4,7 @@ outdirs: '..'
 title: Shows
 ---
 <p class='follow'>Follow us on <a href='https://www.facebook.com/brivele/'>Facebook</a> or <a href='https://www.instagram.com/brivelemusic/'>Instagram</a><br>Or sign up for our <a href='../#mc_anchor'>mailing list</a> to hear (occasionally) about shows and news!</p>
-<p class='follow'>Past shows that were streamed online and recorded can be watched via links below, or enjoyed via YouTube playlists: We have a collection of <a href='https://www.youtube.com/playlist?list=PLlvwhydanVuwD5s_U6Foj_7iVgFIKlRV3'>virtual events</a> we've been part of, as well as our <a href='https://www.youtube.com/playlist?list=PLlvwhydanVuyomfozpxCBh15x4qLSHX9J'>Phase II Sessions</a> for more music-video-style pandemic performances.</p><br/>
+<!--<p class='follow'>Past shows that were streamed online and recorded can be watched via links below, or enjoyed via YouTube playlists: We have a collection of <a href='https://www.youtube.com/playlist?list=PLlvwhydanVuwD5s_U6Foj_7iVgFIKlRV3'>virtual events</a> we've been part of, as well as our <a href='https://www.youtube.com/playlist?list=PLlvwhydanVuyomfozpxCBh15x4qLSHX9J'>Phase II Sessions</a> for more music-video-style pandemic performances.</p><br/>-->
 
 ## Upcoming shows
 <ul class='showslist'>
@@ -35,12 +35,12 @@ title: Shows
 <li><span>**Sat Jul 2, 2022, 5pm**</span><span>*Backyard show, Meadowbrook - message for address*</span><span>[Summer just 'cause show](https://www.facebook.com/events/571703544529767). [WATCH HERE](https://www.youtube.com/watch?v=qENj2Xw_BRk&list=PLlvwhydanVuyj1cYC0KW62UUBMBatEeaX)</span></li>
 <li><span>**Sun May 29, 2022, 3:40-4:10pm**</span><span>*Seattle Center, [Fisher Green Stage](https://www.nwfolklife.org/festival/)*</span><span>[Northwest Folklife Festival](https://www.nwfolklife.org/festival/), [LISTEN HERE](https://on.soundcloud.com/tSqDw)</span></li>
 <li><span>**Sun May 15, 2022, 3:00-5:30pm**</span><span>*[Town Hall Seattle](https://townhallseattle.org/)*</span><span>As Brief: [Soundside with KUOW](https://www.eventbrite.com/e/kuow-celebrates-70-tickets-309198490007). [LISTEN HERE](https://www.kuow.org/stories/soundside-goes-live-modern-creators)</span></li>
-<li><span>**Fri May 13, 2022, doors 6:30pm**</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>With [Kesselgarden](https://sites.google.com/site/kesselgardenhomepage/) and [Shpilkis!](https://www.shpilkisseattle.com/) [LISTEN HERE](https://soundcloud.com/brivele/the-royal-room-live-2022-05-13)</span></li>
+<li><span>**Fri May 13, 2022, doors 6:30pm**</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>With [Kesselgarden](https://sites.google.com/site/kesselgardenhomepage/) and [Shpilkis](https://www.shpilkisseattle.com/) [LISTEN HERE](https://soundcloud.com/brivele/the-royal-room-live-2022-05-13)</span></li>
 <li><span>**Thu May 12, 2022, 9:24am-9:35am PDT**</span><span>*Zoom*</span><span>[Tsvelf far Ukraine](https://klezmerinstitute.org/tsvelf/)</span></li>
 <li><span>**Sat Apr 2, 2022, 1pm PDT**</span><span>*Zoom pre-record, [click here for tickets](https://www.tickettailor.com/events/qyccab/670989)*</span><span>[Queer Yiddish Camp Cabaret Fundraiser](https://www.facebook.com/events/1113127269524200), with many friends. [WATCH HERE](https://youtu.be/hBMQgHr27po)</span></li>
 <li><span>**Sat Apr 2, 2022, 7pm PDT**</span><span>*Youtube*</span><span>Ukraine benefit show with [Kesselgarden](https://sites.google.com/site/kesselgardenhomepage/) and [The Klein Party of 3](https://www.thekleinparty.com/). [WATCH HERE](https://www.youtube.com/watch?v=HpP_YvWuNuw)</span></li>
 <li><span>**Wed Mar 16, 2022, 11am-2pm PDT**</span><span>*Zoom, [click here to register](https://bio8i14rrrh.typeform.com/to/hOewO5CT)*</span><span>pink peacock purim party, as Brief</span></li>
-<li><span>**CANCELED: Fri Jan 7, 2022, doors 6:30pm**</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>With [Kesselgarden](https://sites.google.com/site/kesselgardenhomepage/) and [Shpilkis!](https://www.shpilkisseattle.com/)</span></li>
+<li><span>**CANCELED: Fri Jan 7, 2022, doors 6:30pm**</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>With [Kesselgarden](https://sites.google.com/site/kesselgardenhomepage/) and [Shpilkis](https://www.shpilkisseattle.com/)</span></li>
 </ul>
 </div>
 
@@ -52,7 +52,7 @@ title: Shows
 <li><span>**Sat Nov 27, 2021, 5pm PT**</span><span>*Zoom, [click here to register](https://www.tickettailor.com/events/radyiddish/609974)*</span><span>Yid Lit Mit... salon</span></li>
 <li><span>**Wed Oct 20, 2021, 5pm PT**</span><span>*Online, [click here to register](https://give.forward.com/event/the-forward-presents-have-i-got-a-story-for-you/e345939)*</span><span>At [The Forward](https://forward.com/)'s annual gala, *Have I Got A Story For You.* [WATCH HERE](https://www.youtube.com/watch?v=Y9MO_senj1s)</span></li>
 <li><span>**Sat Oct 2, 2021, 1:15pm PT**</span><span>*[Roosevelt light rail station, NE corner](https://goo.gl/maps/qzsa6MNRLYs33cmP7)*</span><span>New light rail opening celebration</span></li>
-<li><span>**Sat Aug 28, 2021**</span><span>*5500 block of 8th Ave NE*</span><span>[Block Party Show](https://drive.google.com/file/d/1YjJSKHSZm04tf6rfk3LnjV_yRdc073rj/view), with [Shpilkis!](https://www.shpilkisseattle.com/) and more</span></li>
+<li><span>**Sat Aug 28, 2021**</span><span>*5500 block of 8th Ave NE*</span><span>[Block Party Show](https://drive.google.com/file/d/1YjJSKHSZm04tf6rfk3LnjV_yRdc073rj/view), with [Shpilkis](https://www.shpilkisseattle.com/) and more</span></li>
 <li><span>**Sat Jul 24, 2021**</span><span>*Backyard show, Ravenna - message for address*</span><span>[Tu b'av Show](https://www.facebook.com/events/261830042373553/), with [Dottie's Serenade Service](https://www.facebook.com/dottiesserenadeservice)</span></li>
 <li><span>**Sat May 29, 2021, 11:00am PT or later**</span><span>*[NW Folklife On Demand channel](https://www.nwfolklife.org/festival/ondemand/)*</span><span>[Big Jewish Show](https://www.nwfolklife.org/festival/music/brivele.html). [WATCH HERE](https://vimeo.com/549017200?embedded=true&source=video_title&owner=114221642)</span></li>
 <li><span>**Sat May 22, 2021, 7:30-9:30pm PT**</span><span>*[Zoom](https://secure.lglforms.com/form_engine/s/RRPSyAshbHyX6EtjsU5RsA)*</span><span>[Heart &amp; Chutzpah Kadima fundraiser](https://www.facebook.com/events/295536218609265)</span></li>

@@ -3,114 +3,15 @@ layout: page.html
 outdirs: '..'
 title: Music
 ---
-<h1>MUSIC</h1>
-<div class='sounds'>
-<p class='follow'><span style='font-size:1.4em;'>Streaming, downloads, CDs, and merch available on <a href='https://brivele.bandcamp.com/merch'>Bandcamp</a></span><br><br>Listen to our new EP, <i><a href='https://brivele.bandcamp.com/album/what-joy-is-yours'>What Joy is Yours</a></i></p>
-<div class='bandcampembed'>
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3348275412/size=large/bgcol=ffffff/linkcol=da810f/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://brivele.bandcamp.com/album/what-joy-is-yours">What Joy is Yours by Brivele</a></iframe>
-</div>
-
-<!--<p class='follow'><span>Listen to our EP, <i><a href='http://brivele.bandcamp.com/album/a-little-letter'>A Little Letter</a></i></span></p>
-
-<div class='bandcampembed'>
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=776969049/size=large/bgcol=ffffff/linkcol=da810f/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://brivele.bandcamp.com/album/a-little-letter">A Little Letter by Brivele</a></iframe>
-</div>-->
-
-<div class='soundcloudembed'>
-
-<div class='playlist'><span class='caption'>Live at the Northwest Folk Life Festival 2022.</span>
-<iframe width="100%" height="120" scrolling="yes" frameborder="yes" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1529695363&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=true&amp;show_teaser=true&amp;visual=true"></iframe></div>
-
-<div class='playlist'><span class='caption'>Live at the Royal Room 2022-05-13</span>
-<iframe width="100%" height="120" scrolling="yes" frameborder="yes" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1270748716&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=true&amp;show_teaser=true&amp;visual=true"></iframe></div>
-
-<div class='playlist'><span class='caption'>Live at the Northwest Folk Life Festival 2019.</span>
-<iframe width="100%" height="120" scrolling="yes" frameborder="yes" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/631097751&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=true&amp;show_teaser=true&amp;visual=true"></iframe></div>
-
-<!--<div class='playlist'><span class='caption'>Live at the Northwest Folk Life Festival 2018.</span>
-<iframe width="100%" height="120" scrolling="yes" frameborder="yes" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/451542264&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=true&amp;show_teaser=true&amp;visual=true"></iframe></div>
-
-<div class='playlist'><span class='caption'>Live at Muhabbet, 2017.</span>
-<iframe width="100%" height="120" scrolling="yes" frameborder="yes" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/360580616&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=true&amp;show_teaser=true&amp;visual=true"></iframe></div>-->
-
-</div>
-</div>
-
-<h1>VIDEO</h1>
-<p class='follow'><span style='font-size:1.5em;'>Watch more on our <a href='https://www.youtube.com/channel/UCmr6wOxFd3DQY7nJqINhQqw'>YouTube</a> channel</span></p>
-
-<div class='videoembed'>
-<div class='video'>
-<span class='caption'>Zumertsayt, July  2020.</span>
-<iframe height="315" src="https://www.youtube-nocookie.com/embed/vPQsGNjtdo4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-<!--
-<div class='video'>
-<span class='caption'>Hunting Season - Phase 2 Sessions, July  2020.</span>
-<iframe height="315" src="https://www.youtube-nocookie.com/embed/Zc2wqXhd2yY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
--->
-
-<div class='video'>
-<span class='caption'>Live at the Tractor Tavern, November 2018.</span>
-<iframe height="315" src="https://www.youtube-nocookie.com/embed/MZ0pWwseqjo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-<!--<div class='video'>
-<span class='caption'>Live at our Album release show in June 2018.</span>
-<iframe height="315" src="https://www.youtube-nocookie.com/embed/bA0Y0ecoepg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>-->
-
-<div class='video'>
-<span class='caption'>Miscellaneous shows.</span>
-<video id='videoelement' controls width='315'>
-<source src='../images/video/19-02-23.mp4' type='video/mp4'>Your browser does not support the video tag.
-</video>
-<div class='arrowseparator'></div>
-<span class='vidlarr'><i class="fa fa-angle-left fa-2x"></i></span>
-<span class='vidrarr'><i class="fa fa-angle-right fa-2x"></i></span>
-<div class='vidattrib'></div>
-</div>
-
-</div>
-
-
-<h1>PHOTOS</h1>
-<div class='sightspocket'>
-<div class='sights'>
-<div><span class='caption'>From the Shtetl to the Streets Zoom show, Aug '20. <span class='total'>(11 images)</span></span><img src='../images/shows/shtetl-to-streets-20/thumb.jpg'></div>
-
-<div><span class='caption'>Kugel Caf&eacute; backyard show, Jul '19. <span class='total'>(5 images)</span></span><img src='../images/shows/kugel-cafe19/thumb.jpg'></div>
-
-<!--<div><span class='caption'>Khanike show at Cafe Paloma with Malke &amp; the Boychiks, Dec '18. <span class='total'>(3 images)</span></span><img src='../images/shows/paloma-khanike18/thumb.jpg'></div>-->
-
-<div><span class='caption'>Klezmer at The Riot Part II, Montreal, Aug '18. Feat. Zafer and the Dans and Eleonore and Zoe!<span class='total'>(7 images)</span></span><img src='../images/shows/theriot-montreal18/thumb.jpg'></div>
-
-<div><span class='caption'>Album release show at Cafe Paloma, Jun '18. Drawing by Jane Covert-Bowlds. <span class='total'>(4 images)</span></span><img src='../images/shows/paloma-release18/thumb.jpg'></div>
-
-<div><span class='caption'>CD assembly party. <span class='total'>(6 images)</span></span><img src='../images/shows/cdassembly/thumb.jpg'></div>
-
-<div><span class='caption'>The 2018 Northwest Folklife Festival. Photos by Stan Mandell. <span class='total'>(3 images)</span></span><img src='../images/shows/folklife18/thumb.jpg'></div>
-
-<div><span class='caption'>The 6th Annual Bubbe's Old-Fashioned Hanukkah Shindig, Dec '17. <span class='total'>(11 images)</span></span><img src='../images/shows/bubbes17/thumb.jpg'></div>
-
-<div><span class='caption'>Miscellaneous shows. <span class='total'>(9 images)</span></span><img src='../images/shows/misc/thumb.jpg'></div>
-
-<div><span class='caption'><b>For Promo (hi-def).</b> <span class='total'>(4 images)</span></span><img src='../images/bandpix/lowfi/thumb.JPG'></div>
-</div>
-</div>
-
-<!--////////////////////////////////////////////////////////////-->
-<div id='photo-overlay'><span class='showid'>[Show caption]<!--<i class='fa fa-angle-double-up fa-lg'></i>--></span>
-<div class='showidcontainer'><div class='theidoftheshow'></div></div>
-<div class='thisphoto'>
-<span class='xit'>&times;</span>
-<span class='larr'><i class="fa fa-angle-left fa-2x"></i></span><span class='rarr'><i class="fa fa-angle-right fa-2x"></i></span>
-<figure><img src=''></figure>
-<div id='getfullres'><span><a href='' target='_blank'><i class="fa fa-download" aria-hidden="true"></i> Get full-res image</a></span></div>
-<div id="leftside"></div>
-<div id="rightside"></div>
-</div>
-<div class='attribution-container'><span class='attribution'></span></div>
-</div>
-
+<p class='follow'>The best and only place to get our studio recordings online is on <a href='https://brivele.bandcamp.com/merch'>Bandcamp</a></p>
+<figure><a href='https://brivele.bandcamp.com/music'><img src='../images/musicpage/bandcampthumbnails.png'></a></figure>
+<p>You can also buy a physical CD at a show with cash (or contact us and we'll mail you one).</p><p>We do *not* have our recordings up on Spotify, iTunes, Amazon, or anywhere else. From Bandcamp you can stream, download mp3s to your local hard drive, or order a physical CD to play in your car, stereo, or discman that you still have from 1997. Most of the money from your purchases will go directly to us. No one will know the number of times you do or don't listen to each song. Your access will not depend on the whims of an unaccountable corporation. Although as life is still ephemeral, you may wake up to find the CD melted in the car.</p>
+<br/>
+<p class='follow'>We do also have some live recordings on <a href='https://www.youtube.com/channel/UCmr6wOxFd3DQY7nJqINhQqw'>YouTube</a></p>
+<figure><a href='https://www.youtube.com/channel/UCmr6wOxFd3DQY7nJqINhQqw'><img src='../images/musicpage/youtube2.png'></a></figure><br/>
+<p class='follow'>And on <a href='https://soundcloud.com/brivele'>Soundcloud</a></p>
+<figure><a href='https://soundcloud.com/brivele'><img src='../images/musicpage/soundcloudthumbnail.png'></a></figure><br/>
+<p class='follow'>And sometimes on our slightly neglected <a href='https://www.instagram.com/brivelemusic/'>Instagram</a></p>
+<figure><a href='https://www.instagram.com/brivelemusic/'><img src='../images/musicpage/instagram.png'></a></figure><br/>
+<p class='follow'>Or our even more neglected <a href='https://www.facebook.com/brivele'>Facebook</a> page</p>
+<figure><a href='https://www.facebook.com/brivele'><img src='../images/musicpage/facebook.png'></a></figure><br/>
