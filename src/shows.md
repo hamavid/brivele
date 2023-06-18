@@ -8,16 +8,20 @@ title: Shows
 
 ## Upcoming shows
 <ul class='showslist'>
-<p class='follow'>Check back here for summer tour and local fall shows.<br>Be well and take care of each other!</p>
+<!--<p class='follow'>Check back here for summer tour and local fall shows.<br>Be well and take care of each other!</p>-->
+<li><span>**Tue Aug 15, 2023**</span><span>*BROOKLYN, NY: [Jalopy Theater](http://jalopytheatre.org/)*</span><span>With [Levoneh](https://levoneh.bandcamp.com/music), as a duo</span></li>
+<li><span>**Wed Aug 16, 2023**</span><span>*PHILADELPHIA, PA: Backyard show, [928 S 49th St](https://goo.gl/maps/fMAe1RF1gLKThwRz7)*</span><span>With [Levoneh](https://levoneh.bandcamp.com/music), as a duo</span></li>
+<li><span>**Fri Aug 18, 2023**</span><span>*SOMERVILLE, MA: [The Caf&eacute; at The Armory](https://artsatthearmory.org/cafe/)*</span><span>With [Levyosn](https://borschtbeat.bandcamp.com/album/levyosns-lullaby) and [Levoneh](https://levoneh.bandcamp.com/music)</span></li>
+<li><span>**Tue Aug 22, 2023**</span><span>*MONTREAL, QC: [5074 Rue de Mentana](https://goo.gl/maps/EefkASQdr4Q2) (aka The Riot)*</span><span>Klezmer at The Riot 5.0, with [Levyosn](https://borschtbeat.bandcamp.com/album/levyosns-lullaby) and [Levoneh](https://levoneh.bandcamp.com/music), as a duo</span></li>
 </ul>
 
 
 ## Past shows
 <ul class='showslist'>
 <li><span>**Sun Jun 4, 2023, 3:30pm**</span><span>*[Seward Park](https://goo.gl/maps/YaTkT1oB2ytDyEcp6), Shelter 4*</span><span>[JCIJ](https://www.facebook.com/JCIJNW/) picnic, [RSVP here](https://actionnetwork.org/events/celebrate-jcijs-new-non-profit-status)</span></li>
-<li><span>**Mon May 29, 2023, 6:00pm-7:00pm**</span><span>*Seattle Center, [Center Theater](https://www.nwfolklife.org/festival/)*</span><span>[Northwest Folklife Festival](https://www.nwfolklife.org/festival/), Jewish Music Forum, as Brief</span></li>
+<li><span>**Mon May 29, 2023, 6:00pm-7:00pm**</span><span>*Seattle Center, [Center Theater](https://www.nwfolklife.org/festival/)*</span><span>[Northwest Folklife Festival](https://www.nwfolklife.org/festival/), Jewish Music Forum, as a duo</span></li>
 <li><span>**Sun May 28, 2023, 11:40am-12:10pm**</span><span>*Seattle Center, [Mural Ampitheater](https://www.nwfolklife.org/festival/)*</span><span>[Northwest Folklife Festival](https://www.nwfolklife.org/festival/), Big Jewish Showcase</span></li>
-<li><span>**Fri May 12, 2023, arr 5:30, show 6:30**</span><span>*House show, Cap Hill - message for address*</span><span>[Sister Wife Sex Strike](https://sisterwifesexstrike.bandcamp.com/) Album Release Shabbos Backyard Party, as Brief</span></li>
+<li><span>**Fri May 12, 2023, arr 5:30, show 6:30**</span><span>*House show, Cap Hill - message for address*</span><span>[Sister Wife Sex Strike](https://sisterwifesexstrike.bandcamp.com/) Album Release Shabbos Backyard Party, as a duo</span></li>
 <li><span>**Sun Apr 16, 2023**</span><span>*Private Event*</span><span>[Save the Couth Buzzard](https://www.gofundme.com/f/wmruq-save-the-couth-buzzard)</span></li>
 <li><span>**Thu Mar 30, 2023**</span><span>*Private Event*</span><span>The Summit</span></li>
 <li><span>**Mon Jan 9, 2023**</span><span>*[Left Bank Books](http://www.leftbankbooks.com/)*</span><span>Frank Krasnowsky Yahrzeit show, with Kesselgarden, Sunga Rose, Peter Lippman and more. You can also [watch on Zoom](https://us02web.zoom.us/j/86019432461) (meeting ID: 860 1943 2461)</span></li>
@@ -29,9 +33,9 @@ title: Shows
 <li><span>**Sun Nov 6, 2022**</span><span>*[UW Hillel](https://goo.gl/maps/RUy8StpFYz3UMmFu9)*</span><span>Happy Hour music at [Not Your Temple's Sunday School](https://www.jconnectseattle.org/events/not-your-temples-sunday-school/)</span></li>
 <li><span>**Sat Nov 5, 2022**</span><span>*[Left Bank Books](http://www.leftbankbooks.com/)*</span><span>With Sister Pigeon</span></li>
 <li><span>**Sun Oct 30, 2022**</span><span>*[Zoom](https://68398.blackbaudhosting.com/68398/Music-of-the-Red-Scare-A-Virtual-Concert-Featuring-Ryan-Harvey--Brivele)*</span><span>[Music of the Red Scare, with Ryan Harvey](https://jewishmuseummd.org/events/music-of-the-red-scare-a-virtual-concert-featuring-ryan-harvey-brivele/). [WATCH HERE](https://www.youtube.com/watch?v=noIth4N2kEg&themeRefresh=1)</span></li>
-<li><span>**Sep 2-4, 2022**</span><span>*BELLINGHAM, WA: [Lookout Arts Quarry](https://goo.gl/maps/YSWcTyWcTYBZ7wxx9)*</span><span>[Sh'bang! fest](https://www.tickettailor.com/events/lookoutarts/732254/), as Brief</span></li>
-<li><span>**Sun Aug 28, 2022**</span><span>*MONTREAL, QC: [5074 Rue de Mentana](https://goo.gl/maps/EefkASQdr4Q2) (aka The Riot)*</span><span>Klezmer at The Riot 4.0, with [Mamaliga](https://www.mamaligaband.com/) and others, as Brief</span></li>
-<li><span>**Sat Aug 13, 2022, 8pm**</span><span>*[Left Bank Books](http://www.leftbankbooks.com/)*</span><span>With Uncanny Dandelions and Sister Wife Sex Strike, as Brief</span></li>
+<li><span>**Sep 2-4, 2022**</span><span>*BELLINGHAM, WA: [Lookout Arts Quarry](https://goo.gl/maps/YSWcTyWcTYBZ7wxx9)*</span><span>[Sh'bang! fest](https://www.tickettailor.com/events/lookoutarts/732254/), as a duo</span></li>
+<li><span>**Sun Aug 28, 2022**</span><span>*MONTREAL, QC: [5074 Rue de Mentana](https://goo.gl/maps/EefkASQdr4Q2) (aka The Riot)*</span><span>Klezmer at The Riot 4.0, with [Mamaliga](https://www.mamaligaband.com/) and others, as a duo</span></li>
+<li><span>**Sat Aug 13, 2022, 8pm**</span><span>*[Left Bank Books](http://www.leftbankbooks.com/)*</span><span>With Uncanny Dandelions and Sister Wife Sex Strike, as a duo</span></li>
 <li><span>**Sat Jul 2, 2022, 5pm**</span><span>*Backyard show, Meadowbrook - message for address*</span><span>[Summer just 'cause show](https://www.facebook.com/events/571703544529767). [WATCH HERE](https://www.youtube.com/watch?v=qENj2Xw_BRk&list=PLlvwhydanVuyj1cYC0KW62UUBMBatEeaX)</span></li>
 <li><span>**Sun May 29, 2022, 3:40-4:10pm**</span><span>*Seattle Center, [Fisher Green Stage](https://www.nwfolklife.org/festival/)*</span><span>[Northwest Folklife Festival](https://www.nwfolklife.org/festival/), [LISTEN HERE](https://on.soundcloud.com/tSqDw)</span></li>
 <li><span>**Sun May 15, 2022, 3:00-5:30pm**</span><span>*[Town Hall Seattle](https://townhallseattle.org/)*</span><span>As Brief: [Soundside with KUOW](https://www.eventbrite.com/e/kuow-celebrates-70-tickets-309198490007). [LISTEN HERE](https://www.kuow.org/stories/soundside-goes-live-modern-creators)</span></li>
@@ -39,7 +43,7 @@ title: Shows
 <li><span>**Thu May 12, 2022, 9:24am-9:35am PDT**</span><span>*Zoom*</span><span>[Tsvelf far Ukraine](https://klezmerinstitute.org/tsvelf/)</span></li>
 <li><span>**Sat Apr 2, 2022, 1pm PDT**</span><span>*Zoom pre-record, [click here for tickets](https://www.tickettailor.com/events/qyccab/670989)*</span><span>[Queer Yiddish Camp Cabaret Fundraiser](https://www.facebook.com/events/1113127269524200), with many friends. [WATCH HERE](https://youtu.be/hBMQgHr27po)</span></li>
 <li><span>**Sat Apr 2, 2022, 7pm PDT**</span><span>*Youtube*</span><span>Ukraine benefit show with [Kesselgarden](https://sites.google.com/site/kesselgardenhomepage/) and [The Klein Party of 3](https://www.thekleinparty.com/). [WATCH HERE](https://www.youtube.com/watch?v=HpP_YvWuNuw)</span></li>
-<li><span>**Wed Mar 16, 2022, 11am-2pm PDT**</span><span>*Zoom, [click here to register](https://bio8i14rrrh.typeform.com/to/hOewO5CT)*</span><span>pink peacock purim party, as Brief</span></li>
+<li><span>**Wed Mar 16, 2022, 11am-2pm PDT**</span><span>*Zoom, [click here to register](https://bio8i14rrrh.typeform.com/to/hOewO5CT)*</span><span>pink peacock purim party, as a duo</span></li>
 <li><span>**CANCELED: Fri Jan 7, 2022, doors 6:30pm**</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>With [Kesselgarden](https://sites.google.com/site/kesselgardenhomepage/) and [Shpilkis](https://www.shpilkisseattle.com/)</span></li>
 </ul>
 </div>
@@ -47,8 +51,8 @@ title: Shows
 <div id='s2021'>
 <h2><i class="fa fa-caret-right fa-lg"></i>2021</h2>
 <ul class='showslist'>
-<li><span>**Sun Dec 19, 2021, 5pm**</span><span>*[Pipsqueak](https://www.instagram.com/pipsqueak.seattle/)*</span><span>With [Lavender Country](https://lavendercountry.bandcamp.com/album/lavender-country) and [pigeon pit](https://pigeonpit.bandcamp.com/), as Brief</span></li>
-<li><span>**Fri Dec 3, 2021, 6pm**</span><span>*OLYMPIA, WA: [Pressing On Fitness](https://goo.gl/maps/vo8yFqk7JxRhSrqX9)*</span><span>Fundraiser for [Yeshiva Beis HaGolus](https://yeshivabeishagolus.substack.com/about) and [JCARF](https://www.jcarf.org/), as Brief</span></li>
+<li><span>**Sun Dec 19, 2021, 5pm**</span><span>*[Pipsqueak](https://www.instagram.com/pipsqueak.seattle/)*</span><span>With [Lavender Country](https://lavendercountry.bandcamp.com/album/lavender-country) and [pigeon pit](https://pigeonpit.bandcamp.com/), as a duo</span></li>
+<li><span>**Fri Dec 3, 2021, 6pm**</span><span>*OLYMPIA, WA: [Pressing On Fitness](https://goo.gl/maps/vo8yFqk7JxRhSrqX9)*</span><span>Fundraiser for [Yeshiva Beis HaGolus](https://yeshivabeishagolus.substack.com/about) and [JCARF](https://www.jcarf.org/), as a duo</span></li>
 <li><span>**Sat Nov 27, 2021, 5pm PT**</span><span>*Zoom, [click here to register](https://www.tickettailor.com/events/radyiddish/609974)*</span><span>Yid Lit Mit... salon</span></li>
 <li><span>**Wed Oct 20, 2021, 5pm PT**</span><span>*Online, [click here to register](https://give.forward.com/event/the-forward-presents-have-i-got-a-story-for-you/e345939)*</span><span>At [The Forward](https://forward.com/)'s annual gala, *Have I Got A Story For You.* [WATCH HERE](https://www.youtube.com/watch?v=Y9MO_senj1s)</span></li>
 <li><span>**Sat Oct 2, 2021, 1:15pm PT**</span><span>*[Roosevelt light rail station, NE corner](https://goo.gl/maps/qzsa6MNRLYs33cmP7)*</span><span>New light rail opening celebration</span></li>
@@ -95,7 +99,7 @@ title: Shows
 <li><span>**Sat Jul 13, 2019**</span><span>*OLYMPIA, WA: [Olympia Timberland Library](https://www.trl.org/locations/olympia)*</span><span>[Free show](https://www.facebook.com/events/291068885005334) post all-day all-ages zine workshop, with [The Beauty](https://thebeautyolympia.bandcamp.com/)</span></li>
 <li><span>**Fri Jul 12, 2019**</span><span>*PORT TOWNSEND, WA: [Phosphene](https://www.we-are-phosphene.com/)*</span><span>[Show](https://www.facebook.com/events/469965113818918/) with [The Beauty](https://thebeautyolympia.bandcamp.com/) and [Rowan Katz](https://rowankatz.bandcamp.com/)</span></li>
 <li><span>**Thu Jul 11, 2019**</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>[Fundraiser show](https://www.facebook.com/events/435827223924401/) for Seattle/King County Coalition on Homelessness ([SKCCH](http://homelessinfo.org/))</span></li>
-<li><span>**Sat Jul 6, 2019**</span><span>*[Salsa N' Seattle Dance Studio](https://www.salsanseattle.com)*</span><span>Playing as Brief at [HomeWord :: Queering Diaspora through Talmud](https://www.facebook.com/events/442261356588698/)</span></li>
+<li><span>**Sat Jul 6, 2019**</span><span>*[Salsa N' Seattle Dance Studio](https://www.salsanseattle.com)*</span><span>Playing as a duo at [HomeWord :: Queering Diaspora through Talmud](https://www.facebook.com/events/442261356588698/)</span></li>
 <li><span>**Sat Jun 1, 2019**</span><span>*Private Event*</span><span>Judith's 90th birthday party</span></li>
 <li><span>**Mon May 27, 2019, 6:10-6:40pm**</span><span>*Seattle Center, [Folklife Underground Caf&eacute;](https://www.nwfolklife.org/experience/festival-map-2019/)*</span><span>[Showcase](https://www.facebook.com/events/2236768783078145/) with [Bellows and Squawk](https://www.bellowsandsquawk.com/) at the [Northwest Folklife Festival](https://www.nwfolklife.org/festival/)</span></li>
 <li><span>**Sat May 11, 2019**</span><span>*[Phinney Center Concert Hall](https://goo.gl/maps/MmJsmxuyaAM2), Brick Building*</span><span>Seattle Folklore Society Concert: [An evening of Klezmer Music and Song](http://www.seafolklore.org/wp/events/kesselgarden-and-brivele-an-evening-of-klezmer-music-and-song/), with [Kesselgarden](https://sites.google.com/site/kesselgardenhomepage)</span></li>
@@ -130,9 +134,9 @@ title: Shows
 <li><span>**Sun May 27, 2018**</span><span>*[Clock-out Lounge](https://www.clockoutlounge.com/)*</span><span>[The Hot Klez Night](https://www.facebook.com/events/247335049164671/) with [The Moody Jews of Boise](https://www.facebook.com/MoodyJewsBoise/) and [The Debaucherauntes](https://www.facebook.com/thedebaucherauntes/)</span></li>
 <li><span>**Sat May 19, 2018**</span><span>*[Kadima](http://www.kadima.org/)*</span><span>Shavuot - Havdallah</span></li>
 <li><span>**Tue May 1, 2018**</span><span>*House show, Central District - message for address*</span><span>With Sonya &amp; Brian and [Countercurrent](http://www.countercurrentmusic.com/)</span></li>
-<li><span>**Sat Mar 3, 2018**</span><span>*[Nii Modo Gallery](https://www.facebook.com/niimodo/)*</span><span>MC-ing Kadima’s annual Purim party as Brief, with [The Debaucherauntes](https://www.facebook.com/thedebaucherauntes/) and Shpilkis</span></li>
+<li><span>**Sat Mar 3, 2018**</span><span>*[Nii Modo Gallery](https://www.facebook.com/niimodo/)*</span><span>MC-ing Kadima’s annual Purim party as a duo, with [The Debaucherauntes](https://www.facebook.com/thedebaucherauntes/) and Shpilkis</span></li>
 <li><span>**Sat Jan 20, 2018**</span><span>*House show, Udistrict - message for address*</span><span>With Sonya &amp; [Brian](http://www.countercurrentmusic.com/) and <a href='http://sarahshay.com'>Sarah Shay</a></span></li>
-<li><span>**Tue Jan 16, 2018**</span><span>*[The Good Egg](https://www.goodeggbi.com/)*</span><span>Playing as Brief for MOX: an Eastern Bloc Party, menu by [Mossback](http://www.mossbackcafe.com/new-index)</span></li>
+<li><span>**Tue Jan 16, 2018**</span><span>*[The Good Egg](https://www.goodeggbi.com/)*</span><span>Playing as a duo for MOX: an Eastern Bloc Party, menu by [Mossback](http://www.mossbackcafe.com/new-index)</span></li>
 </ul>
 </div>
 

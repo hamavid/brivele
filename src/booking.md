@@ -26,4 +26,11 @@ A few things to note:</br>
 <span class='larr'><i class="fa fa-angle-left fa-2x"></i></span>
 <span class='rarr'><i class="fa fa-angle-right fa-2x"></i></span>
 </div>
+<br/><br/>
+
+<h3>Tech Specs</h3>
+<div class='photo'>
+<figure id='stageplot'><a href='../images/stageplot.jpg'><img src='../images/stageplot.jpg' alt='stage plot'></a></figure>
+</div>
+
 

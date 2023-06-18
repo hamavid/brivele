@@ -29,10 +29,10 @@ $(document).ready(function(){
       if (nextindex < 0) {var nextindex = photodict['misc'].length-1;}
       var nextphoto = photodict['misc'][nextindex];
       //remove extra photos
-  	  $('figure img').remove();
+  	  $('#photoelement>img').remove();
       // repopulate elements
       //$('#photoelement').attr('src').replace('../images/bandpix/lowfi'+photo,'../images/bandpix/lowfi/'+nextphoto);
-      $('figure').prepend($('<img/>').attr('src','../images/bandpix/lowfi/'+nextphoto));
+      $('#photoelement').prepend($('<img/>').attr('src','../images/bandpix/lowfi/'+nextphoto));
       //$('#photoelement').prepend($('<source/>').attr('src','../images/bandpix/lowfi/'+nextphoto));
       getfullres(nextphoto);
       //$('.vidattrib').html(miscvideo[nextphoto]);
@@ -53,7 +53,7 @@ $(document).ready(function(){
 
  // open full-res image in a new tab when '#getfullres' element is clicked (for promo photo album ONLY)
   function getfullres(picname) {
-      var nowshowing = $('figure img').attr('src').replace('lowfi','hifi');
+      var nowshowing = $('#photoelement>img').attr('src').replace('lowfi','hifi');
       var link = $('#getfullres>span>a');
       link.attr('download', 'brivele-'+picname);
       link.attr('href',nowshowing);
