@@ -5,6 +5,7 @@ title: Links
 ---
 <div id="linklist">
 		<ul>
+			<a href='https://mailchi.mp/c8d961b34278/nyc-philly-boston-montreal-oh-my'><li>East Coast 2023</li></a>
 			<a href='https://youtu.be/uKQvfM3zydo'><li>The 9th of January</li></a>
 			<a href='https://on.soundcloud.com/tSqDw'><li>Folklife 2022</li></a>
 			<a href='https://www.youtube.com/watch?v=noIth4N2kEg&themeRefresh=1'><li>Music of the Red Scare</li></a>
