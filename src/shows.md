@@ -9,7 +9,7 @@ title: Shows
 ## Upcoming shows
 <ul class='showslist'>
 <!--<p class='follow'>Check back here for summer tour and local fall shows.<br>Be well and take care of each other!</p>-->
-<li><span>**Tue Aug 15, 2023**</span><span>*BROOKLYN, NY: [Jalopy Theater](http://jalopytheatre.org/)*</span><span>With [Levoneh](https://levoneh.bandcamp.com/music), as a duo</span></li>
+<li><span>**Tue Aug 15, 2023**</span><span>*BROOKLYN, NY: [Jalopy Theater](http://jalopytheatre.org/)*</span><span>With [Levoneh](https://levoneh.bandcamp.com/music), as a duo, [TICKETS](https://www.viewcy.com/e/brivele__levoneh)</span></li>
 <li><span>**Wed Aug 16, 2023**</span><span>*PHILADELPHIA, PA: Backyard show, [928 S 49th St](https://goo.gl/maps/fMAe1RF1gLKThwRz7)*</span><span>With [Levoneh](https://levoneh.bandcamp.com/music), as a duo</span></li>
 <li><span>**Fri Aug 18, 2023**</span><span>*SOMERVILLE, MA: [The Caf&eacute; at The Armory](https://artsatthearmory.org/cafe/)*</span><span>With [Levyosn](https://borschtbeat.bandcamp.com/album/levyosns-lullaby) and [Levoneh](https://levoneh.bandcamp.com/music)</span></li>
 <li><span>**Tue Aug 22, 2023**</span><span>*MONTREAL, QC: [5074 Rue de Mentana](https://goo.gl/maps/EefkASQdr4Q2) (aka The Riot)*</span><span>Klezmer at The Riot 5.0, with [Levyosn](https://borschtbeat.bandcamp.com/album/levyosns-lullaby) and [Levoneh](https://levoneh.bandcamp.com/music), as a duo</span></li>

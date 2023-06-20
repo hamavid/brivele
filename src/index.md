@@ -41,14 +41,14 @@ outdirs: '.'
 </div><!--End mc_embed_signup-->
 <div class='reviews'>
 <p>
-I remember exactly where I was when I first heard “Hunting Season” off of Brivele’s latest harmonically complex, wildly imaginative, future-building album, <em>Cradle Songs, Grave Songs.</em> Taking poet Aurora Levins Morales’s task of “imagine winning” to heart, this latest collection from Brivele sings the past out of the archive and into the streets to fight, to struggle, to laugh, to mourn . . . [(Read More)](./news#zeydi)<br/><br/>
+I remember exactly where I was when I first heard “Hunting Season” off of Brivele’s latest harmonically complex, wildly imaginative, future-building album, <em>Cradle Songs, Grave Songs.</em> Taking poet Aurora Levins Morales’s task of “imagine winning” to heart, this latest collection from Brivele sings the past out of the archive and into the streets to fight, to struggle, to laugh, to mourn . . . [(Read More)](./press#zeydi)<br/><br/>
 <span class='reviewer'>&mdash;Ozzy Irving Gold-Shapiro, Yiddish raconteur, archival tinkerer, and 1/6 of <a href='https://www.burikes.com/'>Burikes</a>, May 2021</span>
 </p>
 <!--<p>. . . these people are intent on creating a body of work that will stand as an important part of the story of the long line of Jews, going back to the Bund and beyond, who made and make anti-capitalist, anti-patriarchy, anti-white supremacy, anti-Zionist, anti-boring new culture, culture that brings people together and warms them, to make them feel less alone when things are tough . . . [(Read More)](./news#geoff2)<br/><br/>
 <span class='reviewer'>&mdash;Geoff Berner, singer/songwriter/novelist</span>
 </p>-->
 <p>
-. . . Brivele's gift as a band is their ability to go between the dark and the light, the serious and the witty, all with a deep sense of tradition, and abandon of tradition.  In that way, they are the quintessential Klezmer Band (even if they would never describe themselves as such) . . . [(Read More)](./news#winograd)<br/><br/> 
+. . . Brivele's gift as a band is their ability to go between the dark and the light, the serious and the witty, all with a deep sense of tradition, and abandon of tradition.  In that way, they are the quintessential Klezmer Band (even if they would never describe themselves as such) . . . [(Read More)](./press#winograd)<br/><br/> 
 <span class='reviewer'>&mdash;Michael Winograd, Brooklyn, May 2021</span>
 </p>
 <!--<p>
