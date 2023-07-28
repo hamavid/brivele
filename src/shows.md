@@ -9,11 +9,12 @@ title: Shows
 ## Upcoming shows
 <ul class='showslist'>
 <!--<p class='follow'>Check back here for summer tour and local fall shows.<br>Be well and take care of each other!</p>-->
+<li><span>**Sun Aug 6, 2023, 7pm**</span><span>*Maia's backyard at 8th Ave NE &amp; 55th - message for address*</span><span>[Levoneh](https://levoneh.bandcamp.com/music)-Brief tour send-off show</span></li>
 <li><span>**Tue Aug 15, 2023**</span><span>*BROOKLYN, NY: [Jalopy Theater](http://jalopytheatre.org/)*</span><span>With [Levoneh](https://levoneh.bandcamp.com/music), as a duo, [TICKETS](https://www.viewcy.com/e/brivele__levoneh)</span></li>
 <li><span>**Wed Aug 16, 2023**</span><span>*PHILADELPHIA, PA: Backyard show, [928 S 49th St](https://goo.gl/maps/fMAe1RF1gLKThwRz7)*</span><span>With [Dot Levine](https://www.dotlevine.com/) and [Levoneh](https://levoneh.bandcamp.com/music), as a duo</span></li>
 <li><span>**Thu Aug 17, 2023**</span><span>*NEW HAVEN, CT: [Neverending Books](https://neverendingbooks.net/), [810 State St](https://goo.gl/maps/pRQp1XJyy26Sse8w9)*</span><span>With TBA and [Levoneh](https://levoneh.bandcamp.com/music), as a duo</span></li>
 <li><span>**Fri Aug 18, 2023**</span><span>*SOMERVILLE, MA: [The Caf&eacute; at The Armory](https://artsatthearmory.org/cafe/)*</span><span>With [Levyosn](https://borschtbeat.bandcamp.com/album/levyosns-lullaby) and [Levoneh](https://levoneh.bandcamp.com/music)</span></li>
-<li><span>**Mon Aug 21, 2023**</span><span>*WESTERN MASS: (location TBA)*</span><span>With [Burikes](https://www.burikes.com/) and [Levoneh](https://levoneh.bandcamp.com/music)</span></li>
+<li><span>**Mon Aug 21, 2023**</span><span>*SOUTHAMPTON, MA: (location TBA)*</span><span>With [Burikes](https://www.burikes.com/) and [Levoneh](https://levoneh.bandcamp.com/music)</span></li>
 <li><span>**Tue Aug 22, 2023**</span><span>*MONTREAL, QC: [5074 Rue de Mentana](https://goo.gl/maps/EefkASQdr4Q2) (aka The Riot)*</span><span>Klezmer at The Riot 5.0, with [Levyosn](https://borschtbeat.bandcamp.com/album/levyosns-lullaby) and [Levoneh](https://levoneh.bandcamp.com/music), as a duo</span></li>
 <li><span>**Sat Sep 23, 2023**</span><span>*[Phinney Center Concert Hall](https://goo.gl/maps/MmJsmxuyaAM2), Brick Building*</span><span>With Varda, [TICKETS](https://www.seafolklore.org/events/brivele-varda-klezmer-music-and-more/)</span></li>
 </ul>
