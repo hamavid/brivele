@@ -10,6 +10,7 @@ title: Shows
 <ul class='showslist'>
 <!--<p class='follow'>Check back here for summer tour and local fall shows.<br>Be well and take care of each other!</p>-->
 <li><span>**Sat Sep 23, 2023**</span><span>*[Phinney Center Concert Hall](https://goo.gl/maps/MmJsmxuyaAM2), Brick Building*</span><span>With [Tzepl](https://www.youtube.com/watch?v=T0QRGXdh980). [TICKETS](https://www.seafolklore.org/events/brivele-varda-klezmer-music-and-more/)</span></li>
+<li><span>**Nov 3-4, 2023**</span><span>*PORTLAND, OR*</span><span>[Portland Klezmer Festival](https://bubbaville.org/klezmer/) (details TBA)</span></li>
 </ul>
 
 
