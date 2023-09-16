@@ -7,8 +7,13 @@ title: Press
 We are grateful for the generous things so many lovely people have said about our music!
 <br/><br/>
 https://www.kuow.org/stories/soundside-goes-live-modern-creators
+https://www.newhavenarts.org/arts-paper/articles/radical-klezmer-fills-volume-two
 -->
 <div class='reviews'>
+<p class='imgrev'>
+_Kapp Singer graced us with this write-up in the New Haven Arts Paper after we played at Neverending Books Volume Two in Aug, 2023. [Read the article here](https://www.newhavenarts.org/arts-paper/articles/radical-klezmer-fills-volume-two)._<br/><br/>
+<a href='https://www.newhavenarts.org/arts-paper/articles/radical-klezmer-fills-volume-two'><img src='../images/news/volumetwo.png' width='500px'></a>
+</p>
 <p class='imgrev'>
 _We were included in this round-up of Yiddish music by Rokhl Kafrissen with lovely things to say about our EP, 'What Joy is Yours', plus an abundance of other happenings in the world of Yiddish and klezmer. [Read the article here](https://www.tabletmag.com/sections/community/articles/joy-of-summer-yiddish-music)._<br/><br/>
 <a href='https://www.tabletmag.com/sections/community/articles/joy-of-summer-yiddish-music'><img src='../images/news/Rokhl2.png' width='500px'></a>
