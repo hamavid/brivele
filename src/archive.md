@@ -8,8 +8,8 @@ title: Archive
 ## Newsletter Archive
 
 <p class="joinup"><a href='https://brivele.us19.list-manage.com/subscribe?u=0eba332778a4c9bc308cd72b1&id=cb8f6ec040'>join our mailing list</a></p>
-
 <ul class='showslist'>
+<li><span>09/18/23 - </span><span>[One-er, Tour, Three-er... recap! And PNW shows](https://mailchi.mp/58d8ed1ffde1/one-er-tour-three-er-recap-and-pnw-shows)</span></li>
 <li><span>07/30/23 - </span><span>[Coasts, Toasts, Tours](https://mailchi.mp/16ff33f0102e/coasts-toasts-tours)</span></li>
 <li><span>06/19/23 - </span><span>[NYC, Philly, Boston, Montreal, oh my!](https://mailchi.mp/c8d961b34278/nyc-philly-boston-montreal-oh-my)</span></li>
 <li><span>05/07/23 - </span><span>[Backyard show, Folkpunklife, picnicks and nitpicks](https://mailchi.mp/e44f32a7ae14/backyard-show-folkpunklife-picnicks-and-nitpicks)</span></li>
