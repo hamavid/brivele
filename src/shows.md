@@ -9,13 +9,14 @@ title: Shows
 ## Upcoming shows
 <ul class='showslist'>
 <!--<p class='follow'>Check back here for summer tour and local fall shows.<br>Be well and take care of each other!</p>-->
-<li><span>**Sat Sep 23, 2023**</span><span>*[Phinney Center Concert Hall](https://goo.gl/maps/MmJsmxuyaAM2), Brick Building*</span><span>With [Tzepl](https://www.youtube.com/watch?v=T0QRGXdh980). [TICKETS](https://www.seafolklore.org/events/brivele-varda-klezmer-music-and-more/)</span></li>
-<li><span>**Nov 3-4, 2023**</span><span>*PORTLAND, OR*</span><span>[Portland Klezmer Festival](https://bubbaville.org/klezmer/) (details TBA)</span></li>
+<li><span>**Nov 3, 2023**</span><span>*PORTLAND, OR*</span><span>[Portland Klezmer Festival](https://bubbaville.org/klezmer/)</span></li>
 </ul>
 
 
 ## Past shows
-<ul class='showslist'><li><span>**Tue Aug 22, 2023**</span><span>*MONTREAL, QC: [5074 Rue de Mentana](https://goo.gl/maps/EefkASQdr4Q2) (aka The Riot)*</span><span>Klezmer at The Riot 5.0, with [Levyosn](https://borschtbeat.bandcamp.com/album/levyosns-lullaby) and [Levoneh](https://levoneh.bandcamp.com/music), as a duo. [FB event](https://www.facebook.com/events/607946154775639).</span></li>
+<ul class='showslist'>
+<li><span>**Sat Sep 23, 2023**</span><span>*[Phinney Center Concert Hall](https://goo.gl/maps/MmJsmxuyaAM2), Brick Building*</span><span>With [Tzepl](https://www.youtube.com/watch?v=T0QRGXdh980). [TICKETS](https://www.seafolklore.org/events/brivele-varda-klezmer-music-and-more/)</span></li>
+<li><span>**Tue Aug 22, 2023**</span><span>*MONTREAL, QC: [5074 Rue de Mentana](https://goo.gl/maps/EefkASQdr4Q2) (aka The Riot)*</span><span>Klezmer at The Riot 5.0, with [Levyosn](https://borschtbeat.bandcamp.com/album/levyosns-lullaby) and [Levoneh](https://levoneh.bandcamp.com/music), as a duo. [FB event](https://www.facebook.com/events/607946154775639).</span></li>
 <li><span>**Mon Aug 21, 2023**</span><span>*SOUTHAMPTON, MA: The Ethel Barn, [60 High St.](https://goo.gl/maps/7kZXZC48PjEdhagE8)*</span><span>With [Burikes](https://www.burikes.com/) and [Levoneh](https://levoneh.bandcamp.com/music). [FB event](https://www.facebook.com/events/278166751476114).</span></li>
 <li><span>**Fri Aug 18, 2023**</span><span>*SOMERVILLE, MA: [The Caf&eacute; at The Armory](https://artsatthearmory.org/cafe/)*</span><span>With [Levyosn](https://borschtbeat.bandcamp.com/album/levyosns-lullaby) and [Levoneh](https://levoneh.bandcamp.com/music). [More info](https://artsatthearmory.org/events/brivele-levyosn-levoneh/).</span></li>
 <li><span>**Thu Aug 17, 2023**</span><span>*NEW HAVEN, CT: [Neverending Books](https://neverendingbooks.net/), [810 State St](https://goo.gl/maps/pRQp1XJyy26Sse8w9)*</span><span>With [Dr.Caterwaul's Cadre of Clairvoyant Claptraps](https://www.drcaterwauls.com/), and [Levoneh](https://levoneh.bandcamp.com/music), as a duo. [FB event](https://www.facebook.com/events/604759274843067).</span></li>
