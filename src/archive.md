@@ -9,6 +9,7 @@ title: Archive
 
 <p class="joinup"><a href='https://brivele.us19.list-manage.com/subscribe?u=0eba332778a4c9bc308cd72b1&id=cb8f6ec040'>join our mailing list</a></p>
 <ul class='showslist'>
+<li><span>10/16/23 - </span><span>[To honor all the dead we must stop this next catastrophe](https://mailchi.mp/769762aefc74/to-honor-all-the-dead-we-must-stop-this-next-catastrophe)</span></li>
 <li><span>09/18/23 - </span><span>[One-er, Tour, Three-er... recap! And PNW shows](https://mailchi.mp/58d8ed1ffde1/one-er-tour-three-er-recap-and-pnw-shows)</span></li>
 <li><span>07/30/23 - </span><span>[Coasts, Toasts, Tours](https://mailchi.mp/16ff33f0102e/coasts-toasts-tours)</span></li>
 <li><span>06/19/23 - </span><span>[NYC, Philly, Boston, Montreal, oh my!](https://mailchi.mp/c8d961b34278/nyc-philly-boston-montreal-oh-my)</span></li>
