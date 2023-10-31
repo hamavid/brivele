@@ -9,7 +9,7 @@ title: Shows
 ## Upcoming shows
 <ul class='showslist'>
 <!--<p class='follow'>Check back here for summer tour and local fall shows.<br>Be well and take care of each other!</p>-->
-<li><span>**Fri Nov 3, 2023**</span><span>*PORTLAND, OR*</span><span>[Portland Klezmer Festival](https://bubbaville.org/klezmer/)</span></li>
+<li><span>**Sat Nov 4, 2023**</span><span>*PORTLAND, OR*</span><span>[Portland Klezmer Festival](https://bubbaville.org/klezmer/)</span></li>
 <li><span>**Wed Nov 8, 2023**</span><span>*House show, Crown Hill - message for address*</span><span>With [Red Thread](https://www.redthreadsings.com/)</span></li>
 <li><span>**Sun Nov 12, 2023**</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>ONE SONG ONLY, at [Klezmer Starts Here!: Music from Yiddish Film &amp; Theatre](https://theroyalroomseattle.com/event/klezmer-starts-here-music-from-yiddish-film-theatre/)</span></li>
 </ul>
