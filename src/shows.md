@@ -9,14 +9,14 @@ title: Shows
 ## Upcoming shows
 <ul class='showslist'>
 <!--<p class='follow'>Check back here for summer tour and local fall shows.<br>Be well and take care of each other!</p>-->
-<li><span>**Sat Nov 4, 2023**</span><span>*PORTLAND, OR*</span><span>[Portland Klezmer Festival](https://bubbaville.org/klezmer/), as a duo</span></li>
-<li><span>**Wed Nov 8, 2023**</span><span>*House show, Crown Hill - message for address*</span><span>With [Red Thread](https://www.redthreadsings.com/)</span></li>
+<li><span>**Wed Nov 8, 2023**</span><span>*House show, Crown Hill - message for address*</span><span>With [Red Thread](https://www.redthreadsings.com/). [More info here.](https://www.facebook.com/events/6790258187721164)</span></li>
 <li><span>**Sun Nov 12, 2023**</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>ONE SONG ONLY, at [Klezmer Starts Here!: Music from Yiddish Film &amp; Theatre](https://theroyalroomseattle.com/event/klezmer-starts-here-music-from-yiddish-film-theatre/)</span></li>
 </ul>
 
 
 ## Past shows
 <ul class='showslist'>
+<li><span>**Sat Nov 4, 2023**</span><span>*PORTLAND, OR*</span><span>[Portland Klezmer Festival](https://bubbaville.org/klezmer/), as a duo</span></li>
 <li><span>**Sat Sep 23, 2023**</span><span>*[Phinney Center Concert Hall](https://goo.gl/maps/MmJsmxuyaAM2), Brick Building*</span><span>With [Tzepl](https://www.youtube.com/watch?v=T0QRGXdh980). [TICKETS](https://www.seafolklore.org/events/brivele-varda-klezmer-music-and-more/)</span></li>
 <li><span>**Tue Aug 22, 2023**</span><span>*MONTREAL, QC: [5074 Rue de Mentana](https://goo.gl/maps/EefkASQdr4Q2) (aka The Riot)*</span><span>Klezmer at The Riot 5.0, with [Levyosn](https://borschtbeat.bandcamp.com/album/levyosns-lullaby) and [Levoneh](https://levoneh.bandcamp.com/music), as a duo. [FB event](https://www.facebook.com/events/607946154775639).</span></li>
 <li><span>**Mon Aug 21, 2023**</span><span>*SOUTHAMPTON, MA: The Ethel Barn, [60 High St.](https://goo.gl/maps/7kZXZC48PjEdhagE8)*</span><span>With [Burikes](https://www.burikes.com/) and [Levoneh](https://levoneh.bandcamp.com/music). [FB event](https://www.facebook.com/events/278166751476114).</span></li>
