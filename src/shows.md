@@ -3,19 +3,19 @@ layout: page.html
 outdirs: '..'
 title: Shows
 ---
-<p class='follow'>Follow us on <a href='https://www.facebook.com/brivele/'>Facebook</a> or <a href='https://www.instagram.com/brivelemusic/'>Instagram</a><br>Or sign up for our <a href='../#mc_anchor'>mailing list</a> to hear (occasionally) about shows and news!</p>
+<p class='follow'>Follow us on <a href='https://www.facebook.com/brivele/'>Facebook</a> or <a href='https://www.instagram.com/brivelemusic/'>Instagram</a><br>Or sign up for our <a href='../#mc_anchor'>mailing list</a> to hear (occasionally) about shows and news!</p><br/>
 <!--<p class='follow'>Past shows that were streamed online and recorded can be watched via links below, or enjoyed via YouTube playlists: We have a collection of <a href='https://www.youtube.com/playlist?list=PLlvwhydanVuwD5s_U6Foj_7iVgFIKlRV3'>virtual events</a> we've been part of, as well as our <a href='https://www.youtube.com/playlist?list=PLlvwhydanVuyomfozpxCBh15x4qLSHX9J'>Phase II Sessions</a> for more music-video-style pandemic performances.</p><br/>-->
 
 ## Upcoming shows
 <ul class='showslist'>
-<!--<p class='follow'>Check back here for summer tour and local fall shows.<br>Be well and take care of each other!</p>-->
-<li><span>**Wed Nov 8, 2023**</span><span>*House show, Crown Hill - message for address*</span><span>With [Red Thread](https://www.redthreadsings.com/). [More info here.](https://www.facebook.com/events/6790258187721164)</span></li>
-<li><span>**Sun Nov 12, 2023**</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>ONE SONG ONLY, at [Klezmer Starts Here!: Music from Yiddish Film &amp; Theatre](https://theroyalroomseattle.com/event/klezmer-starts-here-music-from-yiddish-film-theatre/)</span></li>
+<p class='follow'>Check back here for spring shows.<br>Be well and take care of each other!</p>
 </ul>
 
 
 ## Past shows
 <ul class='showslist'>
+<li><span>**Sun Nov 12, 2023**</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>ONE SONG ONLY, at [Klezmer Starts Here!: Music from Yiddish Film &amp; Theatre](https://theroyalroomseattle.com/event/klezmer-starts-here-music-from-yiddish-film-theatre/)</span></li>
+<li><span>**Wed Nov 8, 2023**</span><span>*House show, Crown Hill - message for address*</span><span>With [Red Thread](https://www.redthreadsings.com/). [More info here.](https://www.facebook.com/events/6790258187721164)</span></li>
 <li><span>**Sat Nov 4, 2023**</span><span>*PORTLAND, OR*</span><span>[Portland Klezmer Festival](https://bubbaville.org/klezmer/), as a duo</span></li>
 <li><span>**Sat Sep 23, 2023**</span><span>*[Phinney Center Concert Hall](https://goo.gl/maps/MmJsmxuyaAM2), Brick Building*</span><span>With [Tzepl](https://www.youtube.com/watch?v=T0QRGXdh980). [TICKETS](https://www.seafolklore.org/events/brivele-varda-klezmer-music-and-more/)</span></li>
 <li><span>**Tue Aug 22, 2023**</span><span>*MONTREAL, QC: [5074 Rue de Mentana](https://goo.gl/maps/EefkASQdr4Q2) (aka The Riot)*</span><span>Klezmer at The Riot 5.0, with [Levyosn](https://borschtbeat.bandcamp.com/album/levyosns-lullaby) and [Levoneh](https://levoneh.bandcamp.com/music), as a duo. [FB event](https://www.facebook.com/events/607946154775639).</span></li>
