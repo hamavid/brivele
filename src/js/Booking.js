@@ -19,7 +19,8 @@ $(document).ready(function(){
 // SLIDESHOWS
   // Create a dictionary of img file names
 	var photodict = {};
-  	photodict['misc'] = ['tea.JPG', 'sketch3.JPG', 'closeinstrumentscolor.JPG', 'brivele-debut.jpg', 'brief-horiz.jpg', 'brief-tallgrass.jpg','brief-field.jpg','brief-corner.jpg'];
+  	//photodict['misc'] = ['tea.JPG', 'sketch3.JPG', 'closeinstrumentscolor.JPG', 'brivele-debut.jpg', 'brief-horiz.jpg', 'brief-tallgrass.jpg','brief-field.jpg','brief-corner.jpg'];
+    photodict['misc'] = ['brief-corner.jpg', 'brief-horiz.jpg', 'brief-tallgrass.jpg','brief-field.jpg'];
 
   	// photo iteration functions
     function photoscroll(photo, direction) {

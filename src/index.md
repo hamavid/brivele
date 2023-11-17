@@ -4,8 +4,9 @@ outdirs: '.'
 ---
 <!--<div><p class='follow' style='font-size:1.3em;'>Listen to our new EP, <i><a href='https://brivele.bandcamp.com/album/what-joy-is-yours'>What Joy is Yours</a></i> today.</p></div>-->
 <div id='blurb' class='clearfix'>
-<figure><img id='' src='../images/bandpix/lowfi/sketch3 small.png' width='350px'><figcaption>Photo by Caitlin Palo</figcaption></figure>
-<p style='font-size:1.1em;'>**Brivele is a Seattle-based trio who braid together Yiddish song, anti-fascist and labor balladry, folk-punk, and contemporary rabble-rousing in three part harmony.**</p>
+<!--<figure><img id='' src='../images/bandpix/lowfi/sketch3 small.png' width='350px'><figcaption>Photo by Caitlin Palo</figcaption></figure>-->
+<figure><img id='' src='../images/bandpix/lowfi/brief-horiz.jpg' width='350px'><figcaption>Photo by Hannah Hamavid</figcaption></figure>
+<p style='font-size:1.1em;'>**Brivele is a Seattle-based ensemble who braid together Yiddish song, anti-fascist and labor balladry, folk-punk, and contemporary rabble-rousing in stirring vocal harmony.**</p>
 <p>In Yiddish, Brivele (בריוועלע) means "little letter." Like letters, songs travel — through time and over borders. They pick up dirt, aromas, fingerprints. They are sent to lovers, they foment revolution, they get stolen and censored, burned and salvaged, sewn into our clothes.</p>
 <p>We journey into the archives of Yiddish anti-fascist musical tradition, bringing together anti-authoritarian satire, mournful remembrances, and the disguised political commentary in folk ditties and theater classics. These songs are a correspondence: our ancestors' voices speak clearly and uncompromisingly, sometimes sweetly, to our present moment.</p>
 <p>We are discontented, sometimes silly, rarely slick, always cheeky. We draw from a long tradition of Diaspora-proud struggle. We sing in Yiddish because sometimes Yiddish says it best, and because we are the great-grandchildren of Yiddish, so it tastes familiar and unfamiliar at once.  We sing it like the mixed-up, impure Yids we are and strive to be.</p>
