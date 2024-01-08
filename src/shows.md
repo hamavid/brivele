@@ -8,11 +8,15 @@ title: Shows
 
 ## Upcoming shows
 <ul class='showslist'>
-<p class='follow'>Check back here for spring shows.<br>Be well and take care of each other!</p>
+<!--<p class='follow'>Check back here for spring shows.<br>Be well and take care of each other!</p>-->
+<li><span>**Sat Jan 27, 2024**</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>[Dear Memphis](https://riverriverbooks.org/store/Preorder-Dear-Memphis-by-Rachel-Edelman-p600079506) launch party. [TICKETS](https://www.strangertickets.com/events/144511148/rachel-edelman-dear-memphis-book-launch-party)</span></li>
+<li><span>**Sat Feb 3, 2024**</span><span>*VANCOUVER, BC: details TBA*</span><span>Fundraiser for Gazan families, with Jess Goldman &amp; Sasha Langford </span></li>
 </ul>
 
 
 ## Past shows
+<div id='s2023'>
+<h2><i class="fa fa-caret-right fa-lg"></i>2023</h2>
 <ul class='showslist'>
 <li><span>**Sun Nov 12, 2023**</span><span>*[The Royal Room](http://theroyalroomseattle.com/)*</span><span>ONE SONG ONLY, at [Klezmer Starts Here!: Music from Yiddish Film &amp; Theatre](https://theroyalroomseattle.com/event/klezmer-starts-here-music-from-yiddish-film-theatre/)</span></li>
 <li><span>**Wed Nov 8, 2023**</span><span>*House show, Crown Hill - message for address*</span><span>With [Red Thread](https://www.redthreadsings.com/). [More info here.](https://www.facebook.com/events/6790258187721164)</span></li>
@@ -33,6 +37,7 @@ title: Shows
 <li><span>**Thu Mar 30, 2023**</span><span>*Private Event*</span><span>The Summit</span></li>
 <li><span>**Mon Jan 9, 2023**</span><span>*[Left Bank Books](http://www.leftbankbooks.com/)*</span><span>Frank Krasnowsky Yahrzeit show, with Kesselgarden, Sunga Rose, Peter Lippman and more. You can also [watch on Zoom](https://us02web.zoom.us/j/86019432461) (meeting ID: 860 1943 2461)</span></li>
 </ul>
+</div>
 
 <div id='s2022'>
 <h2><i class="fa fa-caret-right fa-lg"></i>2022</h2>
