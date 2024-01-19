@@ -9,6 +9,7 @@ title: Archive
 
 <p class="joinup"><a href='https://brivele.us19.list-manage.com/subscribe?u=0eba332778a4c9bc308cd72b1&id=cb8f6ec040'>join our mailing list</a></p>
 <ul class='showslist'>
+<li><span>01/08/24 - </span><span>[this letter &amp; letters to come](https://mailchi.mp/cda34bb3e91f/btc9mznbvl)</span></li>
 <li><span>10/31/23 - </span><span>[Correction - Nov 4th in PDX. Re:3 shows + support Gazan families](https://mailchi.mp/f1a5d266b038/correction-nov-4th-in-pdx-re-3-shows-support-gazan-families)</span></li>
 <li><span>10/31/23 - </span><span>[3 shows + support Gazan families](https://mailchi.mp/510aab4a9953/3-shows-support-gazan-families)</span></li>
 <li><span>10/16/23 - </span><span>[To honor all the dead we must stop this next catastrophe](https://mailchi.mp/769762aefc74/to-honor-all-the-dead-we-must-stop-this-next-catastrophe)</span></li>
