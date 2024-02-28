@@ -8,7 +8,8 @@ title: Shows
 
 ## Upcoming shows
 <ul class='showslist'>
-<p class='follow'>Check back here for spring shows.<br>Be well and take care of each other!</p>
+<!--<p class='follow'>Check back here for spring shows.<br>Be well and take care of each other!</p>-->
+<li><span>**Wed Mar 6 - Sun Mar 10, 2024**</span><span>*[Seattle Yiddish Fest](https://www.seattleyiddishfest.com/venues)*</span><span>Performing and leading workshops, [Schedule and tickets here](https://www.seattleyiddishfest.com/services-1)</span></li>
 </ul>
 
 
