@@ -10,6 +10,7 @@ title: Shows
 <ul class='showslist'>
 <!--<p class='follow'>Check back here for spring shows.<br>Be well and take care of each other!</p>-->
 <li><span>**Sun May 19, 2024**</span><span>*[Town Hall Seattle](https://maps.app.goo.gl/fVAQ2ZvYJiTDnJp2A)*</span><span>Storytelling-lecture-concert #2, with comrades. [More info](https://townhallseattle.org/)</span></li>
+<li><span>**Sat May 25, 2024, 7:15-8pm**</span><span>*Seattle Center, [Welcome Stage](https://www.nwfolklife.org/festival/)*</span><span>[Northwest Folklife Festival](https://www.nwfolklife.org/festival/), Artists at Play</span></li>
 <li><span>**Wed Jul 17, 2024**</span><span>*Maia's house at 8th Ave NE &amp; 55th - message for address*</span><span>With [Countercurrent](https://countercurrentmusic.com/) and [Dear Crow](https://dearcrowmusic.com/)</span></li>
 </ul>
 
