@@ -9,14 +9,14 @@ title: Shows
 ## Upcoming shows
 <ul class='showslist'>
 <!--<p class='follow'>Check back here for spring shows.<br>Be well and take care of each other!</p>-->
-<li><span>**Sun May 19, 2024**</span><span>*[Town Hall Seattle](https://maps.app.goo.gl/fVAQ2ZvYJiTDnJp2A)*</span><span>Storytelling-lecture-concert #2, with comrades. [More info](https://townhallseattle.org/)</span></li>
-<li><span>**Sat May 25, 2024, 7:15-8pm**</span><span>*Seattle Center, [Welcome Stage](https://www.nwfolklife.org/festival/)*</span><span>[Northwest Folklife Festival](https://www.nwfolklife.org/festival/), Artists at Play</span></li>
 <li><span>**Wed Jul 17, 2024**</span><span>*Maia's house at 8th Ave NE &amp; 55th - message for address*</span><span>With [Countercurrent](https://countercurrentmusic.com/) and [Dear Crow](https://dearcrowmusic.com/)</span></li>
 </ul>
 
 
 ## Past shows
 <ul class='showslist'>
+<li><span>**Sat May 25, 2024, 7:15-8pm**</span><span>*Seattle Center, [Welcome Stage](https://www.nwfolklife.org/festival/)*</span><span>[Northwest Folklife Festival](https://www.nwfolklife.org/festival/), Artists at Play</span></li>
+<li><span>**Sun May 19, 2024**</span><span>*[Town Hall Seattle](https://maps.app.goo.gl/fVAQ2ZvYJiTDnJp2A)*</span><span>Storytelling-lecture-concert #2, with comrades. [More info](https://townhallseattle.org/)</span></li>
 <li><span>**Thu May 2, 2024**</span><span>*[ACT Theatre](https://maps.app.goo.gl/akRVKfaxt3FT9hWa7)*</span><span>Opening for opening night of The Lehman Trilogy. [Tickets](https://order.acttheatre.org/the-lehman-trilogy/12278)</span></li>
 <li><span>**CANCELED: Sun Apr 21, 2024**</span><span>*[The Vera Project](https://dice.fm/venue/the-vera-project-wmmg)*</span><span>With Sister Wife Sex Strike and Rent Strike. [Tickets](https://dice.fm/event/bgp5v-sister-wife-sex-strike-and-rent-strike-21st-apr-the-vera-project-seattle-tickets)</span></li>
 <li><span>**Sat Apr 13, 2024**</span><span>*[Town Hall Seattle](https://maps.app.goo.gl/fVAQ2ZvYJiTDnJp2A)*</span><span>Storytelling-lecture-concert #1, with comrades. [More info](https://townhallseattle.org/)</span></li>
